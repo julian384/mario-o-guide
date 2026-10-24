@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the turret north of the arena, where the Moon Rock was. It has a keyhole pedestal.
+2. Follow the trail of hat clouds to a second turret farther north and grab the key.
+3. Bring the key back to the pedestal to unlock the moon.

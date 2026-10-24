@@ -7,9 +7,10 @@ multi: false
 location: "Tree branch near Swamp Hill; stretch with Tropical Wiggler"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Tropical Wiggler"]
+checkpoint: "Swamp Hill"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Swamp Hill checkpoint, capture a Tropical Wiggler.
+2. Stretch up to the tree branch with the moon.

@@ -7,9 +7,10 @@ multi: false
 location: "Beneath stone bridge near kingdom start"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Tropical Wiggler"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start, look under the stone bridge for the moon.
+2. Capture a Tropical Wiggler and stretch up to it.

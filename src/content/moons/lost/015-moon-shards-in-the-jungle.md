@@ -7,9 +7,10 @@ multi: false
 location: "Five shards on tree stumps near Mountainside checkpoint"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Tropical Wiggler"]
+checkpoint: "Mountainside Platform"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Mountainside Platform checkpoint, capture a Tropical Wiggler.
+2. Stretch to each of the five tree stumps on the west side and collect the Moon Shard on each.

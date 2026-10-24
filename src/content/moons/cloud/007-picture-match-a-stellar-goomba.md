@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Picture Match: Basically a Goomba" first.
+2. Play Picture Match again. This time only the outline is shown.
+3. Score at least 80 points.

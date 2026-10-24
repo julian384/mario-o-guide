@@ -8,8 +8,9 @@ location: "Second propeller pillar near Swamp Hill checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Swamp Hill"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Swamp Hill checkpoint, find the propeller-shaped pillars.
+2. The moon sits on top of the second one.

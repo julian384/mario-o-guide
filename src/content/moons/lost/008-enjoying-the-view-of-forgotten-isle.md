@@ -8,8 +8,9 @@ location: "Tree top near Rocky Mountain Summit checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Rocky Mountain Summit"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Rocky Mountain Summit checkpoint, climb the tree.
+2. The moon is at the top.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start, spot the moon behind stone bars.
+2. Ground pound the large stone block next to the cage to open a way in.

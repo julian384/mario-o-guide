@@ -8,8 +8,9 @@ location: "Back of tallest pillar on Swamp Hill staircase"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Swamp Hill"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb the stone staircase that leads up to Swamp Hill.
+2. Check the back of the tallest pillar in the staircase.

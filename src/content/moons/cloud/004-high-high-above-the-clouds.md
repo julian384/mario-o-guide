@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the west side of the arena, ground pound the Hip Drop Move Lift to ride it up.
+2. Throw Cappy at the hat clouds to make platforms and cross them to the moon.

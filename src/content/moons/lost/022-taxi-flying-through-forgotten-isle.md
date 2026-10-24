@@ -7,9 +7,11 @@ multi: false
 location: "Spot the sky taxi with binoculars; it lands on palm"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
+captures: ["Binoculars"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the binoculars next to the Koopa racer.
+2. Zoom in and look north-northeast for the flying taxi.
+3. Once you spot it, the moon drops onto a palm tree nearby.

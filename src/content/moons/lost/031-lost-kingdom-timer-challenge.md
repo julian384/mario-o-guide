@@ -10,6 +10,8 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Throw Cappy at the scarecrow on the southeast corner of the Rocky Mountain.
+2. A path appears back to the southeast peninsula, and a moon appears on a green palm tree northwest of the Odyssey.
+3. Run there and grab it within 10 seconds.

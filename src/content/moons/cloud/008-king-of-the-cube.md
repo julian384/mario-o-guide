@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe in the southwest corner of the arena.
+2. Collect the five Moon Shards around the 8-bit cube.

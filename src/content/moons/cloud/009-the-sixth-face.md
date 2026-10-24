@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the cube area, find the pipe on the bottom face.
+2. Go through to the sixth face and dodge the Fuzzies circling the moon to grab it.

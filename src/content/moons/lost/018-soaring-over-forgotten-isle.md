@@ -7,9 +7,10 @@ multi: false
 location: "Isolated island south of Rocky Mountain Summit, reached by Glydon"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Glydon"]
+checkpoint: "Rocky Mountain Summit"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Rocky Mountain Summit, capture the Glydon.
+2. Glide south to the small island on its own and land by the moon.

@@ -8,8 +8,9 @@ location: "Princess Peach at Rocky Mountain Summit; talk to her"
 unlock: "Available after talking to the Toad outside Peach's Castle"
 tags: [peach]
 captures: []
-checkpoint: null
+checkpoint: "Rocky Mountain Summit"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make sure you have talked to the Toad outside Peach's Castle in the Mushroom Kingdom.
+2. Go to the Rocky Mountain Summit and talk to Peach.

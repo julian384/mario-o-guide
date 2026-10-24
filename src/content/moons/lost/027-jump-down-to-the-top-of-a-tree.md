@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Directly west of Swamp Hill, spot the moon on top of a tree trunk.
+2. Drop onto it from the edge of Swamp Hill, or glide down from the summit as a Glydon.

@@ -7,9 +7,11 @@ multi: false
 location: "Moon Pipe beside the Odyssey leads to obstacle course"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Tropical Wiggler"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe next to the Odyssey.
+2. As a Tropical Wiggler, stretch through the obstacle course. P Switches lower the poison walls for a short time.
+3. Reach the end for the moon.

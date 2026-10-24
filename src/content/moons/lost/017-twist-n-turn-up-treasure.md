@@ -7,9 +7,11 @@ multi: false
 location: "Keyhole on low ledge south of start; Wiggler fetches key"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Tropical Wiggler"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. South of the start, find a low ledge with a keyhole. The key floats over poison water nearby.
+2. Capture a Tropical Wiggler and stretch into the key to grab it.
+3. The keyhole unlocks and the moon appears.

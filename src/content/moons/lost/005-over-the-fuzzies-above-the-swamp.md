@@ -7,9 +7,10 @@ multi: false
 location: "Moving platforms above the swamp near Mountainside checkpoint"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Tropical Wiggler"]
+checkpoint: "Mountainside Platform"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Mountainside Platform checkpoint, capture a Tropical Wiggler.
+2. Stretch across the moving platforms and tree stumps above the swamp to the moon.

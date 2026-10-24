@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the ground-pound switch on the path to the summit, go around the back of the mountain to a hidden cave.
+2. Throw Cappy at every flower sprout inside so they all bloom.

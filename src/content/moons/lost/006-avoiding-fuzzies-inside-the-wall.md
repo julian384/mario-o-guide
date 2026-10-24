@@ -8,8 +8,9 @@ location: "2D area behind red-cap door near Mountainside checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Mountainside Platform"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Mountainside Platform checkpoint, open the red-capped door to find an 8-bit pipe.
+2. In the 2D section, ride the moving platforms while dodging the Fuzzies.

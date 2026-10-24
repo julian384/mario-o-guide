@@ -10,6 +10,8 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. East of the arena, ground pound the Hip Drop Move Lift so it shoots up.
+2. Grab the rainbow treble clef at the top. Twelve notes appear in groups of three at different heights.
+3. Throw Cappy to snag each group as you pass it.

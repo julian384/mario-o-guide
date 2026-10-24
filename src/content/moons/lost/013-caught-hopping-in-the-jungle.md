@@ -8,8 +8,9 @@ location: "Rabbit on first propeller pillar near Swamp Hill"
 unlock: "Available after leaving the Lost Kingdom and returning"
 tags: [rabbit]
 captures: []
-checkpoint: null
+checkpoint: "Swamp Hill"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Leave the Lost Kingdom and come back.
+2. Find the rabbit on the first propeller pillar near Swamp Hill and catch it.
