@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the dog in a space helmet in front of the Crazy Cap shop.
+2. Lead it to the corner near the crater with broken Moon Rocks.
+3. When it digs up a glowing spot, ground pound it.

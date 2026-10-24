@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Sphynx on the right side of the Quiet Wall.
+2. Answer five of its questions correctly.
+
+**Tip:** The answers are "Rocket Flower," "Sheep," "Moon," "Below the bell" and "Floated by airship sail."

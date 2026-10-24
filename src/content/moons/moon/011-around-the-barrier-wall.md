@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Banzai Bill area of the Underground Moon Caverns, go around the second wall.
+2. The moon is behind it.

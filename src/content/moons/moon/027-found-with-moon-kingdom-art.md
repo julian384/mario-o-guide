@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside the Wedding Hall, find the Hint Art on the right wall.
+2. It shows Poochy on a glowing spot in a wall corner by a scarecrow in the Wooded Kingdom.
+3. Go there and ground pound the spot.

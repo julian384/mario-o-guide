@@ -10,6 +10,7 @@ tags: [peach]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to Peach in every other kingdom first.
+2. Climb to the top of the Wedding Hall and talk to Peach next to the bell.

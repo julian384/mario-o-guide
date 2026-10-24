@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Far to the left of the Odyssey, drop to a lower platform with an 8-bit pipe.
+2. Go through the 2D section, avoiding the Fuzzies, to the moon at the end.

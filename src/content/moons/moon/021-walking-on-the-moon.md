@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the big crater with Moon Rock pieces and Moonsnakes, talk to the Koopa Troopa.
+2. Play Koopa Trace-Walking and score 80 points or more.

@@ -7,9 +7,10 @@ multi: false
 location: "Underground Moon Caverns start; move right statue to reveal hole"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Bowser Statue"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the start of the Underground Moon Caverns, capture the Bowser statue on the right.
+2. Move it to uncover a hole with the moon.

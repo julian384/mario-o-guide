@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Walking on the Moon!" first.
+2. Play Koopa Trace-Walking again and score 90 points or more.

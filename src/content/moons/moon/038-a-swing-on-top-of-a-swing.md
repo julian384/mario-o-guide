@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the giant swings area, jump onto the first swing after the second Astro-Lanceur.
+2. Climb onto the swing above it for the moon.

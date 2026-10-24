@@ -7,9 +7,11 @@ multi: false
 location: "Eastern-most platform; capture frog and jump high"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Frog"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the frog near the Wedding Hall.
+2. Go back to the easternmost platform, where a moon floats high up.
+3. Jump up to it as the frog.

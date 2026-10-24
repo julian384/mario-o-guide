@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the Wedding Hall.
+2. Jump into the small hole under the bell. You warp inside.
+3. The moon is on a thin rafter right in front of you.

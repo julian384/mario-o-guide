@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Buy the Doctor Headwear and Doctor Outfit from the Crazy Cap shop and put them on.
+2. Talk to the Shiverian inside the Wedding Hall.

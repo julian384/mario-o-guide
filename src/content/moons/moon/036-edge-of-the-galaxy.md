@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Center of the Galaxy" area, jump from the third moving planet to a thin platform.
+2. Above it, two planets orbit in a circle with the moon in the middle. Jump up to it.

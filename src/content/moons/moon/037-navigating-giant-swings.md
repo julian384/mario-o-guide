@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb the tall cliff far left of the Odyssey, near a rabbit, and take the Moon Pipe.
+2. Cross the giant blue swings while avoiding the Astro-Lanceurs.
+3. Reach the end for the moon.

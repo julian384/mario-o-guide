@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb the tall cliff near the Odyssey and take the Moon Pipe.
+2. Cross the 2D section by hopping between planets with their own gravity as they move along a track.
+3. Reach the end for the moon.

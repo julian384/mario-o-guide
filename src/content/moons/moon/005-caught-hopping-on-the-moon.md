@@ -10,6 +10,7 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the southeast side of the kingdom.
+2. Chase down the rabbit and catch it.

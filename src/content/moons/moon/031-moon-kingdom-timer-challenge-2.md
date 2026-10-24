@@ -8,8 +8,9 @@ location: "Behind Ringing-Bells Plateau checkpoint; scarecrow with Cappy throw"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Ringing-Bells Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Ringing-Bells Plateau checkpoint, throw Cappy onto the scarecrow.
+2. Grab the moon before time runs out.

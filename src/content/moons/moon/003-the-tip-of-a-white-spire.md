@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb onto the Wedding Hall roof and find the thin spire with a glowing spot.
+2. Throw Cappy onto it and let him spin.

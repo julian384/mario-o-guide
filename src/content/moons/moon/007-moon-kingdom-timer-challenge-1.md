@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the far northeast of the first area, drop to a lower platform with a scarecrow.
+2. Throw Cappy onto it and grab the moon before time runs out.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Next to the Odyssey, find the crater.
+2. Jump to find three Hidden Blocks above it.
+3. Climb them. The moon is above the third block.

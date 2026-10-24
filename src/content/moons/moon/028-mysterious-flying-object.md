@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Right of the Wedding Hall, near a ledge, look for a glowing UFO-like creature.
+2. Hit it with Cappy before it flies away.

@@ -10,6 +10,7 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Follow the Desert Wanderer from Tostarena Town to the Metro, Cascade and Luncheon Kingdoms first.
+2. Find them behind the Odyssey in the Moon Kingdom and talk to them.

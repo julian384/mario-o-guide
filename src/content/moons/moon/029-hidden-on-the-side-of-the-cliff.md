@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Sphynx. The moon floats high above it.
+2. Wall jump up the wall, or drop down from the edge near the Ever-After Hill checkpoint.
