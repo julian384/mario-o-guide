@@ -10,6 +10,7 @@ tags: [toadette]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Answer all of the Sphynx's questions correctly three times.
+2. Talk to Toadette in the Mushroom Kingdom to claim the moon.

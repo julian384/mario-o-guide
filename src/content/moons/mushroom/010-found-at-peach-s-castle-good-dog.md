@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the dog and get it to follow you.
+2. Lead it to the top of the small mound southeast of the Odyssey and ground pound where it digs.

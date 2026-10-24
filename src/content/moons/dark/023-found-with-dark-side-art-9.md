@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the right side of the same wall, find the Hint Art of eight columns, the last three broken, with a moon between the last two.
+2. In the Lake Kingdom, go to the Water Plaza Entrance and find the gap where a column is missing.
+3. Ground pound that spot.

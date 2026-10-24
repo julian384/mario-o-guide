@@ -7,9 +7,10 @@ multi: false
 location: "Fill Yoshi's fruit meter again (20 fruits total)"
 unlock: "After Gobbling Fruit with Yoshi"
 tags: []
-captures: []
+captures: ["Yoshi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Gobbling Fruit with Yoshi" first.
+2. Fill Yoshi's meter again, for 20 fruits in total.

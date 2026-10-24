@@ -7,9 +7,11 @@ multi: false
 location: "Alcove behind vegetables, Moon Pipe to bonus area"
 unlock: "After Arrival at Rabbit Ridge!"
 tags: []
-captures: []
+captures: ["Yoshi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind one of the big vegetables, take the Moon Pipe.
+2. This is the same area as the Metro Kingdom's Sherm siege, now with Yoshi and fruit.
+3. As Yoshi, eat fruit until the meter fills.

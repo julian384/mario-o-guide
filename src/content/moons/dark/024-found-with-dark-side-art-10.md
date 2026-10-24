@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind a pile of vegetables on the floor of the fourth part of the main area, find the Hint Art of Poochy digging in the Ruined Kingdom.
+2. Go to that spot in the Ruined Kingdom.
+3. Ground pound that spot.

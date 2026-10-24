@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go into the 8-bit pipe on the side of the well west of the castle.
+2. Run all the way around, grabbing the treble clef and the notes that appear.

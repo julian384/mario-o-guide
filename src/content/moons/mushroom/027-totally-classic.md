@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Put on the Mario 64 Cap and Suit, or the Metal Mario Cap and Suit.
+2. The Toad at the locked door on a hill by Goomba Woods lets you into the castle's back courtyard.
+3. Throw Cappy onto the stone star in the middle of the fountain and let him spin until the moon appears.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go into the back courtyard from "Totally Classic!"
+2. Open the eight chests in this order: middle right of the star, top left, top right, lower left, lower right, middle left, the one on the grass to the southeast, then the one on the grass to the northwest.

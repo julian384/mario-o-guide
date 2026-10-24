@@ -7,9 +7,10 @@ multi: false
 location: "Cappy onto scarecrow northeast of castle; use motor scooter"
 unlock: "Available from arrival"
 tags: [timer-challenge]
-captures: []
+captures: ["Motor scooter"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Throw Cappy onto the scarecrow northeast of the castle.
+2. Ride the motor scooter nearby to reach the moon before it disappears.

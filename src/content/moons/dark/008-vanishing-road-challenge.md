@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Vanishing Road area, take the sharp right onto the thin staircase of falling blocks near the end.
+2. Follow it on foot to the moon.

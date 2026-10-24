@@ -10,6 +10,7 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Follow the Desert Wanderer through the Metro, Cascade, Luncheon and Moon Kingdoms.
+2. Talk to them again in the Mushroom Kingdom.

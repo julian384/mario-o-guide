@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Drop below the binoculars to find the Hint Art of a wooden Shiverian sign with an exclamation mark.
+2. In the Snow Kingdom, go to the Snowline Circuit and climb the wooden arch.
+3. Ground pound that spot.

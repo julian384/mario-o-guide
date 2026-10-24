@@ -10,6 +10,7 @@ tags: [secret-path]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Luncheon Kingdom, jump into the painting to reach Yoshi's House.
+2. Wall jump up the inside of the chimney to the moon.

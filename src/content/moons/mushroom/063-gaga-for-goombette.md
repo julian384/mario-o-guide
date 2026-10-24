@@ -10,6 +10,7 @@ tags: [toadette]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect 5 moons from Goombette.
+2. Talk to Toadette in the Mushroom Kingdom to claim the moon.

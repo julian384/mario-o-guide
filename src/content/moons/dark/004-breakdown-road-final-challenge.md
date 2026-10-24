@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Breakdown Road area, look for the new blocks below the path.
+2. Lure a Banzai Bill across the road so it smashes the blocks in front of the moon.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Pick up the seed next to the lone tree near the sheep pen.
+2. Plant it in one of the flower pots in the garden and wait for it to grow.

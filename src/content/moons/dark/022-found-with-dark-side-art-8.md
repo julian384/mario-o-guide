@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the left side of the wall between the third and fourth parts of the main area, find the Hint Art of Peronza Plaza seen from above.
+2. In the Luncheon Kingdom, find the matching spot next to one of the columns in Peronza Plaza.
+3. Ground pound that spot.

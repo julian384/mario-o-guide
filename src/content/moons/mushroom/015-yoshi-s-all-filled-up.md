@@ -7,9 +7,10 @@ multi: false
 location: "Yoshi eats all 30 fruits in the area"
 unlock: "After Yoshi's Second Helping!"
 tags: []
-captures: []
+captures: ["Yoshi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Yoshi's Second Helping!" first.
+2. Eat all 30 fruits in the area.

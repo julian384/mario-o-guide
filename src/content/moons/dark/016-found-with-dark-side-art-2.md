@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind a vegetable in the bottom part of the main area, find the Hint Art of a helipad with a moon above a yellow shape.
+2. In the Metro Kingdom, warp to the Heliport and find the yellow design next to it.
+3. Ground pound that spot.

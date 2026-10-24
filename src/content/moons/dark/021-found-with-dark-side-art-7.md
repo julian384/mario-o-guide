@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind a pile of vegetables in the third part of the main area, find the Hint Art of a corner in the Lost Kingdom.
+2. In the Lost Kingdom, near the Odyssey, find the corner where the red and dark brown ground meet.
+3. Ground pound that spot.

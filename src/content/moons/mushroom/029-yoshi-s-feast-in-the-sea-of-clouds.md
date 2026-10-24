@@ -7,9 +7,10 @@ multi: false
 location: "Cave warp pipe at river source; Yoshi eats fruit"
 unlock: "Available from arrival"
 tags: []
-captures: []
+captures: ["Yoshi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the source of the river that feeds Mushroom Pond, go into the cave and take the Warp Pipe.
+2. As Yoshi, eat the fruit to make the moon appear.

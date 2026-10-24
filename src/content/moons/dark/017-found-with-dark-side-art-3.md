@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind a vegetable in the bottom part of the main area, find the Hint Art of a big square with two regional coins and a moon on the left.
+2. In the Mushroom Kingdom, find the matching spot in the garden.
+3. Ground pound that spot.

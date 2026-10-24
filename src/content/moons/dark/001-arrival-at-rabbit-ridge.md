@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Work your way up Rabbit Ridge, beating each of the four Broodals on the way.
+2. At the top, take the Warp Pipe and defeat RoboBrood for a Multi Moon.

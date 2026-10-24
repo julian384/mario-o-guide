@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside Peach's Castle, find the Hint Art showing Top-Hat Tower in the Cap Kingdom with the moon in front of it.
+2. Go to Glasses Bridge in the Cap Kingdom and find where the view matches.
+3. Ground pound that spot.

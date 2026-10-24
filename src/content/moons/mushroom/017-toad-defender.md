@@ -7,9 +7,10 @@ multi: false
 location: "Toad guarding near Goomba Woods; approach as Goomba"
 unlock: "Available from arrival"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Toad on guard near Goomba Woods.
+2. Walk up to him as a Goomba to scare him off.

@@ -10,6 +10,7 @@ tags: [toadette]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Finish the story in every kingdom except the Mushroom Kingdom, Dark Side and Darker Side.
+2. Talk to Toadette in the Mushroom Kingdom to claim the moon.

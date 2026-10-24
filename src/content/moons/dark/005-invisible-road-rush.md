@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Drop below the binoculars in the main area and throw Cappy onto the scarecrow to open the door.
+2. It's the Invisible Road from the Wooded Kingdom, but without Cappy.
+3. Avoid the Piranha Plants and poison puddles and reach the end.

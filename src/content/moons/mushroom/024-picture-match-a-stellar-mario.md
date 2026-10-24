@@ -7,9 +7,10 @@ multi: false
 location: "Replay Picture Match; score 80+ points"
 unlock: "After Picture Match: Basically Mario"
 tags: []
-captures: []
+captures: ["Mini Rocket"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Picture Match: Basically Mario" first.
+2. Play Picture Match again and score at least 80 points.

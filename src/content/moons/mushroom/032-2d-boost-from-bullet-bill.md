@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start of the well's 2D section, wait for a Bullet Bill.
+2. Bounce off it to reach the moon.

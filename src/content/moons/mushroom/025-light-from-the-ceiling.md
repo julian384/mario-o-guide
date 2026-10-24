@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside Peach's Castle, stand on the sun rug.
+2. Switch to first-person view and look up at the ceiling.

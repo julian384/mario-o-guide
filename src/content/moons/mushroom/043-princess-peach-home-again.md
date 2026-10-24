@@ -10,6 +10,7 @@ tags: [peach]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to Peach in every other kingdom, including the Moon Kingdom.
+2. Go to the castle balcony and talk to her.

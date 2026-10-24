@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Odyssey on a lower platform, throw Cappy onto the scarecrow to open the door.
+2. It's the Breakdown Road from the Wooded Kingdom, but you can't capture Bullet Bills or Banzai Bills.
+3. Grab the key and take it to the Keyhole Pedestal, which is in a slightly different spot.

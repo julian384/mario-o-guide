@@ -7,9 +7,10 @@ multi: false
 location: "Same area as Yoshi Under Siege"
 unlock: "After Yoshi Under Siege"
 tags: []
-captures: []
+captures: ["Yoshi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Yoshi Under Siege" first.
+2. Go back in and fill Yoshi's fruit meter a second time.

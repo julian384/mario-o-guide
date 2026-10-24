@@ -10,6 +10,7 @@ tags: [rematch]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the painting in one of the outside towers of Peach's Castle and jump in.
+2. Defeat Knucklotec again.
