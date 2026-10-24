@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim around the big lake outside the Water Plaza.
+2. Collect all five Moon Shards to make the moon appear.

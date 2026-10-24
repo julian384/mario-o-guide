@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim into the underwater area around the Water Plaza and find Dorrie.
+2. Climb onto Dorrie's back to grab the moon.

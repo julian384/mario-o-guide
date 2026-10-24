@@ -7,9 +7,11 @@ multi: false
 location: "Moon Pipe right of Odyssey leads to frog jumping challenge"
 unlock: "Available after opening kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Frog"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe to the right of the Odyssey.
+2. Capture a frog and jump across the platforms, timing your jumps over the waves of poison.
+3. Reach the big platform at the end for the moon.

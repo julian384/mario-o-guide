@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the seed from the start of the spiky tunnel near the beginning of the kingdom.
+2. Carry it to the flower pot at the Water Plaza Entrance and plant it.
+3. Come back after about 40 minutes to collect the moon.

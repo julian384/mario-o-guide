@@ -8,8 +8,9 @@ location: "Alcove above the Underwater Entrance checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Underwater Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Underwater Entrance checkpoint, look up.
+2. The moon is in a small alcove just above the checkpoint.

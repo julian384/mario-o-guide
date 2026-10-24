@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Water Plaza Terrace, throw Cappy onto the scarecrow.
+2. Backflip up the blocks that appear and grab the moon at the top before it vanishes.

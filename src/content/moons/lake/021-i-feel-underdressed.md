@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Wear the Swimwear with Swim Goggles, or the Boxer Shorts with any hat.
+2. Next to the Water Plaza display window, the Lochlady at the locked door lets you in.
+3. Throw Cappy onto the top of the dress pedestal in the middle and hold him there until the moon appears.

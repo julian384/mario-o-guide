@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the Water Plaza.
+2. Find the grassy ledge with three crates and break the shiny one.

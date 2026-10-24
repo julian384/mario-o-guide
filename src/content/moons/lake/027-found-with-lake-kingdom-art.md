@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the stairs up to the Courtyard near the Odyssey, look at the painting of dinosaur bones with one bone missing.
+2. Go to that spot in the Cascade Kingdom.
+3. Ground pound where the missing bone should be.

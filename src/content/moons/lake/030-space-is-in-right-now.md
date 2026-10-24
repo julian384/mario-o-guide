@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Put on the Space Helmet and Spacesuit (Moon Kingdom shop) or the Satellaview Helmet and Suit.
+2. Go to the top of the Water Plaza and talk to the Style Sister on the left.

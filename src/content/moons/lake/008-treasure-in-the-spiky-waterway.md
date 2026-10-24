@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim into the spiky tunnel near the start of the kingdom.
+2. Where the path splits, go right.
+3. Open the treasure chest at the end.

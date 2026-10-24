@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the cliff southeast of the Water Plaza, find the Hat Trampoline.
+2. Bounce off it and jump to the moon floating over the water.

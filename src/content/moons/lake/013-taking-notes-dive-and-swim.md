@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the small pool near the Odyssey, grab the rainbow treble clef.
+2. Swim through all the notes before they disappear.

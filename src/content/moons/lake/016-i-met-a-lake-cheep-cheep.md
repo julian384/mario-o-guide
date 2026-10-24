@@ -7,9 +7,11 @@ multi: false
 location: "Captured Cheep Cheep delivered to Lochlady at surface"
 unlock: "Available after collecting Broodals Over the Lake"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Cheep Cheep"]
+checkpoint: "Underwater Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Underwater Entrance checkpoint, capture a Cheep Cheep.
+2. Swim up to the surface, where a Lochlady is waiting.
+3. Bring the Cheep Cheep to her.

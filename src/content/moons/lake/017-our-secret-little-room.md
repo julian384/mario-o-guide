@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Water Plaza Entrance, count the alcoves along the wall.
+2. Enter the third one to find a secret door.
+3. Talk to the Lochlady inside.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Waves of Poison area, look for a set of platforms off to the left of the first moon.
+2. Hop across them, avoiding the waves, to the key on the last one.
+3. Jump back to the large platform, where the moon is now unlocked.

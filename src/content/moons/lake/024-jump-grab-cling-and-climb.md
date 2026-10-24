@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Water Plaza Terrace, find the hidden door on the north wall.
+2. Climb and cling your way through the area to the end.

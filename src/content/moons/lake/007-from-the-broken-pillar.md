@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Water Plaza Entrance, find the broken pillar under the water.
+2. Stand on what's left of it and ground pound the top.

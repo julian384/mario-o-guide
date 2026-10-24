@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Jump, Grab, Cling, and Climb" area, ride on top of the last moving block.
+2. It carries you up to a hidden bouncy flower.
+3. Bounce off it to reach a treasure chest with the moon.

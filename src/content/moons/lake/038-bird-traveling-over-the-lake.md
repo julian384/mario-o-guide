@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Look for the bird perched on the broken column west of the floodgate, north of the Odyssey.
+2. Once it takes off it circles the eastern part of the kingdom.
+3. Catch it with a jump or a Cappy throw to get the moon.
