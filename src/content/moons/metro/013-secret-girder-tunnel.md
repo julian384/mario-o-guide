@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Next to the Odyssey, walk around the iron girder.
+2. Go in through the opening on its north side.

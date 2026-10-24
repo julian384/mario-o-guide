@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb New Donk City Hall to the rooftop.
+2. Defeat Mechawiggler for a Multi Moon.

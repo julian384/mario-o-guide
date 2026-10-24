@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to Mayor Pauline in the City Hall Plaza so she asks you to find four musicians.
+2. Look in the plaza, just to the right of the City Hall entrance.
+3. Talk to the drummer to recruit them.

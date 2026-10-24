@@ -7,9 +7,10 @@ multi: false
 location: "Hammer Bro hammers breakable blocks on far left"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Hammer Bro"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Swinging Scaffolding area, find the breakable blocks on the far left.
+2. Capture a Hammer Bro and throw hammers to break them.

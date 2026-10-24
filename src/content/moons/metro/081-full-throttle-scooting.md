@@ -7,9 +7,10 @@ multi: false
 location: "Thin staircase of falling blocks near Daredevil area end"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Motor scooter"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the end of the Motor Scooter Daredevil area, make a sharp right onto the thin, staircase-shaped path of falling blocks.
+2. Ride to the end of it for the moon.

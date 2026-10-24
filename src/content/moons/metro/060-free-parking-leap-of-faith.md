@@ -7,9 +7,11 @@ multi: false
 location: "Scooter parking near Koopa racer, eastern buildings"
 unlock: "After defeating Bowser and A Traditional Festival!"
 tags: []
-captures: []
+captures: ["Motor scooter"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Get on the motor scooter on top of City Hall.
+2. Jump down to the eastern buildings.
+3. Park in the space run by the New Donker at Cranky Avenue and northern Squawks Park Street, near the Koopa racer.

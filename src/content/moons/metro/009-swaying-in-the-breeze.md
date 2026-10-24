@@ -8,8 +8,9 @@ location: "Air above a swinging girder near Heliport"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Heliport"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Heliport checkpoint, look for the swinging girder.
+2. Jump from the girder to the moon floating above it.

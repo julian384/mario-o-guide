@@ -10,6 +10,8 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Tostarena Town in the Sand Kingdom, talk to the Desert Wanderer. They want to visit the Metro Kingdom.
+2. Come back to New Donk City after the festival.
+3. Talk to them near the city entrance.

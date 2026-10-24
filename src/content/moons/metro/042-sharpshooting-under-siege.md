@@ -7,9 +7,10 @@ multi: false
 location: "Metal box on iron girder, shot with a Sherm"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
+captures: ["Sherm"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Sherm area from "Moon Shards Under Siege", find the hidden metal box on an iron girder.
+2. Capture a Sherm and shoot the box open.

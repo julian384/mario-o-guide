@@ -8,8 +8,11 @@ location: "Jump-Rope game in Main Street park, score 100"
 unlock: "After New Donk City's Pest Problem"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Play Jump-Rope again in the same park.
+2. Get 100 jumps in a row.
+
+**Tip:** The rope speeds up as the count climbs, so time each jump off the rope rather than a fixed rhythm.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to the Bonneter at the corner of Cranky Avenue and southern Squawks Park Street.
+2. Find the friend riding on the head of a man walking along eastern Cranky Avenue and northern Squawks Park Street.

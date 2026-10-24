@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the main street, go into the open building on the left.
+2. Grab the rainbow treble clef and collect every note before they fade.

@@ -7,9 +7,11 @@ multi: false
 location: "Dumpster on hidden platform, reached by Bullet Bill"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
+captures: ["Bullet Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Bullet Billding area, capture a Bullet Bill from the first Bill Blaster.
+2. Fly it to a hidden platform with a dumpster.
+3. Crash into the dumpster or throw Cappy at it to open it.

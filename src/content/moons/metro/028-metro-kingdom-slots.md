@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the west side of the city, go into the building with Tostarena-style wallpaper.
+2. Play Slots and line up four Moon icons.

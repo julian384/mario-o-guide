@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. During the New Donk City Festival, find the hidden 8-bit pipe.
+2. Go through it to a secret room with the moon.

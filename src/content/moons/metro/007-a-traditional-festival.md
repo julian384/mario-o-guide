@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Bring the power back on to start the New Donk City Festival.
+2. Talk to Pauline after the festival for a Multi Moon.

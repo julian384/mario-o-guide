@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the triangular building where you found the trumpeter, look on a slightly lower ledge facing City Hall for the Hint Art.
+2. It shows Poochy next to a glowing spot at the Water Plaza in the Lake Kingdom.
+3. Go there and ground pound that spot.

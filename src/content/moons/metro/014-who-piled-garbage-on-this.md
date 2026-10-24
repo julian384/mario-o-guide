@@ -7,9 +7,11 @@ multi: false
 location: "Glowing garbage pile on western rooftop corner"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Spark pylon", "Pole"]
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Main Street Entrance checkpoint, get onto the western rooftops using the bouncy platforms or a spark pylon.
+2. Go to the far western corner of the roofs.
+3. Ground pound the glowing pile of garbage.

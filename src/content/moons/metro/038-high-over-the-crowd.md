@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Pushing Through the Crowd" area, bounce off the awning above the big door at the far end.
+2. Swing across the three poles on the hidden platform above to the moon.

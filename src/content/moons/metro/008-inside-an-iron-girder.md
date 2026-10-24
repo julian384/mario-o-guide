@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the west side of the city, find the stack of crates blocking an iron girder.
+2. Break the crates and go through the girder to the far end.

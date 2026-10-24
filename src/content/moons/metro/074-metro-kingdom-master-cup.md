@@ -10,6 +10,8 @@ tags: [koopa-race]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect the Regular Cup moon first.
+2. Talk to the Koopa Troopa on the eastern rooftop again and enter the Master Cup.
+3. Beat the faster racers to the finish.

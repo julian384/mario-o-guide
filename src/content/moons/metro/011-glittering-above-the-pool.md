@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the City Hall rooftop, long jump west to the building with a rooftop pool.
+2. Bounce off the umbrella by the pool to reach the moon high above it.

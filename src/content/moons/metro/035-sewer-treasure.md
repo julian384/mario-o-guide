@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the sewers that lead to the Underground Power Plant, look along the north wall.
+2. Find the hidden ledge with the moon.

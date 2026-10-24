@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On top of the northwest apartment building above the crowded alley, break the crate.
+2. The moon lands on the Banana Bagels sign.
+3. Dive, then cap jump off the water tank to reach it.

@@ -7,9 +7,10 @@ multi: false
 location: "Scooter ride through a triangular building's interior"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
+captures: ["Motor scooter"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the City Hall Plaza, go into the triangular building with an open doorway.
+2. Get on the motor scooter and ride it to the end of the area.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On a building south of the triangular building with the ground-pound switch, take the Moon Pipe.
+2. Get across the Swinging Scaffoldings, watching for the Hammer Bros on them.
+3. Reach the end for the moon.

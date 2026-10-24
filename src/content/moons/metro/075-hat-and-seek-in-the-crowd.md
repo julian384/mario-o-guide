@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go back to the "Pushing Through the Crowd" area.
+2. Wait for a New Donker with a Bonneter on their head to come out of the crowd, then talk to them.

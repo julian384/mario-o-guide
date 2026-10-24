@@ -7,9 +7,11 @@ multi: false
 location: "Five Moon Shards in secret taxi-accessed area"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
+captures: ["Taxi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the parked taxi on the main street.
+2. Drive it to a secret area full of Sherms.
+3. Collect all five Moon Shards.

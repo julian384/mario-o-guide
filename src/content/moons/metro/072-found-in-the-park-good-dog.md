@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make friends with the dog in the northeast corner of Mayor Pauline Commemorative Park.
+2. Follow it to the spots it digs at and ground pound them.
+3. The moon is buried in the park's southeast corner.

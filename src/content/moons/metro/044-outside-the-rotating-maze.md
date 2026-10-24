@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the rotating maze area, backflip up onto the top of the maze.
+2. Go to its north end and jump off to a hidden platform with the moon.

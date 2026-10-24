@@ -8,8 +8,10 @@ location: "Flower pot in northeastern corner of Main Street park"
 unlock: "After New Donk City's Pest Problem"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Pick up a seed in the park by the Main Street Entrance checkpoint.
+2. Plant it in the flower pot in the park's northeast corner.
+3. Come back after about 4 minutes.

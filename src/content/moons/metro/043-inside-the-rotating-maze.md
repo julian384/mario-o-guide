@@ -7,9 +7,11 @@ multi: false
 location: "Five Moon Shards under a manhole cover, southwest"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
+captures: ["Manhole cover"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the southwest corner near the Crazy Cap shop, capture the manhole cover and slide it aside.
+2. Drop into the hidden entrance.
+3. Collect the five Moon Shards in the rotating maze.

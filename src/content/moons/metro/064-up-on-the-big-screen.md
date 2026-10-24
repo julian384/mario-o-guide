@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go into the projection room of the movie theater at the north end of Krool Avenue, on the west side.
+2. Take the 8-bit pipe into the screen. It's a version of Super Mario Bros. World 1-1.
+3. Collect the five Moon Shards. The moon appears back in the projection room.

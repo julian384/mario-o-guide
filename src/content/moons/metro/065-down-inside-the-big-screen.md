@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside the projection screen, go into the fourth pipe in the level.
+2. It leads to a hidden underground room with coins and the moon.

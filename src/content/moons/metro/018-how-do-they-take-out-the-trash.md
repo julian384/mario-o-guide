@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the City Hall rooftop, long jump east to the iron girder holding a dumpster.
+2. Throw Cappy at the dumpster to open it.

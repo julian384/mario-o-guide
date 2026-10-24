@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Look for the bird flying around the east side of the city.
+2. Jump off buildings, street lights or taxis to catch it.

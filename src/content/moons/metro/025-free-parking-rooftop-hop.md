@@ -7,9 +7,10 @@ multi: false
 location: "Scooter parking space on northeastern building"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Motor scooter"]
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Hop on the motor scooter at the Main Street Entrance checkpoint.
+2. Ride it to the parking space on top of a building in the northeast corner.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Buy the Clown Suit and Clown Hat and put them on.
+2. Go to the far northwest corner of the city and talk to the New Donker who could use a laugh.

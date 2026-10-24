@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Hanging from a High-Rise" area, ride the moving bar that goes up and down.
+2. Jump to the hidden pole above it, then to another moving pole.
+3. Use that to reach a high platform with the moon.

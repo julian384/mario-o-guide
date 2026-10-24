@@ -7,9 +7,11 @@ multi: false
 location: "Binoculars on Cranky Avenue reveal the Sphynx"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
+captures: ["Binoculars"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the binoculars on southern Cranky Avenue.
+2. Look northwest to spot the Sphynx sailing across the sky.
+3. The moon drops on the east side of Squawks Park.

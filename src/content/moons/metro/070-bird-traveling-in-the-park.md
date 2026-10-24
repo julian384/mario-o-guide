@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the bird circling Mayor Pauline Commemorative Park.
+2. Catch it as it passes over the eastern benches, with a somersault or ground pound jump.

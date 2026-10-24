@@ -10,6 +10,7 @@ tags: [koopa-race]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the eastern rooftop near the "Free Parking: Leap of Faith" moon.
+2. Talk to the Koopa Troopa to enter Koopa Freerunning and finish first.

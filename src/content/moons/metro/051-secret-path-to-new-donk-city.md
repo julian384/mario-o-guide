@@ -10,6 +10,8 @@ tags: [secret-path]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Sand Kingdom, go to the tall stone pillar where you found "On the Lone Pillar."
+2. Jump into the painting there.
+3. You land on an isolated rooftop in the southeast corner of New Donk City, next to the moon.

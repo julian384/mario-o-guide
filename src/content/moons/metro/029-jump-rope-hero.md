@@ -8,8 +8,9 @@ location: "Jump-Rope game in Main Street park, score 30"
 unlock: "After New Donk City's Pest Problem"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the park by the Main Street Entrance checkpoint, talk to the New Donkers with the jump rope.
+2. Get 30 jumps in a row.

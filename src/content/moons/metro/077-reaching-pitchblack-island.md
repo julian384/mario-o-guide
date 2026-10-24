@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Pitchblack Mountain area, find the small platform with a glowing spot, apart from the mountain.
+2. Throw Cappy to reveal the Hidden Blocks that make a path across.
+3. Ground pound the glowing spot.

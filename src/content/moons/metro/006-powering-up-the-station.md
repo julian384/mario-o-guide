@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Once all four musicians are recruited, go down into the New Donk City Power Plant.
+2. Defeat the two Big Poison Piranha Plants inside.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to Mayor Pauline in the City Hall Plaza so she asks you to find four musicians.
+2. Climb the triangular building across from City Hall. The trumpeter is on top.
+3. Talk to the trumpeter to recruit them.

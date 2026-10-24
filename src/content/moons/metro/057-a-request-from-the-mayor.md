@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to Mayor Pauline and answer her four questions about herself correctly in a row.
+2. She asks for a birthday gift. Find the new handbag on a metal platform east of City Hall.
+3. Bring the handbag back to her.

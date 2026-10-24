@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the west side of the city, throw Cappy onto the scarecrow.
+2. Seesaws appear with a moon above them. Use them to reach it before it vanishes.

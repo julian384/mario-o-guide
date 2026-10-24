@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Outdoor Café, drop down to the lower rooftop below the pool.
+2. Ground pound the middle of the flock of birds.

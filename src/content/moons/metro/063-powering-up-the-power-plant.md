@@ -7,9 +7,11 @@ multi: false
 location: "Install large battery in Underground Power Plant generator room"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
+captures: ["Large battery"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the generator room in the Underground Power Plant.
+2. Capture the large battery.
+3. Slide it around until it fits into place, like the puzzle in the Lake Kingdom.

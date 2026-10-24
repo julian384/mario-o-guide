@@ -7,9 +7,11 @@ multi: false
 location: "Capture RC car driver near Main Street checkpoint"
 unlock: "After New Donk City's Pest Problem"
 tags: []
-captures: []
-checkpoint: null
+captures: ["New Donker (RC car)"]
+checkpoint: "Main Street Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Main Street Entrance checkpoint, find the New Donker playing with an RC car.
+2. Capture them to take control of the car.
+3. Drive the car into the cage holding the moon.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Outdoor Café, go into the open building on the west side.
+2. Throw Cappy at the lever on the left wall.
+3. Push through the crowd to the far end of the room and grab the moon before it disappears.

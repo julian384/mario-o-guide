@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Unlock the "RC Car" track in the Jammin' music list.
+2. At Southern Squawks Park, talk to the Toad listening to music.
+3. Play "RC Car" for them.

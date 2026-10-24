@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside New Donk City Hall, go to the top of the area.
+2. Throw Cappy at the hidden treasure chest.
