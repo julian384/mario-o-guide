@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Walk to Glasses Bridge.
+2. The moon sits on the top-hat platform right next to it. Jump across to grab it.

@@ -10,6 +10,9 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the rabbit hopping on the tall hill near the Odyssey.
+2. Chase it down and grab it.
+
+**Tip:** A dive or a Cappy throw stuns the rabbit for a moment, which makes it much easier to catch.

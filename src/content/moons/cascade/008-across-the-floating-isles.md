@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Return to the arena where you fought Madame Broode.
+2. Head northwest and cross the floating platforms to the moon.

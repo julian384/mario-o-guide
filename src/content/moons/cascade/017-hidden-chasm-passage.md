@@ -7,9 +7,11 @@ multi: false
 location: "Warp pipe under second 2D area; Koopa Troopa breaks wall"
 unlock: "Unlocked after Multi Moon Atop the Falls"
 tags: []
-captures: []
+captures: ["Koopa Troopa"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Past the Chasm Lifts" area, look under the second 2D section for a hidden Warp Pipe.
+2. Inside, capture the Koopa Troopa.
+3. Kick through the wall on the right to reach the moon.

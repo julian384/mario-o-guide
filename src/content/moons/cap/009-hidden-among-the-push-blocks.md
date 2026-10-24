@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Push-Block Peril" room, look closely at the L-shaped blocks.
+2. One has a hole in it with the moon inside. Wait for that block to slide out and grab it.

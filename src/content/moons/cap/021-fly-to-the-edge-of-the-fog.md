@@ -7,9 +7,10 @@ multi: false
 location: "Paragoomba flight to northeast fog behind Top-Hat Tower"
 unlock: "Available after opening Cap Kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Paragoomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Paragoomba and fly behind Top-Hat Tower into the northeast corner.
+2. Look for the moon glowing under the fog and fly into it.

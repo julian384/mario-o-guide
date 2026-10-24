@@ -7,9 +7,10 @@ multi: false
 location: "Chain Chomp smashes fossil piece near spark pylon pole"
 unlock: "Unlocked after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Chain Chomp"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At Fossil Falls Heights, capture a Chain Chomp.
+2. Launch it into the fossil piece near the spark pylon pole to break it open.

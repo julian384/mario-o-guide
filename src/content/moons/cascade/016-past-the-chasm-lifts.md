@@ -8,8 +8,9 @@ location: "Secret door near Stone Bridge checkpoint; cross platforms"
 unlock: "Unlocked after Multi Moon Atop the Falls"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Stone Bridge"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the Stone Bridge checkpoint and through the nearby door.
+2. Ride and cross the chasm lifts to the end of the area.

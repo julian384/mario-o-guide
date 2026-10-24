@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. After beating Madame Broode, go back near the start of the kingdom.
+2. Climb onto the pile of rubble. The moon is on top.

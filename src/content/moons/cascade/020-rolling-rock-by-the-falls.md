@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Leave the Cascade Kingdom and come back.
+2. Below the spot where the Odyssey first landed, find the two rocks.
+3. Roll and break the rock on the right to get the moon.

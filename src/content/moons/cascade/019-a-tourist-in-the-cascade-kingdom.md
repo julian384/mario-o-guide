@@ -10,6 +10,8 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to the Tostarenan traveler in Tostarena Town after the Sand Kingdom story.
+2. Find him again in New Donk City and talk to him.
+3. He then turns up near the Odyssey in the Cascade Kingdom. Talk to him there.

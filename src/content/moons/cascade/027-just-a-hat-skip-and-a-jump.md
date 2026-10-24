@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the first 2D section, find the hat clouds across from the 8-bit pipe.
+2. Throw Cappy at the clouds to turn them into platforms.
+3. Jump across them to the moon on a distant island.

@@ -7,9 +7,11 @@ multi: false
 location: "As a T-Rex, smash large rocks on a low platform"
 unlock: "Unlocked after Multi Moon Atop the Falls"
 tags: []
-captures: []
+captures: ["T-Rex"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the same dinosaur nest area, capture the T-Rex.
+2. Walk to the low platform with large rocks.
+3. Smash the rocks until the moon pops out.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the door that leads to the Frog Pond.
+2. Look for a glowing spot under the fog nearby and ground pound it.

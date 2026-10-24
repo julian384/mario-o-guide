@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb Top-Hat Tower until you see a door near the top, and go through it.
+2. Cross the blocks that slide in and out of the wall. Wait for each one to extend before jumping on.
+3. Reach the end of the course for the moon.

@@ -10,6 +10,8 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the southeast corner of the Central Plaza and throw Cappy onto the scarecrow.
+2. Moving platforms, a key and a keyhole appear and a timer starts.
+3. Grab the key, which unlocks the moon, then reach the moon before time runs out.

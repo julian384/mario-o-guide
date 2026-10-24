@@ -7,9 +7,11 @@ multi: false
 location: "Skull sign over fog near Odyssey; reach by Paragoomba"
 unlock: "Available after opening Cap Kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Paragoomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Paragoomba near the Odyssey.
+2. Fly out over the fog toward the sign with a skull on it.
+3. Land by the sign and pick up the moon.

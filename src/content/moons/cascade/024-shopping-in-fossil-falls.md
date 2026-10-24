@@ -10,6 +10,7 @@ tags: [shop]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Leave and come back to the kingdom so the Crazy Cap shop opens.
+2. Buy the Power Moon for 100 gold coins.

@@ -7,9 +7,13 @@ multi: false
 location: "Catch small bird flying over fog using Paragoomba"
 unlock: "Available after opening Cap Kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Paragoomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Paragoomba.
+2. Watch for the small bird circling the whole kingdom low over the fog.
+3. Fly into the bird to knock the moon loose.
+
+**Tip:** The bird loops on a fixed path. Wait on its route rather than chasing it.

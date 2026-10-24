@@ -10,6 +10,10 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Enter the "Roll On and On" Moon Pipe.
+2. Right at the start, look for a narrow side path off the main slide.
+3. Roll carefully along it to reach the moon.
+
+**Tip:** Tap the roll button instead of holding it so you don't build too much speed on the narrow path.

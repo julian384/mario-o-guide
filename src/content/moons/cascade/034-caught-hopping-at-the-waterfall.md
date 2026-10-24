@@ -10,6 +10,9 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the rabbit hopping near the Crazy Cap shop.
+2. Chase it down and grab it.
+
+**Tip:** Dive at it or stun it with a Cappy throw to catch it faster.

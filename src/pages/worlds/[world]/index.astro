@@ -21,7 +21,9 @@ const open = groups.filter((g) => !SPOILER_PHASES.includes(g.id));
 const gated = groups.filter((g) => SPOILER_PHASES.includes(g.id));
 const gatedCount = gated.reduce((n, g) => n + g.moons.length, 0);
 const count = t.value === t.locations ? `${t.locations} moons` : `${t.locations} moon locations, worth ${t.value} moons`;
-const lede = [`${w.area}.`, `${count}.`, w.note].filter(Boolean).join(' ');
+const written = moons.filter((m) => m.data.written).length;
+const guides = written === moons.length ? 'Every moon has a full guide.' : written ? `Full guides for ${written} of ${moons.length} moons so far.` : 'Full guides are coming soon.';
+const lede = [`${w.area}.`, `${count}.`, w.note, guides].filter(Boolean).join(' ');
 ---
 <Base title={w.name} description={`All ${t.locations} Power Moons in the ${w.name} of Super Mario Odyssey, grouped by when they unlock.`} noindex>
   <section class="section">

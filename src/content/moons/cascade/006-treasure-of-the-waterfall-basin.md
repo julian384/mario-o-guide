@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to where the Odyssey first landed and dive into the water below.
+2. Swim along the wall to find the moon in a hidden alcove.

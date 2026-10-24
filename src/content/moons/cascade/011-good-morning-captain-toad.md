@@ -10,6 +10,8 @@ tags: [captain-toad]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From Madame Broode's arena, go to the platform on the west side that holds the Moon Rock.
+2. Drop down to the ledge directly below it.
+3. Talk to Captain Toad.

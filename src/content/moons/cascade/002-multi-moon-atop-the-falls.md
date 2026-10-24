@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Follow the path up to Fossil Falls Heights.
+2. Defeat Madame Broode and her Chain Chomp. Capture the Chomp and fling it back at her.
+
+**Tip:** When the Chain Chomp is stunned after a charge, capture it, then pull back fully before releasing for a strong hit.

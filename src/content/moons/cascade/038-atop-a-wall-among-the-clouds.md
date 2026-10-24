@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Partway through "Across the Mysterious Clouds", look for a group of blocks.
+2. Use them to climb on top of the red wall.
+3. Throw Cappy to reveal hat clouds there and cross them to the hidden moon.

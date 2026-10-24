@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the arch at the entrance to the Central Plaza.
+2. Throw Cappy at the glowing hat symbol on the arch.

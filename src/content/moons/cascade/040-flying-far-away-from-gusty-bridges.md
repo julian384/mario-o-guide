@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Across the Gusty Bridges" area, hit the hidden lever on the second set of yellow platforms with Cappy.
+2. A hidden platform appears leading to a side ledge. Go there.
+3. Throw Cappy through the gusts to hit a second hidden lever, which makes the moon appear.

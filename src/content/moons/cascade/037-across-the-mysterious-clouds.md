@@ -8,8 +8,10 @@ location: "Moon Pipe near Stone Bridge; hat clouds and swinging platforms"
 unlock: "Unlocked after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Stone Bridge"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe next to the Stone Bridge checkpoint.
+2. Cross the area by throwing Cappy at hat clouds and riding the swinging platforms.
+3. Reach the end for the moon.

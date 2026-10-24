@@ -7,9 +7,10 @@ multi: false
 location: "Rocks on wall behind first Big Chain Chomp"
 unlock: "Unlocked after Our First Power Moon"
 tags: []
-captures: []
+captures: ["Chain Chomp"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Chain Chomp to the left of the first Big Chain Chomp.
+2. Capture it and launch it into the rocks on the wall behind it.

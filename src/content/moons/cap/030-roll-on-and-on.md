@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Moon Pipe on the west side of the Central Plaza and go in.
+2. Roll down the long slide, steering around the Spinies.
+3. Reach the end of the slide for the moon.

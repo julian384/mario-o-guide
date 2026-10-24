@@ -7,9 +7,10 @@ multi: false
 location: "Frog jump to high back-wall ledge in Frog Pond area"
 unlock: "Available after powering up the Odyssey in Cascade Kingdom"
 tags: []
-captures: []
+captures: ["Frog"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Frog Pond room, capture a frog.
+2. Look for a high ledge on the back wall and frog-jump up to it.

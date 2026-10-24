@@ -10,6 +10,10 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe below where the Odyssey first landed.
+2. Cross the moving platforms past the wind towers without getting blown off.
+3. Reach the end for the moon.
+
+**Tip:** Watch the wind towers and cross while they are pausing between gusts.

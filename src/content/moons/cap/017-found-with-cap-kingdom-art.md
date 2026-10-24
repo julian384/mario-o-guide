@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Hint Art painting in the northeast corner of the Central Plaza.
+2. It shows a spot in the Moon Kingdom. Travel there and find the place in the painting.
+3. Ground pound that spot to reveal the moon.

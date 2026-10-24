@@ -10,6 +10,7 @@ tags: [koopa-race]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to the Koopa Troopa near the start of the kingdom to enter Koopa Freerunning.
+2. Finish the race in first place.

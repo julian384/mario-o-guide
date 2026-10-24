@@ -10,6 +10,8 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start of the kingdom, throw Cappy onto the scarecrow.
+2. Moving platforms and a moon appear over the river and a timer starts.
+3. Hop across the platforms and grab the moon before it vanishes.

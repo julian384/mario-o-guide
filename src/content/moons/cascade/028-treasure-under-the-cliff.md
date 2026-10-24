@@ -8,8 +8,10 @@ location: "Cliff face right of Stone Bridge; Cappy-made platforms"
 unlock: "Unlocked after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Stone Bridge"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Stone Bridge checkpoint, look at the cliff face on the right. The moon is high on the wall.
+2. Throw Cappy at the hat clouds below it to make platforms.
+3. Climb up and wall jump off the cliff to reach the moon.

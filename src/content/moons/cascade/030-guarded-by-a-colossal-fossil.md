@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At Fossil Falls Heights, go to the big Triceratops fossil with water pouring out of it.
+2. Throw Cappy at its glowing nose horn and hold the button so he keeps spinning there.

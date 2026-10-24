@@ -10,6 +10,8 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Madame Broode's arena, throw Cappy onto the scarecrow.
+2. A staircase of blocks appears with the moon high above.
+3. Triple jump up the blocks to the moon before time runs out.

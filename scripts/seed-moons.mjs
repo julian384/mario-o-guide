@@ -123,17 +123,17 @@ for (const { id: world } of WORLDS) {
     };
     const file = existing.get(number) ?? join(dir, `${String(number).padStart(3, '0')}-${slugify(name)}.md`);
     let body = STUB;
+    let fm = frontMatter(m);
     if (existsSync(file)) {
       const prev = readFileSync(file, 'utf8');
       body = prev.replace(/^---\n[\s\S]*?\n---\n?/, '\n');
-      // Keep the "written" flag a human set.
-      if (/^written: true$/m.test(prev)) {
-        writeFileSync(file, frontMatter(m).replace('written: false', 'written: true') + body);
-        total++;
-        continue;
+      // Keep fields a person filled in by hand.
+      for (const key of ['captures', 'checkpoint', 'difficulty', 'written']) {
+        const line = prev.match(new RegExp(`^${key}: .*$`, 'm'));
+        if (line) fm = fm.replace(new RegExp(`^${key}: .*$`, 'm'), line[0]);
       }
     }
-    writeFileSync(file, frontMatter(m) + body);
+    writeFileSync(file, fm + body);
     total++;
   }
 }

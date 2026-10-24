@@ -7,9 +7,11 @@ multi: false
 location: "T-Rex smashes spark pylon pole; ground-pound glowing spot"
 unlock: "Unlocked after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["T-Rex"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the T-Rex in the southwest corner of the kingdom.
+2. Walk it to the tall pole with a spark pylon near the start of the kingdom.
+3. Smash the pole, then release the T-Rex and ground pound the glowing spot it leaves.

@@ -7,9 +7,11 @@ multi: false
 location: "Binoculars in northwest Central Plaza; watch flying taxi"
 unlock: "Available after defeating Bowser in Moon Kingdom"
 tags: []
-captures: []
+captures: ["Binoculars"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the northwest corner of the Central Plaza and capture the binoculars.
+2. Look toward the moon in the sky and find the taxi flying in front of it.
+3. Zoom in and keep it in view for a few seconds.

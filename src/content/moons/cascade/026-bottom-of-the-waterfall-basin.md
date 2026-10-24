@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go under the stone bridge next to "Our First Power Moon".
+2. Look for a glowing spot in the water and ground pound it.

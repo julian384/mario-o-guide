@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Enter the first 2D section on the wall.
+2. Near the top on the left, jump to hit an invisible block.
+3. Use the block to hop over the small wall and grab the hidden moon.

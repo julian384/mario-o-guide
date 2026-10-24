@@ -7,9 +7,11 @@ multi: false
 location: "Left-side secret pipe; Chain Chomp target puzzle"
 unlock: "Unlocked after Multi Moon Atop the Falls"
 tags: []
-captures: []
+captures: ["Chain Chomp"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near "Chomp Through the Rocks", go around the cliff wall and across the platforms on the left.
+2. Enter the hidden Warp Pipe.
+3. Capture a Chain Chomp and launch it to knock the other Chomps into the target zone. Score three times for the moon.

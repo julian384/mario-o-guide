@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At Fossil Falls Heights, walk onto the stone bridge leading to the boss arena.
+2. Spot the moon floating beside the bridge.
+3. Jump off the bridge so you land on it.

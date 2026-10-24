@@ -10,6 +10,7 @@ tags: [captain-toad]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the very top of Top-Hat Tower.
+2. Talk to Captain Toad, who is stargazing up there.

@@ -7,9 +7,11 @@ multi: false
 location: "T-Rex clears rocks at southwest resting spot; ground-pound glow"
 unlock: "Unlocked after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["T-Rex"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the T-Rex in the southwest corner of the kingdom.
+2. Smash the rocks around where it was resting.
+3. Ground pound the glowing spot under one of the rocks.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Central Plaza, talk to the Bonneter standing on a top-hat platform on the hill.
+2. He asks you to find a lost treasure. Follow Cappy as he leads you around.
+3. Ground pound the stair by the south end of Glasses Bridge to dig up the moon.

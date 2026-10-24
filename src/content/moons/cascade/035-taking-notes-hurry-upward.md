@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Enter the first 2D section and grab the rainbow treble clef.
+2. Notes appear going upward. Climb fast and collect every note before they fade.

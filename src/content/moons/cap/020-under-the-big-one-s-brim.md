@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of Top-Hat Tower.
+2. Look over the edge to find the moon floating just below the brim.
+3. Step off the edge above it and fall onto the moon.

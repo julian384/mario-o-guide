@@ -7,9 +7,11 @@ multi: false
 location: "Use binoculars at start to watch the Sphynx in sky"
 unlock: "Unlocked after defeating Bowser in Moon Kingdom"
 tags: []
-captures: []
+captures: ["Binoculars"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start of the kingdom, capture the binoculars.
+2. Find the Sphynx flying in the sky and zoom in.
+3. Keep it in view until the moon appears.
