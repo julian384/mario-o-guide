@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Drop off one side of the Lighthouse to find a Moon Pipe.
+2. Throw Cappy to switch the blue and yellow blocks and open paths.
+3. Collect all five Moon Shards.

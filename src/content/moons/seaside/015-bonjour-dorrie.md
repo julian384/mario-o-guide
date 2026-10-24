@@ -7,9 +7,10 @@ multi: false
 location: "High above the yellow Dorrie"
 unlock: "Available after The Glass Is Half Full!"
 tags: []
-captures: []
+captures: ["Glydon"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the yellow Dorrie. The moon floats high above it.
+2. Capture the Glydon at the top of the Lighthouse and glide into the moon, or jet up to it as a Gushen.

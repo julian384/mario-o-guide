@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Ocean-Bottom Maze, take the bottom-right 8-bit pipe.
+2. Kick a Koopa Troopa shell into the brick block covering a hidden alcove.

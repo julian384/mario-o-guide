@@ -7,9 +7,10 @@ multi: false
 location: "Floating above right side of narrow path in Hurry and Stretch"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Hurry and Stretch" area, watch the narrow-path section. The moon floats above the right side.
+2. Stretch up as an Uproot to grab it.

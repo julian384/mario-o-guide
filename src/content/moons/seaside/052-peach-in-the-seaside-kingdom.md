@@ -10,6 +10,8 @@ tags: [peach]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make sure you have talked to the Toad outside Peach's Castle in the Mushroom Kingdom.
+2. Jump into one of the geysers to ride up to the top of the fountain.
+3. Talk to Peach there.

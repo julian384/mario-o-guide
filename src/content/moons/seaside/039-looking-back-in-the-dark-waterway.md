@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the hole with coin rings that leads into the underwater tunnel to the Lighthouse.
+2. In the first section, with three Cheep Cheeps, look for a small hole in the left wall.

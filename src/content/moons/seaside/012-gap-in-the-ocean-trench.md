@@ -7,9 +7,11 @@ multi: false
 location: "Right wall near the Sphynx, Ocean Trench East"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Cheep Cheep"]
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Ocean Trench East checkpoint, capture a Cheep Cheep.
+2. Swim forward and down to the Sphynx.
+3. Go through the hole in the wall to its right.

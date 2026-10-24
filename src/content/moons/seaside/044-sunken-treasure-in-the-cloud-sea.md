@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Cloud Sea area, look for a thin path hidden in the clouds off the main route.
+2. Follow it to a square platform with a treasure chest.

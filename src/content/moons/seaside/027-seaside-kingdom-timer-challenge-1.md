@@ -8,8 +8,9 @@ location: "Underwater hole with ground-pound switch near Hot Spring Island"
 unlock: "Available from the start"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Hot Spring Island"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Hot Spring Island checkpoint, find an underwater hole with a ground-pound switch.
+2. Hit the switch and race through the short 2D section before time runs out.

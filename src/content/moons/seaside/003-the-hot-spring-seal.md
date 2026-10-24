@@ -7,9 +7,11 @@ multi: false
 location: "Underwater in the hot spring on Hot Spring Island"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On Hot Spring Island, capture a Gushen.
+2. Spray the lava to cool it into a safe path.
+3. Dive into the hot spring for the moon and the third seal.

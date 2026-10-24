@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. With all four seals unplugged, go to the Glass Palace.
+2. Defeat Mollusque-Lanceur for a Multi Moon.

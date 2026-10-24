@@ -7,9 +7,10 @@ multi: false
 location: "Hole left of Ocean Trench East checkpoint"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Cheep Cheep"]
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Ocean Trench East checkpoint, capture a Cheep Cheep.
+2. Swim a little to the left to a hole and follow the path to the moon.

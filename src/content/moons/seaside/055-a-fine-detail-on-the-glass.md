@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Look closely at the decorative handles on the outside of the Glass Palace.
+2. The moon sits on one of them.

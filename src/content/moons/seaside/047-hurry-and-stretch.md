@@ -7,9 +7,11 @@ multi: false
 location: "Underwater alcove near Hot Spring Island, rising lava bonus area"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Under the water northeast, near Hot Spring Island, find an alcove with a door.
+2. Capture Uproots and stretch your way up as the lava rises, avoiding the Moonsnakes.
+3. Reach the top for the moon.

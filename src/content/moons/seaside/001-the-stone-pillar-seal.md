@@ -7,9 +7,11 @@ multi: false
 location: "Grassy platform mid-area, reached by floating up with Gushen"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Gushen.
+2. Use its water jet to float up to the grassy platform in the middle of the area.
+3. Grab the moon to unplug the first seal.

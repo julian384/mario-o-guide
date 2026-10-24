@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim to the underwater highway on the west side of the kingdom.
+2. The moon is near the rolling Moonsnakes.

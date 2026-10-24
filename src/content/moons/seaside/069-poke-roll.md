@@ -7,9 +7,10 @@ multi: false
 location: "Behind gate at entrance of Aim! Poke! area, single breakable block"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Aim! Poke!" area, go back near the entrance to a gate with one breakable block behind it.
+2. As a Pokio, knock a firework bomb into that block.

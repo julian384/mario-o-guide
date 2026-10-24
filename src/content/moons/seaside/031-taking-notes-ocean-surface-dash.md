@@ -7,9 +7,10 @@ multi: false
 location: "Rocket Flower and treble clef near Beach House"
 unlock: "Available from the start"
 tags: [music-notes]
-captures: []
-checkpoint: null
+captures: ["Rocket Flower"]
+checkpoint: "Beach House"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Beach House checkpoint, throw Cappy at the Rocket Flower next to the rainbow treble clef.
+2. Touch the clef and run across the water collecting the line of notes.

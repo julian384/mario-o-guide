@@ -7,9 +7,10 @@ multi: false
 location: "Treasure chest past the fall point in Narrow Valley"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Narrow Valley area, keep going past the point where the main route drops you down.
+2. A treasure chest there holds the moon.

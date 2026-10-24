@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Odyssey, take the Warp Pipe in the wall to a small room.
+2. Find the right spot on the floor and ground pound it.
+
+**Tip:** With controller rumble on, the controller shakes harder as you get close to the spot.

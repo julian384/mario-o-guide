@@ -7,9 +7,10 @@ multi: false
 location: "High above larger pool, reached via Gushen"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On Hot Spring Island, look high above the larger pool.
+2. Capture a Gushen and jet up to the moon.

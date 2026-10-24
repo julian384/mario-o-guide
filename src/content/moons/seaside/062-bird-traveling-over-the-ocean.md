@@ -7,9 +7,10 @@ multi: false
 location: "Catch bird flying around kingdom while capturing Gushen"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Look for the bird flying around the kingdom.
+2. Capture a Gushen and jet up to catch it.

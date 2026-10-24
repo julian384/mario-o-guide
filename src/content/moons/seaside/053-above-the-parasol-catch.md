@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the umbrella left of the Beach House.
+2. Bounce on it, or jet up as a Gushen, to reach the moon above.

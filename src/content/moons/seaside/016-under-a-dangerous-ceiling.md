@@ -8,8 +8,9 @@ location: "Glowing mound among Komboos on ceiling, Ocean Trench East"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Ocean Trench East checkpoint, find the mound under the Komboos walking on the ceiling.
+2. Ground pound the glowing spot on the mound.

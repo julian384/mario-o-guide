@@ -8,8 +8,10 @@ location: "Underwater seed beside Sphynx, planted on Beach House roof"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Ocean Trench East checkpoint, take the seed under the water next to the Sphynx.
+2. Carry it to one of the flower pots on the Beach House roof and plant it.
+3. Wait for the vine to grow the moon, or spray it with a Gushen to speed it up.

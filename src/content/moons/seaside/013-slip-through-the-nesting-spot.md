@@ -7,9 +7,11 @@ multi: false
 location: "Northeastern hole near Hot Spring Island, past Maw-Rays"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Cheep Cheep"]
+checkpoint: "Hot Spring Island"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Hot Spring Island checkpoint, capture a Cheep Cheep.
+2. Find the hole on the northeast side of the area.
+3. Swim through, avoiding the Maw-Rays, to the moon.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the pole you climb to reach the top of the Lighthouse.
+2. Throw Cappy onto the very top of it and let him spin there.

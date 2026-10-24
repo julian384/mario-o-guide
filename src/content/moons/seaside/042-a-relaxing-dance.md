@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Buy the Resort Hat and Resort Outfit, or the Sunshine Shades and Sunshine Outfit, from the regional shop and put them on.
+2. Talk to the Bubblainian at the Beach House door to get in.
+3. Dance with the two Bubblainians inside for a few seconds.

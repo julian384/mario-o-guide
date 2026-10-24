@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Odyssey, find the dog in a fedora by the binoculars.
+2. Lead it to the glowing spot near the gray rocks.
+3. When it starts digging, ground pound the spot.

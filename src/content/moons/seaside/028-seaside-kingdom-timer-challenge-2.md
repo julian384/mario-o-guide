@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Glass Palace, throw Cappy onto the scarecrow under the water.
+2. Swim to the moon before it disappears.

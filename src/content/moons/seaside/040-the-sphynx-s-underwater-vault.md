@@ -8,8 +8,10 @@ location: "Sphynx southwest of Ocean Trench East, answer one question"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim down to the Sphynx southwest of the Ocean Trench East checkpoint.
+2. Answer its question correctly to open its vault.
+3. Open the treasure chest inside.

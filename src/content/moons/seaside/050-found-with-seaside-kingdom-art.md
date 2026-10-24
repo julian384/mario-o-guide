@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On a high platform near the gray boulders right of the Odyssey, find the Hint Art. It shows "KEEP" with a moon above the first E.
+2. In the Metro Kingdom, find "KEEP CLEAR" painted on the ground near the Main Street Entrance.
+3. Ground pound the spot shown on the art.

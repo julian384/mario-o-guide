@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Lighthouse, look for two Cheep Cheeps swimming above the seafloor. A hidden door is underneath them.
+2. Go through the door and ground pound the Lurker inside.

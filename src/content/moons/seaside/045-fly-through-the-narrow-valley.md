@@ -7,9 +7,11 @@ multi: false
 location: "Hidden alcove right of Beach Volleyball, bonus area via Gushen"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Right of the Beach Volleyball court, jet up as a Gushen to a hidden alcove with a door.
+2. Inside, hop between Gushens to cross the bottomless pits and poisoned water.
+3. Reach the end for the moon.

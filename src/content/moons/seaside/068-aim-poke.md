@@ -7,9 +7,11 @@ multi: false
 location: "Moon Pipe underwater near Rolling Canyon checkpoint, Pokio bonus area"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Pokio"]
+checkpoint: "Rolling Canyon"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Rolling Canyon checkpoint, take the Moon Pipe under the water.
+2. Capture a Pokio and poke the firework bombs into the breakable blocks and the gate.
+3. Clear the way to the moon.

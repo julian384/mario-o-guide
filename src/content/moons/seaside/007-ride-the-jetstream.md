@@ -7,9 +7,11 @@ multi: false
 location: "Hidden alcove right of Odyssey near Binoculars"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. To the right of the Odyssey, near the binoculars, capture a Gushen.
+2. Jet up into a hidden alcove.
+3. Go right to the moon above a shallow pool.

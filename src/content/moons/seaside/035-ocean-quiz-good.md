@@ -8,8 +8,9 @@ location: "Sphynx southwest of Ocean Trench East checkpoint, answer five questio
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Ocean Trench East"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim down to the Sphynx in the deep area southwest of the Ocean Trench East checkpoint.
+2. Answer five of its questions correctly.

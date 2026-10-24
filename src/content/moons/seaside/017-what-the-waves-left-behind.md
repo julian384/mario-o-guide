@@ -8,8 +8,9 @@ location: "Circular hole on gray rock path near Rolling Canyon checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Rolling Canyon"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Rolling Canyon checkpoint, find the round hole in the gray rock path.
+2. Defeat the Komboo guarding it, then ground pound the spot.

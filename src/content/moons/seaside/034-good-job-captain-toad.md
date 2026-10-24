@@ -7,9 +7,10 @@ multi: false
 location: "Higher platform near The Seal Above the Canyon, via Gushen"
 unlock: "Available from the start"
 tags: [captain-toad]
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Gushen and take it to the end of the Rolling Canyon path.
+2. Jet up to the higher platform near "The Seal Above the Canyon" and talk to Captain Toad.

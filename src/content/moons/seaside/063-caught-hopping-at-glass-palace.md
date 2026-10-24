@@ -10,6 +10,7 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the rabbit hopping around the Glass Palace.
+2. Chase it down and catch it.

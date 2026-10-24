@@ -10,6 +10,9 @@ tags: [secret-path]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Which painting leads here depends on your route.
+2. If you did Snow before Seaside: use the painting behind the left building at the Main Courtyard Entrance in Bowser's Kingdom.
+3. If you did Seaside first: use the painting between the trees near the Odyssey in the Mushroom Kingdom.
+4. You land on top of the Diving Platform next to the moon.

@@ -8,8 +8,9 @@ location: "East of kingdom near Hot Spring Island checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Hot Spring Island"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Swim to the underwater highway on the east side, near the Hot Spring Island checkpoint.
+2. Explore it to find the moon.

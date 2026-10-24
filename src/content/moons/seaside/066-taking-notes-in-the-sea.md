@@ -8,8 +8,9 @@ location: "Treble clef on underwater column near Glass Palace checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: [music-notes]
 captures: []
-checkpoint: null
+checkpoint: "Glass Palace"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Glass Palace checkpoint, grab the rainbow treble clef on top of an underwater column.
+2. Swim through all three rings of notes before they disappear.

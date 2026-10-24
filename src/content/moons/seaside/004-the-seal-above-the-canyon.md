@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make your way through Rolling Canyon, dodging the rolling shells.
+2. Get past the wall of crates at the end and grab the moon to unplug the last seal.

@@ -8,8 +8,9 @@ location: "Glowing spot left of Rolling Canyon checkpoint, on grassy platforms"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Rolling Canyon"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Left of the Rolling Canyon checkpoint, cross the grassy platforms.
+2. Ground pound the glowing spot where the Moonsnake rolls.
