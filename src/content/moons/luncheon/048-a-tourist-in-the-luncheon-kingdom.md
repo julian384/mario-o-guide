@@ -10,6 +10,7 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Follow the Desert Wanderer from Tostarena Town to the Metro and Cascade Kingdoms first.
+2. After beating Cookatiel, find them at the entrance to Peronza Plaza and talk to them.

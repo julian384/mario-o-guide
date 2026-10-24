@@ -10,6 +10,9 @@ tags: [secret-path]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Which painting leads here depends on your route.
+2. If you did Lake before Wooded: it's behind an iron block on the Wooded Kingdom's iron wall, reached from the Station 8 checkpoint.
+3. If you did Wooded before Lake: it's in a small pool in the Lake Kingdom's Courtyard.
+4. You land on the Floating Sky Island next to the moon.

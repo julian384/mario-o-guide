@@ -8,8 +8,9 @@ location: "Roof of Peak Climb mountain entrance, long jump needed"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Top of the Peak Climb"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the roof at the entrance to the peak with the lanterns from "Light the Far-Off Lanterns."
+2. Long jump or dive onto it from the Top of the Peak Climb checkpoint, or from where the rolling peppers start.

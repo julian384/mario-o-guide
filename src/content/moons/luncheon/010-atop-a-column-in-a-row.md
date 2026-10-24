@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Peronza Plaza, climb the row of columns.
+2. Ground pound the glowing spot on top of one of them.

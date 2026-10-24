@@ -8,8 +8,9 @@ location: "Glowing spot on small green mountain near Meat Plateau"
 unlock: "After Under the Cheese Rocks"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Meat Plateau, long jump to the small green mountain.
+2. Ground pound the glowing spot on it.

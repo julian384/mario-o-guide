@@ -8,8 +8,9 @@ location: "Glowing spot on rocks by Peak Climb lava cannon"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Top of the Peak Climb"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the top of the Peak Climb, find the lava cannon aimed at the Cookatiel pot.
+2. Ground pound the glowing spot on the orange rocks around it.

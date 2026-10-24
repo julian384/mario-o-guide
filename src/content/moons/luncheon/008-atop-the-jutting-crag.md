@@ -7,9 +7,11 @@ multi: false
 location: "Near Salt-Pile Isle checkpoint, lava cannon launch"
 unlock: "Intended after Big Pot; skilled jumps work from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Lava Bubble"]
+checkpoint: "Salt-Pile Isle"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Salt-Pile Isle checkpoint, capture a Lava Bubble.
+2. Launch from the lava cannon over the platform.
+3. Let go of the capture in mid-air to land on the platform with the moon.

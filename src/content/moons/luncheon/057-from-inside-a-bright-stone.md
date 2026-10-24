@@ -8,8 +8,10 @@ location: "Blue rock with glowing spot, left of Peronza checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Peronza Plaza"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Peronza Plaza checkpoint, drop off the left ledge to a blue rock with a glowing spot.
+2. You can also jump to it as a Lava Bubble from where the Moon Rock was.
+3. Ground pound the glowing spot.

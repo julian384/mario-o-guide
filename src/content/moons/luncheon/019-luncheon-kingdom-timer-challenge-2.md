@@ -8,8 +8,9 @@ location: "Scarecrow behind Peronza Plaza checkpoint"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Peronza Plaza"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Throw Cappy onto the scarecrow behind the Peronza Plaza checkpoint.
+2. Grab the key and take it to the moon's pedestal before time runs out.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Remote Island, throw Cappy onto the scarecrow to open the door.
+2. Make your way across the rotating blocks to the end.

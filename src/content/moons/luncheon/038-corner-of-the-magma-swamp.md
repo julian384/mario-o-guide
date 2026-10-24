@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Magma Swamp area, go behind the entrance near the three sinking platforms.
+2. The moon is tucked in that corner.

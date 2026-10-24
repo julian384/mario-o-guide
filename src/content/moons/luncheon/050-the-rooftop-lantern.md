@@ -7,9 +7,11 @@ multi: false
 location: "Lantern on Peronza Plaza building, lit with Fire Bro"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Fire Bro"]
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Fire Bro on the Path to the Meat Plateau.
+2. Walk it back to Peronza Plaza.
+3. Light the lantern on the building's roof.

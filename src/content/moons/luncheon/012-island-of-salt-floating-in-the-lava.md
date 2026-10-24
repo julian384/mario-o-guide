@@ -8,8 +8,9 @@ location: "Glowing spot on small island near Salt-Pile Isle"
 unlock: "Intended after the Broodals; skilled jumps work from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Salt-Pile Isle"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Salt-Pile Isle checkpoint, find the small salt island in the lava.
+2. Ground pound the glowing spot in its middle.

@@ -7,9 +7,10 @@ multi: false
 location: "Hidden alcove blocked by cheese rocks, Excavate area"
 unlock: "After The Broodals Are After Some Cookin'"
 tags: []
-captures: []
+captures: ["Hammer Bro"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the cheese rock area, find the alcove blocked by a big pile of cheese rocks.
+2. Break through as a Hammer Bro to reach the moon.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the top of the Meat Plateau, take the Moon Pipe.
+2. Jump across the rotating gears, avoiding the Fire Bros and Bitefrosts.
+3. Reach the end for the moon.

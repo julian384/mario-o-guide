@@ -7,9 +7,10 @@ multi: false
 location: "Hidden alcove in Climb Up the Cascading Magma area"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Climb Up the Cascading Magma" area, go past the drop into the Lava Geysers.
+2. Look for the hidden alcove there.

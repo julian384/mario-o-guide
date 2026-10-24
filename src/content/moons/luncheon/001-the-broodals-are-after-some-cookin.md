@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make your way up through Peronza Plaza.
+2. Defeat Spewart again. Knock off his hat with Cappy, then jump on him, and watch out for his poison spray.

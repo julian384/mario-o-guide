@@ -8,8 +8,9 @@ location: "Alcove off building left of Peronza Plaza checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Peronza Plaza"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Peronza Plaza checkpoint, go to the building on the left.
+2. Drop off its edge into a hidden alcove.

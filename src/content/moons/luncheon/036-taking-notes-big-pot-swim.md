@@ -7,9 +7,10 @@ multi: false
 location: "Treble clef in Cookatiel's big pot"
 unlock: "After Cookatiel Showdown!"
 tags: [music-notes]
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go back into the giant pot where you fought Cookatiel.
+2. Grab the rainbow treble clef and collect the three sets of notes before time runs out.

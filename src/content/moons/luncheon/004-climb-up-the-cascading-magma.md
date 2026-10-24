@@ -7,9 +7,11 @@ multi: false
 location: "Volcano Cave, lava hill, unlit torch"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Lava Bubble"]
+checkpoint: "Volcano Cave Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Volcano Cave Entrance checkpoint, capture a Lava Bubble.
+2. Swim up the lava slope past the Lava Geysers.
+3. Jump into the one unlit torch to light it and make the moon appear.

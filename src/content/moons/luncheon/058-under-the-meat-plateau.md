@@ -7,9 +7,10 @@ multi: false
 location: "Hovering above lava behind green wall near Meat Plateau"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Lava Bubble near the Meat Plateau.
+2. Swim behind the green wall to the moon hovering over the lava.

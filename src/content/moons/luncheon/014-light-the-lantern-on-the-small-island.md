@@ -7,9 +7,10 @@ multi: false
 location: "Island on path to Meat Plateau, light lantern"
 unlock: "After Under the Cheese Rocks"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Lava Bubble"]
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the Path to the Meat Plateau, find the lantern on a small island.
+2. Jump into it as a Lava Bubble, or hit it with a Fire Bro's fireball.

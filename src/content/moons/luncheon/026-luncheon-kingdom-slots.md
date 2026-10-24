@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Peronza Plaza, go into the Slots building behind a pile of vegetables.
+2. Line up a row of Moon icons.

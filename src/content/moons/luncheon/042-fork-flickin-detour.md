@@ -7,9 +7,10 @@ multi: false
 location: "Platform on right side of Fork Flickin' area"
 unlock: "Intended after the Broodals; skilled jumps work from the start"
 tags: []
-captures: []
+captures: ["Volbonan"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Fork Flickin' area, stop at the last Volbonan before the top.
+2. Flick yourself onto the platform on the right instead.

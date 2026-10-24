@@ -7,9 +7,10 @@ multi: false
 location: "Above lava mountain near two Magmatos"
 unlock: "After Under the Cheese Rocks"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Magma Narrow Path area, find the lava "mountain" to the right of the two Magmatos.
+2. The moon floats above it.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Jump out of the giant pot where you fought Cookatiel.
+2. Land on the purplish-blue mountain to the southwest.
+3. Ground pound the glowing spot at its far end.

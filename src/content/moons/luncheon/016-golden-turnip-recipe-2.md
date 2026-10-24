@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. East of the "Atop the Jutting Crag" moon, find a golden turnip.
+2. Carry it to the big Stupendous Stew pot in Peronza Plaza and throw it in.

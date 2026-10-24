@@ -7,9 +7,10 @@ multi: false
 location: "Jump from giant pot into small pot on building"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the giant Cookatiel pot and capture a Lava Bubble.
+2. Jump out toward the smaller Stupendous Stew pot on a Peronza Plaza building and land in it.

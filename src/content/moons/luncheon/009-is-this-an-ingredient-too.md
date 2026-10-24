@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind a building in Peronza Plaza, find a stack of crates.
+2. Break them. One holds the moon, which pops up onto a building.

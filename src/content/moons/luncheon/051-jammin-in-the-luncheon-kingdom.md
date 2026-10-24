@@ -8,8 +8,9 @@ location: "Jammin' Toad behind Peronza Plaza checkpoint"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Peronza Plaza"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Peronza Plaza checkpoint, talk to the Toad listening to music, across from the scarecrow.
+2. Play "Fossil Falls: Dinosaur", "Honeylune Ridge: Collapse" (normal or 8-bit) or "Honeylune Ridge: Escape".

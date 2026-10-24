@@ -10,6 +10,7 @@ tags: [captain-toad]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the mountain that leads up to the Cookatiel fight, look for a small island at the edge of the kingdom.
+2. Talk to Captain Toad there.

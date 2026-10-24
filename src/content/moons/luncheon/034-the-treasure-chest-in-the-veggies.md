@@ -8,8 +8,9 @@ location: "Hidden door behind wall near Meat Plateau path"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Path to the Meat Plateau checkpoint, jump onto the wall on the right.
+2. Go through the hidden door and open the treasure chest.

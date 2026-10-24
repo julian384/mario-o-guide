@@ -7,9 +7,10 @@ multi: false
 location: "End of A Strong Simmer bonus area, stew pot"
 unlock: "Intended after the Broodals; skilled jumps work from the start"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "A Strong Simmer" area, capture a Lava Bubble again.
+2. Make your way to the far end and jump into the second pot.

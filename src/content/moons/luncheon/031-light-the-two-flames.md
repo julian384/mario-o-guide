@@ -7,9 +7,10 @@ multi: false
 location: "Two lanterns near Odyssey, lit with Fire Bro"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: []
-captures: []
+captures: ["Fire Bro"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Fire Bro.
+2. Light both lanterns near the Odyssey with fireballs.

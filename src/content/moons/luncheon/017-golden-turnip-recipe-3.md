@@ -7,9 +7,11 @@ multi: false
 location: "Behind green mountain, under cheese rocks, Meat Plateau path"
 unlock: "After Under the Cheese Rocks"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Hammer Bro"]
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the Path to the Meat Plateau, capture a Hammer Bro and go behind the green mountain.
+2. Throw frying pans at the cheese rocks to dig out a golden turnip.
+3. Carry it to the big Stupendous Stew pot in Peronza Plaza and throw it in.

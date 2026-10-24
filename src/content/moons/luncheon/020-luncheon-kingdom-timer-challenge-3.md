@@ -8,8 +8,9 @@ location: "Scarecrow behind Peak Climb start checkpoint"
 unlock: "After Cookatiel Showdown!"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Start of the Peak Climb"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Throw Cappy onto the scarecrow behind the Start of the Peak Climb checkpoint.
+2. Grab the key and take it to the moon's pedestal before time runs out.

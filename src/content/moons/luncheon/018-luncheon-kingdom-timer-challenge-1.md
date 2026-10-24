@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Throw Cappy onto the scarecrow on a building near the Odyssey.
+2. Get to the moon before time runs out.

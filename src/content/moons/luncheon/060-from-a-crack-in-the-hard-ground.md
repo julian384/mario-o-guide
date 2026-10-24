@@ -8,8 +8,9 @@ location: "Crack on higher ledge near Meat Plateau path"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb onto the higher ledge right of the Path to the Meat Plateau checkpoint.
+2. Ground pound the crack west of the three regional coins.

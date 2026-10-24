@@ -7,9 +7,10 @@ multi: false
 location: "Small floating platform in Lava Islands area"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Lava Bubble"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Lava Islands area, capture a Lava Bubble and jump into the first lava cannon.
+2. Let go of the capture in mid-air and land on the small floating platform with the moon.

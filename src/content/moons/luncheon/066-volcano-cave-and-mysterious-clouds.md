@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Volcano Cave Cruisin' area, watch for the group of hat clouds where the platform rises.
+2. The moon floats above them.

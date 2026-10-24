@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Buy the Mechanic Cap and Mechanic Outfit and put them on.
+2. Talk to the Steam Gardener on a green staircase in Peronza Plaza.

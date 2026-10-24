@@ -7,9 +7,11 @@ multi: false
 location: "Cheese rocks near Odyssey, glowing spot underneath"
 unlock: "After Big Pot on the Volcano: Dive In!"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Hammer Bro"]
+checkpoint: "Path to the Meat Plateau"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Hammer Bro on the Path to the Meat Plateau and walk it back to the start of the kingdom.
+2. Break the cheese rocks near the Odyssey with frying pans to uncover a glowing spot.
+3. Ground pound the spot.
