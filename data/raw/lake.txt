@@ -1,0 +1,42 @@
+1|Broodals Over the Lake|Reward for defeating Rango at Water Plaza Terrace|Available from the start|MULTI
+2|Dorrie-Back Rider|On Dorrie's back in the underwater Water Plaza area|Available from the start
+3|Cheep Cheep Crossing|Alcove above the Underwater Entrance checkpoint|Available from the start
+4|End of the Hidden Passage|Bounce via flower, unzip wall with zipper, follow hidden path|Available from the start
+5|What's in the Box?|Shiny crate on grassy ledge atop Water Plaza|Available from the start
+6|On the Lakeshore|Glowing spot on sand near Odyssey; ground pound it|Available from the start
+7|From the Broken Pillar|Submerged pillar remains near Water Plaza Entrance; ground pound|Available from the start
+8|Treasure in the Spiky Waterway|Right path at split road in spiky tunnel; open chest|Available from the start
+9|Lake Gardening: Spiky Passage Seed|Seed in spiky tunnel; plant at Water Plaza Entrance|Available after collecting Broodals Over the Lake
+10|Lake Kingdom Timer Challenge 1|Scarecrow platform at surface; throw Cappy, dive to collect|Available after collecting Broodals Over the Lake
+11|Lake Kingdom Timer Challenge 2|Scarecrow at Water Plaza Terrace; backflip up revealed blocks|Available after collecting Broodals Over the Lake
+12|Moon Shards in the Lake|Five Moon Shards hidden in the large lake|Available from the start
+13|Taking Notes: Dive and Swim|Rainbow treble clef in small pool near Odyssey; collect notes|Available from the start
+14|Taking Notes: In the Cliffside|8-bit warp pipe on left wall, treble clef inside|Available from the start
+15|Lake Fishing|Fishing Lakitu in small pool near Courtyard checkpoint|Available after collecting Broodals Over the Lake
+16|I Met a Lake Cheep Cheep!|Captured Cheep Cheep delivered to Lochlady at surface|Available after collecting Broodals Over the Lake
+17|Our Secret Little Room|Secret door in third wall alcove at Water Plaza Entrance|Available from the start
+18|Let's Go Swimming, Captain Toad!|Deep pit at Water Plaza Entrance; reach Captain Toad at bottom|Available from the start
+19|Shopping in Lake Lamode|Buy from Crazy Cap Shop for 100 yellow coins|Available from the start
+20|A Successful Repair Job|Secret area door near Water Plaza; solve puzzle|Available after collecting Broodals Over the Lake
+21|I Feel Underdressed|Locked door by Lochlady near display window; Cappy on pedestal|Available from the start; needs specific outfit and hat
+22|Unzip the Chasm|Submerged zipper on right wall near Water Plaza Entrance|Available from the start
+23|Super-Secret Zipper|Hidden block row in Unzip the Chasm area; double zipper|Available from the start
+24|Jump, Grab, Cling, and Climb|Hidden door on northern wall near Water Plaza Terrace|Available from the start
+25|Jump, Grab, and Climb Some More|Final moving block to hidden bouncy flower, then treasure chest|Available from the start
+26|Secret Path to Lake Lamode!|Viewing Balcony top, reached via a painting in another kingdom|Requires moons from Snow, Seaside, or Metro Kingdom depending on order
+27|Found with Lake Kingdom Art|Stair picture; ground pound missing bone spot in Cascade Kingdom|Available after collecting Broodals Over the Lake
+28|Taxi Flying Through Lake Lamode|Stare at flying taxi through binoculars near Odyssey|Available after defeating Bowser in Moon Kingdom
+29|That Trendy "Pirate" Look|Talk to center Style Sister wearing Pirate outfit|Available after defeating Bowser in Moon Kingdom
+30|Space Is "In" Right Now|Talk to left Style Sister in space or Satellaview suit|Available after defeating Bowser in Moon Kingdom
+31|That "Old West" Style|Talk to right Style Sister in cowboy outfit|Available after defeating Bowser in Moon Kingdom
+32|Lake Kingdom Regular Cup|Win Koopa Troopa freerunning race at kingdom start|Available after defeating Bowser in Moon Kingdom
+33|Peach in the Lake Kingdom|Speak to Peach and Tiara on Water Plaza Terrace|Available after talking to Toad outside Peach's Castle
+34|Behind the Floodgate|Unzip upper floodgate level north of Odyssey, drop down|Available after opening kingdom's Moon Rock
+35|High-Flying Leap|Hat Trampoline on cliff southeast of Water Plaza|Available after opening kingdom's Moon Rock
+36|Deep, Deep Down|Cheep Cheep dive to deep chamber at Water Plaza Entrance|Available after opening kingdom's Moon Rock
+37|Rooftop of the Water Plaza|Ground pound northeast column platform on rooftop|Available after opening kingdom's Moon Rock
+38|Bird Traveling Over the Lake|Catch the roaming bird near floodgate north of Odyssey|Available after opening kingdom's Moon Rock
+39|Love by the Lake|Capture Goomba, deliver to Goombette behind Odyssey|Available after opening kingdom's Moon Rock
+40|Lake Kingdom Master Cup|Win Koopa freerunning race at kingdom start|Available after Moon Rock and Regular Cup Power Moon
+41|Waves of Poison: Hoppin' Over|Moon Pipe right of Odyssey leads to frog jumping challenge|Available after opening kingdom's Moon Rock
+42|Waves of Poison: Hop to It!|Platforms left of previous moon; grab key, return to unlock|Available after opening kingdom's Moon Rock

@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/moons';
+---
+<Base title="Search" noindex>
+  <section class="section">
+    <h1>Search moons</h1>
+    <p class="lede">Search by moon name, place, or anything in a guide.</p>
+  </section>
+  <link rel="stylesheet" href={url('pagefind/pagefind-ui.css')} />
+  <div id="search"></div>
+  <p class="muted" id="search-missing" hidden>Search is built when the site is built, so it isn't available in dev mode. Run <code>npm run build</code> and <code>npm run preview</code>.</p>
+  <script is:inline define:vars={{ bundle: url('pagefind/') }}>
+    const s = document.createElement('script');
+    s.src = bundle + 'pagefind-ui.js';
+    s.onload = () => new PagefindUI({ element: '#search', bundlePath: bundle, showSubResults: false, resetStyles: false });
+    s.onerror = () => { document.getElementById('search-missing').hidden = false; };
+    document.head.appendChild(s);
+  </script>
+  <style is:global>
+    #search { --pagefind-ui-primary: var(--p1); --pagefind-ui-text: var(--fg); --pagefind-ui-background: var(--surface); --pagefind-ui-border: var(--line); --pagefind-ui-tag: var(--code-bg); --pagefind-ui-font: var(--body); }
+  </style>
+</Base>

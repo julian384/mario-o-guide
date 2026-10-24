@@ -1,0 +1,35 @@
+1|Atop a Propeller Pillar|Second propeller pillar near Swamp Hill checkpoint|Available from the start
+2|Below the Cliff's Edge|Low ledge on the northeastern side|Available from the start
+3|Inside the Stone Cage|Behind stone bars; ground pound the nearby block|Available from the start
+4|On a Tree in the Swamp|Tree branch near Swamp Hill; stretch with Tropical Wiggler|Available from the start
+5|Over the Fuzzies, Above the Swamp|Moving platforms above the swamp near Mountainside checkpoint|Available from the start
+6|Avoiding Fuzzies Inside the Wall|2D area behind red-cap door near Mountainside checkpoint|Available from the start
+7|Inside the Rising Stone Pillar|Back of tallest pillar on Swamp Hill staircase|Available from the start
+8|Enjoying the View of Forgotten Isle|Tree top near Rocky Mountain Summit checkpoint|Available from the start
+9|On the Mountain Road|Glowing ground spot on central mountain; ground pound it|Available from the start
+10|A Propeller Pillar's Secret|Center of first propeller pillar near Swamp Hill|Available from the start
+11|Wrecked Rock Block|Northeastern corner; lure Trapeetle to detonate block|Available from the start
+12|A Butterfly's Treasure|Glowing butterfly on ledge above ground-pound switch|Available from the start
+13|Caught Hopping in the Jungle!|Rabbit on first propeller pillar near Swamp Hill|Available after leaving the Lost Kingdom and returning
+14|Cave Gardening|Hidden cave behind mountain near ground-pound switch|Available from the start
+15|Moon Shards in the Jungle|Five shards on tree stumps near Mountainside checkpoint|Available from the start
+16|Peeking Out from Under the Bridge|Beneath stone bridge near kingdom start|Available from the start
+17|Twist 'n' Turn-Up Treasure|Keyhole on low ledge south of start; Wiggler fetches key|Available from the start
+18|Soaring Over Forgotten Isle!|Isolated island south of Rocky Mountain Summit, reached by Glydon|Available from the start
+19|The Caged Gold|Caged on a tree near start; Trapeetle breaks cage|Available from the start
+20|Get Some Rest, Captain Toad|Cliffside opening on northern side; talk to Captain Toad|Available from the start
+21|Shopping on Forgotten Isle|Bought at Crazy Cap Shop for 100 yellow coins|Available from the start
+22|Taxi Flying Through Forgotten Isle|Spot the sky taxi with binoculars; it lands on palm|Available after defeating Bowser in the Moon Kingdom
+23|I Met a Tropical Wiggler!|Free-standing wall east of Swamp Hill flag; present as Wiggler|Available after defeating Bowser in the Moon Kingdom
+24|Lost Kingdom Regular Cup|Koopa Troopa race at kingdom start; win first place|Available after defeating Bowser in the Moon Kingdom
+25|Peach in the Lost Kingdom|Princess Peach at Rocky Mountain Summit; talk to her|Available after talking to the Toad outside Peach's Castle
+26|The Shining Fruit|Red-leaved palm north of the Odyssey, east of Luigi|Available after opening the kingdom's Moon Rock
+27|Jump Down to the Top of a Tree|Tree trunk west of Swamp Hill; jump or glide down|Available after opening the kingdom's Moon Rock
+28|Line It Up, Blow It Up|Upper block behind Swamp Hill staircase; Trapeetle blows it up|Available after opening the kingdom's Moon Rock
+29|Taking Notes: Stretch and Shrink|Rainbow treble clef west of western propeller pillar|Available after opening the kingdom's Moon Rock
+30|Lost Kingdom Master Cup|Koopa Troopa race at kingdom start; win first place|Available after Moon Rock and Regular Cup Power Moon
+31|Lost Kingdom Timer Challenge|Scarecrow on Rocky Mountain unlocks palm-top moon; 10-second limit|Available after opening the kingdom's Moon Rock
+32|Stretch and Traverse the Jungle|Moon Pipe beside the Odyssey leads to obstacle course|Available after opening the kingdom's Moon Rock
+33|Aglow in the Jungle|Fire Piranha Plant lights two torches in bonus course|Available after opening the kingdom's Moon Rock
+34|Chasing Klepto|Moon Pipe below Rocky Mountain Summit; lava-filled bonus area|Available after opening the kingdom's Moon Rock
+35|Extremely Hot Bath|Far-right pillar in Klepto bonus area; grab with Lava Bubble|Available after opening the kingdom's Moon Rock

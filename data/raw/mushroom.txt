@@ -1,0 +1,104 @@
+1|Perched on the Castle Roof|Top of northeastern tower, Peach's Castle|Available from arrival
+2|Pops Out of the Tail|Cappy thrown onto Tail Tree near Odyssey|Available from arrival
+3|Caught Hopping at Peach's Castle!|Catch rabbit hopping in garden east of castle|Available from arrival
+4|Gardening for Toad: Garden Seed|Seed near garden; plant in pot and wait|Available from arrival
+5|Gardening for Toad: Field Seed|Seed among three trees near Odyssey; plant and grow|Available from arrival
+6|Gardening for Toad: Pasture Seed|Seed by lone tree near sheep pen; plant and grow|Available from arrival
+7|Gardening for Toad: Lake Seed|Underwater in Mushroom Pond; plant and grow|Available from arrival
+8|Grow a Flower Garden|Cappy blooms flower sprouts north of garden|Available from arrival
+9|Mushroom Kingdom Timer Challenge|Cappy onto scarecrow northeast of castle; use motor scooter|Available from arrival
+10|Found at Peach's Castle! Good Dog!|Mound southeast of Odyssey; bring the dog to top|Available from arrival
+11|Taking Notes: Around the Well|8-bit pipe at well west of castle; collect notes|Available from arrival
+12|Herding Sheep at Peach's Castle|Return six sheep to sombrero Toad southwest of castle|Available from arrival
+13|Gobbling Fruit with Yoshi|Yoshi eats fruit until meter fills (10 fruits)|Available from arrival
+14|Yoshi's Second Helping!|Fill Yoshi's fruit meter again (20 fruits total)|After Gobbling Fruit with Yoshi
+15|Yoshi's All Filled Up!|Yoshi eats all 30 fruits in the area|After Yoshi's Second Helping!
+16|Love at Peach's Castle|Drain moat; bring captured Goomba Tower to Goombette|Available from arrival
+17|Toad Defender|Toad guarding near Goomba Woods; approach as Goomba|Available from arrival
+18|Forever Onward, Captain Toad!|Speak to Captain Toad atop Crazy Cap Starshroom|Available from arrival
+19|Jammin' in the Mushroom Kingdom|Headphone Toad; play requested 8-bit song|Available from arrival
+20|Shopping Near Peach's Castle|Buy from Crazy Cap for 100 yellow coins|Available from arrival
+21|Mushroom Kingdom Regular Cup|Win first race against Roving Racers|Available from arrival
+22|Mushroom Kingdom Master Cup|Win second race against Roving Racers|After Mushroom Kingdom Regular Cup
+23|Picture Match: Basically Mario|Mini Rocket northeast of castle; score 60+ points|Available from arrival
+24|Picture Match: A Stellar Mario!|Replay Picture Match; score 80+ points|After Picture Match: Basically Mario
+25|Light from the Ceiling|Sun rug in castle; first-person view of ceiling|Available from arrival
+26|Loose-Tile Trackdown|Ground pound eight loose floor tiles in castle|Available from arrival
+27|Totally Classic!|Locked hill door by Goomba Woods|Needs the Mario 64 or Metal outfit
+28|Courtyard Chest Trap|Open eight courtyard chests in correct order|Available from arrival
+29|Yoshi's Feast in the Sea of Clouds|Cave warp pipe at river source; Yoshi eats fruit|Available from arrival
+30|Sunken Star in the Sea of Clouds|Beneath clouds, left of start of Yoshi's Feast area|Available from arrival
+31|Secret 2D Treasure|Reach end of well sub-level west of castle|Available from arrival
+32|2D Boost from Bullet Bill|Jump off Bullet Bill near start of well sub-level|Available from arrival
+33|Tussle in Tostarena: Rematch|Defeat Knucklotec inside painting in outside tower|Available from arrival|MULTI
+34|Struggle in Steam Gardens: Rematch|Defeat Torkdrift inside painting in outside tower|Available from arrival|MULTI
+35|Dust-Up in New Donk City: Rematch|Defeat Mechawiggler inside painting in outside tower|Available from arrival|MULTI
+36|Battle in Bubblaine: Rematch|Defeat Mollusque-Lanceur in warp pipe in Dorrie's pool|Available from arrival|MULTI
+37|Blowup at Mount Volbono: Rematch|Defeat Cookatiel inside painting in outside tower|Available from arrival|MULTI
+38|Rumble in Crumbleden: Rematch|Defeat Ruined Dragon in warp pipe after draining moat|Available from arrival|MULTI
+39|Secret Path to Peach's Castle!|Wall jump up Yoshi's House chimney via Luncheon painting|After Under the Cheese Rocks (Luncheon Kingdom)
+40|A Tourist in the Mushroom Kingdom!|Desert Wanderer gives it after talks in four kingdoms|After A Tourist in the Moon Kingdom!
+41|Found with Mushroom Kingdom Art|Castle artwork; ground pound Glasses Bridge in Cap Kingdom|Available from arrival
+42|Hat-and-Seek: Mushroom Kingdom|Bonneter on top-hat Toad northwest of castle|After Peach in the Moon Kingdom
+43|Princess Peach, Home Again!|Peach on castle balcony after talks in other kingdoms|After Peach in the Moon Kingdom
+44|Rescue Princess Peach|Toadette achievement: finish the main story|Available from arrival
+45|Achieve World Peace|Toadette achievement: finish every kingdom's story|Available from arrival
+46|Power Moon Knight|Toadette achievement: collect 100 Power Moons|Available from arrival
+47|Power Moon Wizard|Toadette achievement: collect 300 Power Moons|Available from arrival
+48|Power Moon Ruler|Toadette achievement: collect 600 Power Moons|Available from arrival
+49|Regional Coin Shopper|Toadette achievement: buy from all 13 Crazy Cap shops|Available from arrival
+50|Flat Moon Finder|Toadette achievement: collect 10 8-bit Power Moons|Available from arrival
+51|Flat Moon Fanatic|Toadette achievement: collect 20 8-bit Power Moons|Available from arrival
+52|Treasure Chest Hunter|Toadette achievement: collect 15 treasure chest moons|Available from arrival
+53|Super Treasure Chest Hunter|Toadette achievement: collect 25 treasure chest moons|Available from arrival
+54|Note-Collecting World Tour|Toadette achievement: collect 5 note moons|Available from arrival
+55|Note-Collecting Space Tour|Toadette achievement: collect 20 note moons|Available from arrival
+56|Timer Challenge Amateur|Toadette achievement: collect 10 timer challenge moons|Available from arrival
+57|Timer Challenge Professional|Toadette achievement: collect 25 timer challenge moons|Available from arrival
+58|Captain Toad Meeter|Toadette achievement: meet Captain Toad in five kingdoms|Available from arrival
+59|Captain Toad Greeter|Toadette achievement: meet Captain Toad in ten kingdoms|Available from arrival
+60|Touring with Princess Peach|Toadette achievement: meet Peach in five kingdoms|Available from arrival
+61|Globe-Trotting with Princess Peach|Toadette achievement: meet Peach in ten kingdoms|Available from arrival
+62|Master Sheep Herder|Toadette achievement: four sheep-herding moons|Available from arrival
+63|Gaga for Goombette|Toadette achievement: five Goombette moons|Available from arrival
+64|Lakitu Fishing Trip|Toadette achievement: three fishing moons as Lakitu|Available from arrival
+65|Flower-Growing Guru|Toadette achievement: five flower-growing moons|Available from arrival
+66|Flower-Growing Sage|Toadette achievement: 10 flower-growing moons|Available from arrival
+67|Running with Rabbits|Toadette achievement: five rabbit-catching moons|Available from arrival
+68|Racing with Rabbits|Toadette achievement: 10 rabbit-catching moons|Available from arrival
+69|Ground Pound Instructor|Toadette achievement: 15 ground pound moons|Available from arrival
+70|Ground Pound Professor|Toadette achievement: 45 ground pound moons|Available from arrival
+71|Rad Hatter|Toadette achievement: three Cappy-throw moons|Available from arrival
+72|Super Rad Hatter|Toadette achievement: 10 Cappy-throw moons|Available from arrival
+73|Traveling-Bird Herder|Toadette achievement: five traveling bird moons|Available from arrival
+74|Wearing It Well!|Toadette achievement: three outfit moons|Available from arrival
+75|Wearing It Great!|Toadette achievement: eight outfit moons|Available from arrival
+76|Wearing It Perfect!|Toadette achievement: 15 outfit moons|Available from arrival
+77|Hat-Seeking Missile|Toadette achievement: five Bonneter hat-and-seek moons|Available from arrival
+78|Music Maestro|Toadette achievement: all five Jammin' Toad moons|Available from arrival
+79|Art Enthusiast|Toadette achievement: five Hint Art moons|Available from arrival
+80|Art Investigator|Toadette achievement: 15 Hint Art moons|Available from arrival
+81|Slots Machine|Toadette achievement: all three Slots moons|Available from arrival
+82|Koopa Freerunning MVP|Toadette achievement: 10 Koopa Freerunning moons|Available from arrival
+83|Koopa Freerunning Hall of Famer|Toadette achievement: 22 Koopa Freerunning moons|Available from arrival
+84|Supernaturally Sure-Footed|Toadette achievement: five Koopa Trace-Walking moons|Available from arrival
+85|Quizmaster|Toadette achievement: three perfect Sphynx quizzes|Available from arrival
+86|Souvenir Sampler|Toadette achievement: 10 souvenirs and stickers|Available from arrival
+87|Souvenir Sleuth|Toadette achievement: 20 souvenirs and stickers|Available from arrival
+88|Souvenir Savant|Toadette achievement: 40 souvenirs and stickers|Available from arrival
+89|Capturing Novice|Toadette achievement: capture 20 kinds of target|Available from arrival
+90|Capturing Apprentice|Toadette achievement: capture 35 kinds of target|Available from arrival
+91|Capturing Master|Toadette achievement: capture 45 kinds of target|Available from arrival
+92|Hat Maven|Toadette achievement: collect 15 hats|Available from arrival
+93|Hat Icon|Toadette achievement: collect 35 hats|Available from arrival
+94|Fashion Maven|Toadette achievement: collect 15 outfits|Available from arrival
+95|Fashion Icon|Toadette achievement: collect 35 outfits|Available from arrival
+96|Moon Rock Liberator|Toadette achievement: open all 14 Moon Rocks|Available from arrival
+97|World Warper|Toadette achievement: travel through 10 warp holes|Available from arrival
+98|Checkpoint Flagger|Toadette achievement: activate 40 checkpoint flags|Available from arrival
+99|Checkpoint Flag Enthusiast|Toadette achievement: activate 80 checkpoint flags|Available from arrival
+100|Loaded with Coins|Toadette achievement: collect 1,000 coins|Available from arrival
+101|Rolling in Coins|Toadette achievement: collect 5,000 coins|Available from arrival
+102|Swimming in Coins|Toadette achievement: collect 10,000 coins|Available from arrival
+103|Jump! Jump! Jump!|Toadette achievement: jump 10,000 times|Available from arrival
+104|Fly, Cappy, Fly!|Toadette achievement: throw Cappy 5,000 times|Available from arrival

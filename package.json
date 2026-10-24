@@ -1,0 +1,20 @@
+{
+  "name": "mario-o-guide",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "A static guide to every Power Moon in Super Mario Odyssey, world by world.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "seed": "node scripts/seed-moons.mjs",
+    "test": "node scripts/check-counts.mjs"
+  },
+  "dependencies": {
+    "astro": "5.18.2"
+  },
+  "devDependencies": {
+    "pagefind": "1.5.2"
+  }
+}

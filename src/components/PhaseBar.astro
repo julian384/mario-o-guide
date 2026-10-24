@@ -1,0 +1,15 @@
+---
+import { PHASES } from '../data/worlds.mjs';
+
+interface Props {
+  byPhase: Record<string, number>;
+  /** Count that fills the whole bar. */
+  scale: number;
+}
+const { byPhase, scale } = Astro.props;
+const total = Object.values(byPhase).reduce((a, b) => a + b, 0);
+const label = PHASES.map((p) => `${byPhase[p.id]} ${p.name.toLowerCase()}`).join(', ');
+---
+<div class="bar" role="img" aria-label={`${total} moons: ${label}`}>
+  {PHASES.map((p) => <span class={`ph-${p.id}`} style={`width:${(byPhase[p.id] / scale) * 100}%`} />)}
+</div>

@@ -1,0 +1,24 @@
+---
+import { moonKey, moonUrl, worldOf, type Moon } from '../lib/moons';
+
+interface Props {
+  moon: Moon;
+  /** Show the world name, for lists that mix worlds. */
+  showWorld?: boolean;
+}
+const { moon, showWorld = false } = Astro.props;
+const key = moonKey(moon);
+const d = moon.data;
+---
+<li class={`moon-row ph-${d.phase}`}>
+  <input type="checkbox" id={`m-${key}`} data-moon={key} aria-label={`Collected: ${d.name}`} />
+  <span class="n">#{d.number}</span>
+  <span class="body">
+    {showWorld && <span class="world-name">{worldOf(d.world).name}</span>}
+    <span>
+      <a href={moonUrl(moon)}>{d.name}</a>
+      {d.multi && <span class="chip multi">Multi Moon ×3</span>}
+    </span>
+    <span class="where">{d.location}</span>
+  </span>
+</li>

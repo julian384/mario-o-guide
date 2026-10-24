@@ -1,0 +1,40 @@
+1|Our First Power Moon|Shiny rock by the waterfall, broken with a Chain Chomp|Available from the start
+2|Multi Moon Atop the Falls|Reward for defeating Madame Broode|Unlocked after Our First Power Moon|MULTI
+3|Chomp Through the Rocks|Rocks on wall behind first Big Chain Chomp|Unlocked after Our First Power Moon
+4|Behind the Waterfall|Hidden block in first 2D area lets you hop a wall|Unlocked after Our First Power Moon
+5|On Top of the Rubble|Atop rubble near the kingdom's starting area|Unlocked after Multi Moon Atop the Falls
+6|Treasure of the Waterfall Basin|Hidden alcove underwater beneath the Odyssey's original spot|Unlocked after Multi Moon Atop the Falls
+7|Above a High Cliff|Cliff-top ledge reached via a revealed warp pipe|Unlocked after Multi Moon Atop the Falls
+8|Across the Floating Isles|Floating platforms northwest of the Madame Broode arena|Unlocked after Multi Moon Atop the Falls
+9|Cascade Kingdom Timer Challenge 1|Scarecrow near start; Cappy reveals platforms over river|Unlocked after Multi Moon Atop the Falls
+10|Cascade Kingdom Timer Challenge 2|Scarecrow at Broode arena; Cappy reveals high blocks|Unlocked after Multi Moon Atop the Falls
+11|Good Morning, Captain Toad!|Captain Toad on a lower platform west of the arena|Unlocked after Multi Moon Atop the Falls
+12|Dinosaur Nest: Big Cleanup!|Secret area near cliff Moon; T-Rex defeats all Burrbos|Unlocked after Multi Moon Atop the Falls
+13|Dinosaur Nest: Running Wild!|As a T-Rex, smash large rocks on a low platform|Unlocked after Multi Moon Atop the Falls
+14|Nice Shot with the Chain Chomp!|Left-side secret pipe; Chain Chomp target puzzle|Unlocked after Multi Moon Atop the Falls
+15|Very Nice Shot with the Chain Chomp!|Hidden area to the right; final Chain Chomp target puzzle|Unlocked after Multi Moon Atop the Falls
+16|Past the Chasm Lifts|Secret door near Stone Bridge checkpoint; cross platforms|Unlocked after Multi Moon Atop the Falls
+17|Hidden Chasm Passage|Warp pipe under second 2D area; Koopa Troopa breaks wall|Unlocked after Multi Moon Atop the Falls
+18|Secret Path to Fossil Falls!|Sky Island, reached through a painting in another kingdom|Unlocked after a Snow or Seaside Kingdom Power Moon
+19|A Tourist in the Cascade Kingdom|Tostarenan traveler near the Odyssey; talk to him|Unlocked after the Metro Kingdom tourist Power Moon
+20|Rolling Rock by the Falls|Break the right rock beneath the Odyssey's original spot|Available after leaving and returning to the kingdom
+21|Peach in the Cascade Kingdom|Princess Peach at Fossil Falls Heights; talk to her|Unlocked after Moon Kingdom Bowser fight and a Mushroom Kingdom Toad
+22|Cascade Kingdom Regular Cup|Koopa Troopa's freerunning race near start; win first place|Unlocked after defeating Bowser in Moon Kingdom
+23|Caveman Cave-Fan|Bonneter at Fossil Falls Heights; talk while wearing Caveman gear|Unlocked after defeating Bowser in Moon Kingdom
+24|Shopping in Fossil Falls|Purchase from the Crazy Cap Shop for 100 yellow coins|Available after leaving and returning to the kingdom
+25|Sphynx Traveling to the Waterfall|Use binoculars at start to watch the Sphynx in sky|Unlocked after defeating Bowser in Moon Kingdom
+26|Bottom of the Waterfall Basin|Glowing spot in water under stone bridge; ground pound it|Unlocked after opening the kingdom's Moon Rock
+27|Just a Hat, Skip, and a Jump|Cappy hat clouds near 8-bit pipe create platforms to isle|Unlocked after opening the kingdom's Moon Rock
+28|Treasure Under the Cliff|Cliff face right of Stone Bridge; Cappy-made platforms|Unlocked after opening the kingdom's Moon Rock
+29|Next to the Stone Arch|Floating above bridge to boss arena at Fossil Falls Heights|Unlocked after opening the kingdom's Moon Rock
+30|Guarded by a Colossal Fossil|Glowing nose of Triceratops fossil at Fossil Falls Heights|Unlocked after opening the kingdom's Moon Rock
+31|Under the Old Electrical Pole|T-Rex smashes spark pylon pole; ground-pound glowing spot|Unlocked after opening the kingdom's Moon Rock
+32|Under the Ground|T-Rex clears rocks at southwest resting spot; ground-pound glow|Unlocked after opening the kingdom's Moon Rock
+33|Inside the Busted Fossil|Chain Chomp smashes fossil piece near spark pylon pole|Unlocked after opening the kingdom's Moon Rock
+34|Caught Hopping at the Waterfall!|Rabbit hopping near the Crazy Cap Shop; catch it|Unlocked after opening the kingdom's Moon Rock
+35|Taking Notes: Hurry Upward|First 2D area; grab rainbow treble clef and notes quickly|Unlocked after opening the kingdom's Moon Rock
+36|Cascade Kingdom Master Cup|Koopa Troopa's freerunning race near start; win first place|Unlocked after Moon Rock and the Regular Cup Moon
+37|Across the Mysterious Clouds|Moon Pipe near Stone Bridge; hat clouds and swinging platforms|Unlocked after opening the kingdom's Moon Rock
+38|Atop a Wall Among the Clouds|Halfway through Mysterious Clouds area, atop a red wall|Unlocked after opening the kingdom's Moon Rock
+39|Across the Gusty Bridges|Moon Pipe under Odyssey's original spot; wind-blown moving platforms|Unlocked after opening the kingdom's Moon Rock
+40|Flying Far Away from Gusty Bridges|Hidden levers on yellow platforms; Cappy through wind gusts|Unlocked after opening the kingdom's Moon Rock

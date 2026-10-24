@@ -1,0 +1,10 @@
+1|Battle with the Lord of Lightning!|Defeat the Ruined Dragon atop the tall tower after climbing|Available from the start|MULTI
+2|In the Ancient Treasure Chest|Chest at end of ledge left of stairs|Available from the start
+3|Roulette Tower: Climbed|Roulette block tower reached via Mini Rocket on battlefield|After defeating the Ruined Dragon
+4|Roulette Tower: Stopped|Inside Roulette Tower, section left of red Koopa Troopas|After defeating the Ruined Dragon
+5|Peach in the Ruined Kingdom|Battlefield, right of the dragon, with Peach and Tiara|After talking to the Toad outside Peach's Castle
+6|Caught on a Big Horn|Hold Cappy on the dragon's left horn until moon appears|After opening the kingdom's Moon Rock
+7|Upon the Broken Arch|Top of the broken arch, right side of staircase|After opening the kingdom's Moon Rock
+8|Rolling Rock on the Battlefield|Loose rock on battlefield; throw it 50 times or hit rock|After opening the kingdom's Moon Rock
+9|Charging Through an Army|Moon Pipe by Odyssey; capture Chargin' Chuck to free cage|After opening the kingdom's Moon Rock
+10|The Mummy Army's Curse|Moon Pipe area; defeat sparkling Chincho at area start|After opening the kingdom's Moon Rock

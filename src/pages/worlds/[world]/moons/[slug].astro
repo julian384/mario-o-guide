@@ -1,0 +1,67 @@
+---
+import { render } from 'astro:content';
+import Base from '../../../../layouts/Base.astro';
+import { COLLECTIONS, SPOILER_PHASES } from '../../../../data/worlds.mjs';
+import { allMoons, moonKey, moonSlug, moonUrl, phaseOf, worldOf, url, type Moon } from '../../../../lib/moons';
+
+export async function getStaticPaths() {
+  const moons = await allMoons();
+  return moons.map((moon, i) => {
+    const sameWorld = (m?: Moon) => (m && m.data.world === moon.data.world ? m : undefined);
+    return {
+      params: { world: moon.data.world, slug: moonSlug(moon) },
+      props: { moon, prev: sameWorld(moons[i - 1]), next: sameWorld(moons[i + 1]) },
+    };
+  });
+}
+
+const { moon, prev, next } = Astro.props as { moon: Moon; prev?: Moon; next?: Moon };
+const d = moon.data;
+const world = worldOf(d.world);
+const phase = phaseOf(d.phase);
+const tags = COLLECTIONS.filter((c) => d.tags.includes(c.id));
+const { Content } = await render(moon);
+const key = moonKey(moon);
+---
+<Base title={`${d.name} (${world.name} #${d.number})`} description={`How to get ${d.name}, Power Moon #${d.number} in the ${world.name}. ${d.location}.`}>
+  <article class="stack">
+    <span class="crumb">
+      <a href={url('worlds/')}>Worlds</a> / <a href={url(`worlds/${d.world}/`)}>{world.name}</a> /
+      <a href={url(`worlds/${d.world}/#${d.phase}`)}>{phase.name}</a>
+    </span>
+    <h1><span class="muted num" style="font-weight:600">#{d.number}</span> {d.name}</h1>
+    <div class="chips">
+      <span class={`chip phase ph-${d.phase}`}><span class="dot"></span>{phase.short} · {phase.name}</span>
+      {d.multi && <span class="chip multi">Multi Moon, worth 3</span>}
+      {tags.map((t) => <a class="chip" href={url(`collections/${t.id}/`)}>{t.name}</a>)}
+    </div>
+
+    {SPOILER_PHASES.includes(d.phase) && (
+      <p class={`notice ph-${d.phase}`}>This moon only appears after you beat Bowser{d.phase === 'moon-rock' ? ' and break the kingdom’s Moon Rock' : ''}.</p>
+    )}
+
+    <div class="panel">
+      <div class="facts">
+        <div class="fact"><b>Where</b>{d.location}</div>
+        <div class="fact"><b>When it's available</b>{d.unlock}</div>
+        {d.checkpoint && <div class="fact"><b>Nearest checkpoint</b>{d.checkpoint}</div>}
+        {d.captures.length > 0 && <div class="fact"><b>Captures needed</b>{d.captures.join(', ')}</div>}
+        {d.difficulty && <div class="fact"><b>Difficulty</b>{d.difficulty}</div>}
+      </div>
+      <label class="chips" style="align-items:center;gap:8px;cursor:pointer">
+        <input type="checkbox" data-moon={key} style="width:18px;height:18px" />
+        <span>I've collected this moon</span>
+      </label>
+    </div>
+
+    <section class="prose">
+      <h2>How to get it</h2>
+      <Content />
+    </section>
+
+    <nav class="pager" aria-label="Nearby moons">
+      <span>{prev ? <a href={moonUrl(prev)}>← #{prev.data.number} {prev.data.name}</a> : <a href={url(`worlds/${d.world}/`)}>← {world.name}</a>}</span>
+      <span>{next ? <a href={moonUrl(next)}>#{next.data.number} {next.data.name} →</a> : <a href={url(`worlds/${d.world}/`)}>{world.name} →</a>}</span>
+    </nav>
+  </article>
+</Base>

@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import { COLLECTIONS } from '../../data/worlds.mjs';
+import { allMoons, moonKey, url } from '../../lib/moons';
+
+const moons = await allMoons();
+const sets = COLLECTIONS.map((c) => ({ ...c, moons: moons.filter((m) => m.data.tags.includes(c.id)) }));
+---
+<Base title="Collections" noindex>
+  <section class="section">
+    <span class="eyebrow">Across every world</span>
+    <h1>Collections</h1>
+    <p class="lede">Moon types that repeat from kingdom to kingdom. Some feed Toadette's achievements in the Mushroom Kingdom.</p>
+  </section>
+  <div class="grid">
+    {sets.map((s) => (
+      <a class="card" href={url(`collections/${s.id}/`)}>
+        <span class="title">{s.name}</span>
+        <span class="muted" style="font-size:.9rem">{s.blurb}</span>
+        <span class="meta"><span class="progress-text" data-progress={s.moons.map(moonKey).join(',')}></span><span class="num">{s.moons.length}</span></span>
+      </a>
+    ))}
+  </div>
+</Base>

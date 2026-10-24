@@ -1,0 +1,62 @@
+1|Infiltrate Bowser's Castle!|Defeat the Stairface Ogre at Third Courtyard (Rear)|Available from the start
+2|Smart Bombing|Collect five Moon Shards in Second Courtyard|After Infiltrate Bowser's Castle!
+3|Big Broodal Battle|Defeat Hariet and Topper at Main Courtyard Entrance|After Smart Bombing
+4|Showdown at Bowser's Castle|Defeat RoboBrood at the top of the keep|After Big Broodal Battle|MULTI
+5|Behind the Big Wall|Capture a Pokio at Third Courtyard (Front) and climb wall|Available from the start
+6|Treasure Inside the Turret|Poke hidden walls left of Second Courtyard using Pokio|After Infiltrate Bowser's Castle!
+7|From the Side Above the Castle Gate|Roof left of spark pylon at Second Courtyard end|After Smart Bombing
+8|Sunken Treasure in the Moat|Swim under the structure in Main Courtyard's left pool|After Big Broodal Battle
+9|Past the Moving Wall|Beneath the Keep: poke across moving walls down three levels|After Showdown at Bowser's Castle
+10|Above the Poison Swamp|Capture Lakitu over poisoned water, use Hat Catapults|After Showdown at Bowser's Castle
+11|Knocking Down the Nice Frame|Throw Cappy behind framed sign on rooftop near Beneath the Keep|After Big Broodal Battle
+12|Caught on the Iron Fence|Cappy onto a small Bowser head on fence behind Odyssey|Available from the start
+13|On the Giant Bowser Statue's Nose|Ground pound glowing spot on golden Bowser head's nose|After Big Broodal Battle
+14|Inside a Block in the Castle|Lure Stairface Ogre to break glowing metal block right of Outer Wall|After Big Broodal Battle
+15|Caught Hopping at Bowser's Castle!|Catch the right-hand rabbit atop the keep|After Showdown at Bowser's Castle
+16|Exterminate the Ogres!|Defeat three Stairface Ogres on distant island via spark pylon|After Smart Bombing
+17|Bowser's Kingdom Timer Challenge 1|Cappy onto scarecrow at Showdown Arena, collect before timer|After Showdown at Bowser's Castle
+18|Taking Notes: Between Spinies|Collect all notes from treble clef at Third Courtyard (Rear)|Available from the start
+19|Stack Up Above the Wall|Build 10-Goomba stack, press numbered Goomba button by building|Available from the start
+20|Hidden Corridor Under the Floor|Crates inside wall behind Outer Wall checkpoint, behind bars|After Big Broodal Battle
+21|Poking Your Nose in the Plaster Wall|Pokio poke hole in wall at end of Third Courtyard (Rear)|After Infiltrate Bowser's Castle!
+22|Poking the Turret Wall|Firework bomb into metal boxes, poke hole at Second Courtyard end|After Infiltrate Bowser's Castle!
+23|Poking Your Nose by the Great Gate|Crates behind spark pylon near Beneath the Keep, poke hole|After Big Broodal Battle
+24|Jizo All in a Row|Place Jizo among five stationary Jizos at Souvenir Shop|After Smart Bombing
+25|Underground Jizo|Cracked floor at Souvenir Shop leads to room; place Jizo|After Smart Bombing
+26|Found Behind Bars!|Pokio up wall to roof, spark pylon to jail cell at Main Courtyard|After Big Broodal Battle
+27|Fishing(?) in Bowser's Castle|Catch large fish with Lakitu over poisoned water|After Showdown at Bowser's Castle
+28|Good to See You, Captain Toad!|Talk to Captain Toad on far right roof at Outer Wall|After Big Broodal Battle
+29|Shopping at Bowser's Castle|Buy from Crazy Cap shop for 100 coins|After Smart Bombing
+30|Bowser's Castle Treasure Vault|Big door dropped into from right roof at Beneath the Keep|After Showdown at Bowser's Castle
+31|Scene of Crossing the Poison Swamp|Buy Samurai gear, pass New Donker, complete 8-bit section|After Smart Bombing
+32|Taking Notes: In the Folding Screen|Treble clef on third screen of Poison Swamp area, collect notes|After Smart Bombing
+33|On Top of the Spinning Tower|Defeat Stairface Ogre at poison pool, Pokio up spinning tower|After Showdown at Bowser's Castle
+34|Down and Up the Spinning Tower|Get key from bottom alcove of spinning tower, return to top|After Showdown at Bowser's Castle
+35|Jizo's Big Adventure|Warp pipe at Showdown Arena; Jizo puzzle to high platform|After Showdown at Bowser's Castle
+36|Jizo and the Hidden Room|Jizos on P Switches, find alcove near exit wall|After Showdown at Bowser's Castle
+37|Dashing Above the Clouds|Plant seed near Beneath the Keep, beanstalk bonus with Rocket Flowers|After Big Broodal Battle
+38|Dashing Through the Clouds|Narrow path left side of Dashing Above the Clouds area|After Big Broodal Battle
+39|Sphynx Over Bowser's Castle|Binoculars at Main Courtyard, zoom on flying Sphynx|Available after defeating Bowser in the Moon Kingdom
+40|I Met a Pokio!|Pokio to Bonneter biologist atop Moon Rock building, Main Courtyard|Available after defeating Bowser in the Moon Kingdom
+41|Bowser's Kingdom Regular Cup|Win Koopa Freerunning race beneath the Keep|Available after defeating Bowser in the Moon Kingdom
+42|A Rumble Under the Arena Floor|Ground pound a specific floor spot at Showdown Arena|Available after defeating Bowser in the Moon Kingdom
+43|Secret Path to Bowser's Castle!|Painting under Cascade Kingdom waterfall leads to Island in Sky|Available after defeating Bowser in the Moon Kingdom
+44|Peach in Bowser's Kingdom|Speak to Peach and Tiara at Souvenir Shop|After defeating Bowser and talking to Toad outside Peach's Castle
+45|Found with Bowser's Kingdom Art|Hint Art left of Main Courtyard checkpoint; dig in Sand Kingdom|Available after defeating Bowser in the Moon Kingdom
+46|Behind the Tall Wall: Poke, Poke!|Pokio to roof left side at Third Courtyard (Rear), poke hole|Available after opening the kingdom's Moon Rock
+47|From Crates in the Moat|Underwater crates in right pool at Main Courtyard|Available after opening the kingdom's Moon Rock
+48|Caught on the Giant Horn|Cappy onto left golden horn statue at top of keep|Available after opening the kingdom's Moon Rock
+49|Inside a Block at the Gate|Firework bomb into metal box beside Main Courtyard checkpoint|Available after opening the kingdom's Moon Rock
+50|Small Bird in Bowser's Castle|Throw Cappy at glowing bird atop building before it flies|Available after opening the kingdom's Moon Rock
+51|Invader in Bowser's Castle|Defeat Yoofoe in Topper's arena at Main Courtyard Entrance|Available after opening the kingdom's Moon Rock
+52|Jumping from Flag to Flag|Cross flags left of Main Courtyard Entrance for key|Available after opening the kingdom's Moon Rock
+53|Bowser's Kingdom Timer Challenge 2|Cappy onto scarecrow on right building, grab key in time|Available after opening the kingdom's Moon Rock
+54|Taking Notes: On the Wall|Treble clef on lower platform far right of Third Courtyard (Rear)|Available after opening the kingdom's Moon Rock
+55|Taking Notes with a Spinning Throw|Treble clef at Hariet fight site, collect three note sets|Available after opening the kingdom's Moon Rock
+56|Third Courtyard Outskirts|Shake controller near coin circle on spark pylon route|Available after opening the kingdom's Moon Rock
+57|Stone Wall Circuit|Hidden spark pylon right of Second Courtyard leads to key|Available after opening the kingdom's Moon Rock
+58|Bowser's Kingdom Master Cup|Win Koopa Freerunning race beneath the Keep|After opening Moon Rock and collecting the Regular Cup moon
+59|Searching Hexagon Tower|Moon Pipe on distant building, collect five Moon Shards|Available after opening the kingdom's Moon Rock
+60|Center of Hexagon Tower|Key in bottom alcove of hexagon tower, moon at top|Available after opening the kingdom's Moon Rock
+61|Climb the Wooden Tower|Moon Pipe on distant right building, Pokio up tower|Available after opening the kingdom's Moon Rock
+62|Poke the Wooden Tower|Crates behind first wall in Wooden Tower area|Available after opening the kingdom's Moon Rock

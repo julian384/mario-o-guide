@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { WORLDS, PHASES } from '../data/worlds.mjs';
+import { allMoons, moonKey, url } from '../lib/moons';
+
+const moons = await allMoons();
+const keys = (filter: (m: (typeof moons)[number]) => boolean) => moons.filter(filter).map(moonKey).join(',');
+---
+<Base title="Checklist" noindex>
+  <section class="section">
+    <span class="eyebrow">Your progress</span>
+    <h1>Checklist</h1>
+    <p class="lede">
+      Tick moons on any world, phase or moon page. Ticks are saved in this browser only, so use a transfer code to
+      move them to another device.
+    </p>
+    <p class="progress-text" style="font-size:1rem" data-progress={moons.map(moonKey).join(',')}></p>
+  </section>
+
+  <div class="tablebox">
+    <table>
+      <thead><tr><th>World</th>{PHASES.map((p) => <th>{p.name}</th>)}<th>All</th></tr></thead>
+      <tbody>
+        {WORLDS.map((w) => (
+          <tr>
+            <td><a href={url(`worlds/${w.id}/`)}>{w.name}</a></td>
+            {PHASES.map((p) => {
+              const k = keys((m) => m.data.world === w.id && m.data.phase === p.id);
+              return <td class="num">{k ? <span data-progress={k}></span> : '–'}</td>;
+            })}
+            <td class="num"><span data-progress={keys((m) => m.data.world === w.id)}></span></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <section class="panel" data-all-keys={moons.map(moonKey).join(',')}>
+    <h2>Move your progress</h2>
+    <p class="muted">Make a code here, then paste it on your other device and load it. Loading replaces the ticks on that device.</p>
+    <label for="transfer-code" class="muted" style="font-size:.85rem">Transfer code</label>
+    <textarea id="transfer-code" rows="3" spellcheck="false"></textarea>
+    <div class="chips">
+      <button type="button" class="btn primary" id="transfer-export">Make a code</button>
+      <button type="button" class="btn" id="transfer-import">Load this code</button>
+      <button type="button" class="btn" id="transfer-clear">Clear checklist</button>
+    </div>
+    <p id="transfer-msg" class="muted" role="status"></p>
+  </section>
+
+  <section class="panel">
+    <h2>Spoilers</h2>
+    <p data-spoiler-status class="muted">Post-game moons are hidden.</p>
+    <div class="chips">
+      <button type="button" class="btn" data-spoiler-on>Show post-game moons</button>
+      <button type="button" class="btn" data-spoiler-off>Hide post-game moons</button>
+    </div>
+  </section>
+</Base>

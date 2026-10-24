@@ -1,0 +1,76 @@
+1|Road to Sky Garden|Traverse Iron Road, then defeat Big Poison Piranha Plant|Available from the start
+2|Flower Thieves of Sky Garden|Defeat Spewart on Sky Garden Tower|Available after Road to Sky Garden|MULTI
+3|Path to the Secret Flower Field|Destroy entrance cannon using nearby Sherms|Available after Flower Thieves of Sky Garden
+4|Defend the Secret Flower Field!|Defeat Torkdrift in the Secret Flower Field|Available after Path to the Secret Flower Field|MULTI
+5|Behind the Rock Wall|Sherm breaks rock wall near Summit Path checkpoint|Available after Flower Thieves of Sky Garden
+6|Back Way Up the Mountain|Uproot breaks Rock Blocks near Station 8, 2D area|Intended after Flower Thieves; skilled jumps work earlier
+7|Rolling Rock in the Woods|Rock between four bushes near the Odyssey|Available from the start
+8|Caught Hopping in the Forest!|Rabbit near the Odyssey; catch it|Available from the start
+9|Thanks for the Charge!|Ground pound glowing spot on right charging station|Available after Flower Thieves of Sky Garden
+10|Atop the Tall Tree|Uproot climbs southeastern tall tree; destroy nut|Available from the start
+11|Tucked Away Inside the Tunnel|Uproot reaches high nut upstream from opening river|Available from the start
+12|Over the Cliff's Edge|Hidden path behind cliff wall near Summit Path|Intended after Flower Thieves; skilled jumps work earlier
+13|The Nut 'Round the Corner|Hidden iron path near Talkatoo; destroy nut|Available from the start
+14|Climb the Cliff to Get the Nut|Cappy lever in upstream cave; Uproot climbs cliff|Available from the start
+15|The Nut in the Red Maze|Nut hidden in corner of Iron Road maze|Available from the start
+16|The Nut at the Dead End|Hidden iron path below Road to Sky Garden moon|Available from the start
+17|Cracked Nut on a Crumbling Tower|Collapsing platform side path to Sky Garden Tower|Intended after Road to Sky Garden; skilled jumps work earlier
+18|The Nut That Grew on the Tall Fence|Cross iron wall near Iron Mountain Path Station 8|Intended after Flower Thieves; skilled jumps work earlier
+19|Fire in the Cave|Defeat Fire Bro in cave behind scarecrow door|Available from the start
+20|Hey Out There, Captain Toad!|Glydon glides to eastern island; find Captain Toad|Available after Defend the Secret Flower Field!
+21|Love in the Forest Ruins|Goomba Tower reaches Goombette near charging station|Available after Flower Thieves of Sky Garden
+22|Inside a Rock in the Forest|Sherm on lower cliff; destroy dirt rock near Odyssey|Available after Defend the Secret Flower Field!
+23|Shopping in Steam Gardens|Buy from Crazy Cap Shop for 100 coins|Available from the start
+24|Nut Planted in the Tower|Nut on central column inside Sky Garden Tower|Intended after Road to Sky Garden; skilled jumps work earlier
+25|Stretching Your Legs|Stretch Uproot from column top to high moon|Intended after Road to Sky Garden; skilled jumps work earlier
+26|Spinning-Platforms Treasure|Hidden iron and rotating platforms lead to warp pipe|Available after Flower Thieves of Sky Garden
+27|Make the Secret Flower Field Bloom|Cappy blooms three flower groups before they close|Available after Defend the Secret Flower Field!
+28|Rolling Rock in the Deep Woods|Break rock at southern end of Deep Woods|Available from the start
+29|Glowing in the Deep Woods|Cappy-throw scarecrow by river pool; collect timed moon|Available from the start
+30|Past the Peculiar Pipes|Warp pipe on eastern wall leads to pipe maze|Available from the start
+31|By the Babbling Brook in Deep Woods|Lure T-Rex, capture it, break northwestern rock|Available from the start
+32|The Hard Rock in Deep Woods|Lure T-Rex, capture it, break southeastern rock|Available from the start
+33|A Treasure Made from Coins|Shoot 500 coins at sprout by river pool|Available from the start
+34|Beneath the Roots of the Moving Tree|Capture pine tree on eastern wall; ground pound glow|Available from the start
+35|Deep Woods Treasure Trap|Warp pipe room; open chests center, left, right|Available from the start
+36|Exploring for Treasure|Locked door guarded by Steam Gardener; needs Explorer gear|Available from the start
+37|Wooded Kingdom Timer Challenge 1|Scarecrow reveals poles; swing up before time runs out|Available after Defend the Secret Flower Field!
+38|Wooded Kingdom Timer Challenge 2|Scarecrow reveals platforms at left charging station|Available after Defend the Secret Flower Field!
+39|Flooding Pipeway|Submerged warp pipe near Iron Road Entrance|Available from the start
+40|Flooding Pipeway Ceiling Secret|Ceiling opening leads to alcove near Flooding Pipeway|Available from the start
+41|Wandering in the Fog|Mini Rocket to fog area; collect five Moon Shards|Available after Flower Thieves of Sky Garden
+42|Nut Hidden in the Fog|Nut behind iron platform in fog area|Available after Flower Thieves of Sky Garden
+43|Flower Road Run|Hidden door behind sloped ramp; reach secret area end|Intended after Flower Thieves; skilled jumps work earlier
+44|Flower Road Reach|Goomba Tower reaches high iron platform moon|Intended after Flower Thieves; skilled jumps work earlier
+45|Elevator Escalation|Hidden door top-right of sloped ramp at Summit Path|Available after Flower Thieves of Sky Garden
+46|Elevator Blind Spot|Sherm shoots hidden rock on back wall|Available after Flower Thieves of Sky Garden
+47|Walking on Clouds|Steam Gardener seed taken to Observation Deck seed pot|Available after Defend the Secret Flower Field!
+48|Above the Clouds|Uproot reaches high moon above central cloud platform|Available after Defend the Secret Flower Field!
+49|Secret Path to the Steam Gardens!|Iron Cage moon reached via painting in another kingdom|Available after a Snow, Seaside, or Metro Kingdom moon
+50|Found with Wooded Kingdom Art|Hint Art near Odyssey; ground pound bushes in Sand Kingdom|Available from the start
+51|Swing Around Secret Flower Field|Poles and brick blocks with key and P Switch|Available after defeating Bowser in the Moon Kingdom
+52|Jammin' in the Wooded Kingdom|Jammin' Toad by stream above southeast waterfall|Available after defeating Bowser in the Moon Kingdom
+53|Wooded Kingdom Regular Cup|Win Koopa Freerunning race at Forest Charging Station|Available after defeating Bowser in the Moon Kingdom
+54|Peach in the Wooded Kingdom|Talk to Princess Peach at Observation Deck|After defeating Bowser and talking to Toad outside Peach's Castle
+55|High Up in the Cave|Cave linking woods to Steam Gardens; high ledge|Available after opening the kingdom's Moon Rock
+56|Lost in the Tall Trees|Crate on platform atop eastern pine tree|Available after opening the kingdom's Moon Rock
+57|Looking Down on the Goombas|Glydon flies to nut on iron wall near Goombette|Available after opening the kingdom's Moon Rock
+58|High Up on a Rock Wall|Uproot stretches to nut above brick blocks on Iron Road|Available after opening the kingdom's Moon Rock
+59|The Nut in the Robot Storeroom|Nut above storeroom entrance and two Volbonan tourists|Available after opening the kingdom's Moon Rock
+60|Above the Iron Mountain Path|Flower road from P Switch on brittle iron path|Available after opening the kingdom's Moon Rock
+61|The Nut Under the Observation Deck|Uproot climbs Hidden Blocks to high nut under deck|Available after opening the kingdom's Moon Rock
+62|Bird Traveling the Forest|Throw Cappy at bluebird circling Iron Road and charging station|Available after opening the kingdom's Moon Rock
+63|Invader in the Sky Garden|Defeat Yoofoe atop Sky Garden Tower|Available after opening the kingdom's Moon Rock
+64|Hot, Hot, Hot from the Campfire|Capture Fire Bro to light Volbonan campfire near Talkatoo|Available after opening the kingdom's Moon Rock
+65|Wooded Kingdom Timer Challenge 3|Scarecrow reveals timed obstacle course west of Station 8|Available after opening the kingdom's Moon Rock
+66|Moon Shards in the Forest|Collect five Moon Shards in Iron Road maze|Available after opening the kingdom's Moon Rock
+67|Taking Notes: On Top of the Wall|Rainbow treble clef starts note trail to Odyssey|Available after opening the kingdom's Moon Rock
+68|Taking Notes: Stretching|Treble clef below Iron Cage; stretch as Uproot|Available after opening the kingdom's Moon Rock
+69|Wooded Kingdom Master Cup|Win Koopa Freerunning race at Forest Charging Station|After opening Moon Rock and collecting the Regular Cup moon
+70|I Met an Uproot!|Bring captured Uproot to Bonneter biologist on northern tower|Available after opening the kingdom's Moon Rock
+71|Invisible Road: Danger!|Moon Pipe bonus area; defeat three Big Poison Piranha Plants|Available after opening the kingdom's Moon Rock
+72|Invisible Road: Hidden Room|Invisible alcove with treasure chest near rotating platform|Available after opening the kingdom's Moon Rock
+73|Herding Sheep Above the Forest Fog|Moon Pipe bonus area; lead sheep to pole circle|Available after opening the kingdom's Moon Rock
+74|Herding Sheep on the Iron Bridge|Hidden warp pipe; P Switch; lead sheep to pen in time|Available after opening the kingdom's Moon Rock
+75|Down and Back Breakdown Road|Moon Pipe bonus area; collect key, return to start|Available after opening the kingdom's Moon Rock
+76|Below Breakdown Road|Capture Banzai Bill below; fly into breakable wall|Available after opening the kingdom's Moon Rock

@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import MoonRow from '../../components/MoonRow.astro';
+import { COLLECTIONS, PHASES } from '../../data/worlds.mjs';
+import { allMoons, moonKey, url } from '../../lib/moons';
+
+export function getStaticPaths() {
+  return COLLECTIONS.map((c) => ({ params: { tag: c.id } }));
+}
+
+const { tag } = Astro.params;
+const c = COLLECTIONS.find((x) => x.id === tag)!;
+const moons = (await allMoons()).filter((m) => m.data.tags.includes(tag));
+---
+<Base title={c.name} noindex>
+  <section class="section">
+    <span class="crumb"><a href={url('collections/')}>Collections</a> / {c.name}</span>
+    <h1>{c.name}</h1>
+    <p class="lede">{c.blurb} {moons.length} moons.</p>
+    <div class="legend">
+      {PHASES.map((p) => <span class={`ph-${p.id}`}><span class="dot"></span>{p.name}</span>)}
+    </div>
+    <p class="progress-text" data-progress={moons.map(moonKey).join(',')}></p>
+  </section>
+  <ul class="moon-list">{moons.map((m) => <MoonRow moon={m} showWorld />)}</ul>
+</Base>

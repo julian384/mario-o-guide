@@ -1,0 +1,89 @@
+1|Atop the Highest Tower|Round Tower, Tostarena Ruins|Available from the start
+2|Moon Shards in the Sand|Moe-Eye Habitat, Tostarena Ruins|Available after "Atop the Highest Tower"
+3|Showdown on the Inverted Pyramid|Top of Inverted Pyramid, defeat Hariet|Available after "Moon Shards in the Sand"|MULTI
+4|The Hole in the Desert|Deepest Underground, defeat Knucklotec|Available after "Showdown on the Inverted Pyramid"|MULTI
+5|Overlooking the Desert Town|Building rooftop, northwest Tostarena Town|Available from the start
+6|Alcove in the Ruins|Hidden alcove under 8-bit section, Tostarena Ruins|Available from the start
+7|On the Leaning Pillar|Stone pillar near Sand Pillar checkpoint|Available from the start
+8|Hidden Room in the Flowing Sands|Small quicksand alcove near Sand Pillar checkpoint|Available from the start
+9|Secret of the Mural|Hidden alcove, Round Tower 8-bit section|Available from the start
+10|Secret of the Inverted Mural|Exterior 8-bit section, Inverted Pyramid|Available after "Moon Shards in the Sand"; not while pyramid floats
+11|On Top of the Stone Archway|Ruins archway entrance, reached by Bullet Bill|Available from the start; also via Spark pylon after Showdown
+12|From a Crate in the Ruins|Shiny crate beside Bill Blaster, Ruins 8-bit section|Available from the start
+13|On the Lone Pillar|Isolated pillar between Inverted Pyramid and Jaxi Ruins|Available from the start; also via Glydon after The Hole in the Desert
+14|On the Statue's Tail|Jaxi statue, northwest corner of Inverted Pyramid|Available after "Moon Shards in the Sand"; not while pyramid floats
+15|Hang Your Hat on the Fountain|Tostarena Town fountain|Available after "The Hole in the Desert"
+16|Where the Birds Gather|Sand mound with birds, Desert Oasis|Available from the start
+17|Top of a Dune|Tallest dune west of Tostarena Town|Available from the start
+18|Lost in the Luggage|Glowing sand spot by boxes near Inverted Pyramid entrance|Available from the start
+19|Bullet Bill Breakthrough|Caged moon near Sand Pillar checkpoint|Available after "Showdown on the Inverted Pyramid"
+20|Inside a Block Is a Hard Place|Stone block on ledge below Sand Pillar checkpoint|Available from the start
+21|Bird Traveling the Desert|Large flying bird over Sand Kingdom, Desert Oasis|Available from the start
+22|Bird Traveling the Wastes|Large bird circling Jaxi Ruins|Available after "The Hole in the Desert"
+23|The Lurker Under the Stone|Lurker moving around Inverted Pyramid top|Available after "The Hole in the Desert"
+24|The Treasure of Jaxi Ruins|Left treasure chest, Jaxi Ruins via quicksand sinkhole|Available from the start
+25|Desert Gardening: Plaza Seed|Seed beside flower pots, Tostarena Town|Available from the start
+26|Desert Gardening: Ruins Seed|Seed in alcove near Sand Pillar checkpoint|Available from the start
+27|Desert Gardening: Seed on the Cliff|Low cliff ledge south of Moe-Eye Habitat|Available from the start
+28|Sand Kingdom Timer Challenge 1|Scarecrow on building, Tostarena Northwest Reaches|Available after "The Hole in the Desert"
+29|Sand Kingdom Timer Challenge 2|P Switch, key, and lock, Moe-Eye Habitat|Available after "The Hole in the Desert"
+30|Sand Kingdom Timer Challenge 3|Scarecrow east of Jaxi Ruins|Available after "The Hole in the Desert"
+31|Found in the Sand! Good Dog!|Glowing sand spot dug up by dog, near Crazy Cap Shop|Available after "The Hole in the Desert"
+32|Taking Notes: Jump on the Palm|Treble clef atop palm tree, Desert Oasis|Available from the start
+33|Herding Sheep in the Dunes|Lost sheep near base of Inverted Pyramid|Available from the start; not after Showdown; returns after Hole
+34|Fishing in the Oasis|Fishing Lakitu, Desert Oasis|Available after "The Hole in the Desert"
+35|Love in the Heart of the Desert|Goombette near Tostarena Ruins Entrance|Available after "The Hole in the Desert"
+36|Among the Five Cactuses|Tall glowing cactus, central north Sand Kingdom|Available from the start
+37|You're Quite a Catch, Captain Toad!|Captain Toad fished from north end of Oasis|Available after "The Hole in the Desert"
+38|Jaxi Reunion!|Empty pedestal east of Desert Oasis|Available after "The Hole in the Desert"
+39|Welcome Back, Jaxi!|Empty pedestal, south end of Inverted Pyramid|Available after "The Hole in the Desert"
+40|Wandering Cactus|Cactus with birds north of Desert Oasis|Available from the start
+41|Sand Quiz: Wonderful!|Sphynx behind Tostarena Ruins, five correct answers|Available from the start
+42|Shopping in Tostarena|Crazy Cap Shop, costs 100 coins|Available from the start
+43|Employees Only|Alcove on left side of Tostarena Town|Available from the start
+44|Sand Kingdom Slots|Slots mini-game, Tostarena Town|Available from the start
+45|Walking the Desert!|Koopa Troopa between Ruins and Desert Oasis|Available from the start; not after Showdown; returns after Hole
+46|Hidden Room in the Inverted Pyramid|Treasure chest room in pyramid interior|Available after "Moon Shards in the Sand"; not while pyramid floats
+47|Underground Treasure Chest|Hidden chest behind wall, Underground Temple|Available after "Showdown on the Inverted Pyramid"
+48|Goomba Tower Assembly|High floating moon, Underground Temple|Available after "Showdown on the Inverted Pyramid"
+49|Under the Mummy's Curse|Glowing Chincho in Knucklotec arena|Available after "The Hole in the Desert"
+50|Ice Cave Treasure|Stone pillars near exit Warp Pipe, north of Sand Pillar|Available from the start
+51|Sphynx's Treasure Vault|Sphynx behind Tostarena Ruins, one correct answer|Available from the start
+52|A Rumble from the Sandy Floor|Vibrating spot in secret area by Warp Pipe|Available from the start
+53|Dancing with New Friends|Locked room in Tostarena Town, dance on stage|Available from the start
+54|The Invisible Maze|Secret area north of Moe-Eye Habitat|Available from the start
+55|Skull Sign in the Transparent Maze|Skull sign in Invisible Maze area|Available from the start
+56|The Bullet Bill Maze: Break Through!|Large building, Tostarena Northwest Reaches|Available from the start
+57|The Bullet Bill Maze: Side Path|Spiral side path halfway through maze|Available from the start
+58|Jaxi Driver|Tunnel in poisonous water below Jaxi Ruins checkpoint|Available from the start
+59|Jaxi Stunt Driving|Side path with treble clef, Jaxi Driver area|Available from the start
+60|Strange Neighborhood|Rotating buildings, reached by Mini Rocket in town|Available after "The Hole in the Desert"
+61|Above a Strange Neighborhood|Hidden block above three blocks, Strange Neighborhood area|Available after "The Hole in the Desert"
+62|Secret Path to Tostarena!|Southwestern Floating Island, reached via painting|Available from start via Lake Kingdom; or Wooded after Flower Thieves
+63|Found with Sand Kingdom Art|Hint Art in Tostarena Town; floor tile in Bowser's Kingdom|Available after defeating Bowser in the Moon Kingdom
+64|Jammin' in the Sand Kingdom|Jammin' Toad, southeastern building, Tostarena Town|Available after defeating Bowser in the Moon Kingdom
+65|Hat-and-Seek: In the Sand|Bonneter disguised as sombrero, southwest Tostarena Town|Available after defeating Bowser in the Moon Kingdom
+66|Sand Kingdom Regular Cup|Koopa Freerunning race, Tostarena Northwest Reaches|Available after defeating Bowser in the Moon Kingdom
+67|Binding Band Returned|Glowing spot on Binding Band, Deepest Underground|Available after defeating Bowser in the Moon Kingdom
+68|'Round-the-World Tourist|Desert Wanderer, Tostarena Town|Available after "A Tourist in the Mushroom Kingdom"
+69|Peach in the Sand Kingdom|Princess Peach atop Inverted Pyramid|After defeating Bowser and talking to Toad outside Peach's Castle
+70|Mighty Leap from the Palm Tree!|Above northernmost palm tree, Desert Oasis|Available after opening the kingdom's Moon Rock
+71|On the North Pillar|Tall stone pillar in northern Tostarena|Available after opening the kingdom's Moon Rock
+72|Into the Flowing Sands|Downward sand flow, west Tostarena Ruins|Available after opening the kingdom's Moon Rock
+73|In the Skies Above the Canyon|Moving platform from Tostarena Ruins Round Tower|Available after opening the kingdom's Moon Rock
+74|Island in the Poison Swamp|Southernmost islet, poison swamp near Jaxi Ruins|Available after opening the kingdom's Moon Rock
+75|An Invisible Gleam|Top of second pillar, Moe-Eye Habitat|Available after opening the kingdom's Moon Rock
+76|On the Eastern Pillar|Easternmost pillar, sealed in stone block|Available after opening the kingdom's Moon Rock
+77|Caught Hopping in the Desert!|Rabbit holding moon, west of Tostarena Town|Available after opening the kingdom's Moon Rock
+78|Poster Cleanup|Remove 17 posters, Tostarena Northwest Reaches|Available after opening the kingdom's Moon Rock
+79|Taking Notes: Running Down|Treble clef near cacti, southwest Tostarena|Available after opening the kingdom's Moon Rock
+80|Taking Notes: In the Wall Painting|Treble clef, north side of Round Tower mural|Available after opening the kingdom's Moon Rock
+81|Love at the Edge of the Desert|Goombette, northwest of Tostarena Ruins|Available after opening the kingdom's Moon Rock
+82|More Walking in the Desert!|Koopa Troopa between Ruins and Oasis, 90 points|After opening Moon Rock and "Walking the Desert!"
+83|Sand Kingdom Master Cup|Koopa Freerunning, Tostarena Northwest Reaches|After opening Moon Rock and "Sand Kingdom Regular Cup"
+84|Where the Transparent Platforms End|Moon Pipe sub-area between Odyssey and Tostarena Town|Available after opening the kingdom's Moon Rock
+85|Jump Onto the Transparent Lift|Platform near wall in chasm area|Available after opening the kingdom's Moon Rock
+86|Colossal Ruins: Dash! Jump!|Dark poison-lake area via Tostarena Ruins Entrance Moon Pipe|Available after opening the kingdom's Moon Rock
+87|Sinking Colossal Ruins: Hurry!|Key near inclined wall, same area as 86|Available after opening the kingdom's Moon Rock
+88|Through the Freezing Waterway|Moon Pipe at northeast desert edge, east of Pyramid|Available after opening the kingdom's Moon Rock
+89|Freezing Waterway: Hidden Room|Poison tunnel end, Freezing Waterway side-scroller|Available after opening the kingdom's Moon Rock

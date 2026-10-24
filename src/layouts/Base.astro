@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+import { url } from '../lib/moons';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Leave the page out of the search index (lists and tools). */
+  noindex?: boolean;
+}
+const { title, description = 'How to get every Power Moon in Super Mario Odyssey, world by world.', noindex = false } = Astro.props;
+const fullTitle = title === 'Odyssey Moon Guide' ? title : `${title} · Odyssey Moon Guide`;
+const path = Astro.url.pathname;
+const nav = [
+  ['worlds/', 'Worlds'],
+  ['phases/post-game/', 'Post-game'],
+  ['collections/', 'Collections'],
+  ['checklist/', 'Checklist'],
+  ['search/', 'Search'],
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+  </head>
+  <body data-base={url()}>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href={url()}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#f2bb32" d="M12 2a10 10 0 1 0 6.9 17.2A8 8 0 0 1 12 2Z"/></svg>
+          Odyssey Moon Guide
+        </a>
+        <nav class="nav" aria-label="Main">
+          {nav.map(([href, label]) => (
+            <a href={url(href)} aria-current={path.startsWith(url(href)) ? 'page' : undefined}>{label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" data-pagefind-body={noindex ? undefined : ''}>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        A fan-made guide. Super Mario Odyssey is a Nintendo game; this site isn't affiliated with Nintendo.
+        Moon lists are based on <a href="https://www.mariowiki.com/Lists_of_Power_Moons">MarioWiki</a>. <a href={url('about/')}>About this guide</a>.
+      </div>
+    </footer>
+    <script src={url('progress.js')} is:inline defer></script>
+  </body>
+</html>

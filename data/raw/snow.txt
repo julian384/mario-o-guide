@@ -1,0 +1,55 @@
+1|The Icicle Barrier|End of Icicle Cavern area|Available from the start
+2|The Ice Wall Barrier|Collect all five Moon Shards in Hollow Crevasse|Available from the start
+3|The Gusty Barrier|Defeat all Spinies on Wind-Chill Cavern's last platform|Available from the start
+4|The Snowy Mountain Barrier|Defeat Rango atop Snowy Mountain|Available from the start
+5|The Bound Bowl Grand Prix|Win first place in Snowline Circuit Class A|After collecting all four barrier Power Moons|MULTI
+6|Entrance to Shiveria|On boxes at Shiveria Town's entrance|Available from the start
+7|Behind Snowy Mountain|Hidden path behind Snowy Mountain|Available from the start
+8|Shining in the Snow in Town|Climb pole and ground pound glowing snow in Shiveria Town|Available from the start
+9|Atop a Blustery Arch|Ground pound x-shaped indent atop Wind-Chill Cavern archway|Available from the start
+10|Caught Hopping in the Snow!|Catch the rabbit southeast of the Odyssey|Available after The Bound Bowl Grand Prix
+11|The Shiverian Treasure Chest|Hole past the "Shining in the Snow" moon leads to chest|Available from the start
+12|Treasure in the Ice Wall|Climb wall in Hollow Crevasse to far-right chest|Available from the start
+13|Snow Kingdom Timer Challenge 1|Northeast scarecrow; race across circular platforms quickly|Available after The Bound Bowl Grand Prix
+14|Snow Kingdom Timer Challenge 2|Southeast scarecrow; climb two tall poles quickly|Available after The Bound Bowl Grand Prix
+15|Moon Shards in the Snow|Find five Moon Shards in the outside area|Available after The Bound Bowl Grand Prix
+16|Taking Notes: Snow Path Dash|Rainbow treble clef northwest of Above the Ice Well checkpoint|Available after The Bound Bowl Grand Prix
+17|Fishing in the Glacier!|Lakitu with fishing rod at far east pool|Available after The Bound Bowl Grand Prix
+18|Ice-Dodging Goomba Stack|Build four-Goomba stack in Icicle Cavern, hit "4" button|Available from the start
+19|Captain Toad is Chilly!|Captain Toad hides in snowy hole in far north|Available from the start
+20|I'm Not Cold!|Talk to Shiverian across from Crazy Cap wearing Boxer Shorts|Available after The Bound Bowl Grand Prix
+21|Shopping in Shiveria|Buy from Crazy Cap shop for 100 gold coins|Available from the start
+22|Walking on Ice!|Ice cave near Freezing Sea checkpoint; 80+ Trace-Walking points|Available after The Bound Bowl Grand Prix
+23|Snowline Circuit Class S|Win first place in Snowline Circuit Class S race|Available after The Bound Bowl Grand Prix
+24|Dashing Over Cold Water!|Snow-covered door west; capture Rocket Flowers over freezing water|Available after The Bound Bowl Grand Prix
+25|Dashing Above and Beyond!|Dash up steep hill past Warp Pipe near previous moon|Available after The Bound Bowl Grand Prix
+26|Jump 'n' Swim in the Freezing Water|Blue door opened by Cappy on scarecrow, north of Odyssey|Available after The Bound Bowl Grand Prix
+27|Freezing Water Near the Ceiling|Jump on last freezing water block, follow bars left|Available after The Bound Bowl Grand Prix
+28|Blowing and Sliding|Capture Ty-foo, blow hidden block to reach bonus area|Available after The Bound Bowl Grand Prix
+29|Moon Shards in the Cold Room|Buy Snow Hood and Snow Suit; talk to upper Shiverian|Available from the start
+30|Slip Behind the Ice|Hidden alcove above platform near Cold Room pipe|Available from the start
+31|Spinning Above the Clouds|Plant frozen seed near Odyssey to grow beanstalk|Available after The Bound Bowl Grand Prix
+32|High-Altitude Spinning|Float over tall gust to lone Hat Trampoline on left|Available after The Bound Bowl Grand Prix
+33|Secret Path to Shiveria!|Clifftop reached via painting in another kingdom|Via Mushroom or Bowser's Kingdom painting
+34|Found with Snow Kingdom Art|Hint Art in Shiveria points to Lost Kingdom glowing spot|Available from the start
+35|Snow Kingdom Regular Cup|Koopa Freerunning race in northwest corner|Available after defeating Bowser in the Moon Kingdom
+36|Hat-and-Seek in the Snow|Talk to Bonneter on Shiverian's head at Snowline Circuit|Available after defeating Bowser in the Moon Kingdom
+37|Peach in the Snow Kingdom|Talk to Peach and Tiara near bounding track entrance|After defeating Bowser and talking to Toad outside Peach's Castle
+38|Shining on High|Floating above Odyssey; long jump from top|Available after opening the kingdom's Moon Rock
+39|Above the Freezing Fishing Pond|Floating south of Corner of the Freezing Sea checkpoint|Available after opening the kingdom's Moon Rock
+40|Ice Floe Swimming|Underwater hole near Fishing Pond; Cheep Cheep helps|Available after opening the kingdom's Moon Rock
+41|Icy Jump Challenge|Wind-Chill Cavern; jump from Ty-foo-blown moving block|Available after opening the kingdom's Moon Rock
+42|Forgotten in the Holding Room|Hidden among crates in Shiverian bounding waiting room|Available after opening the kingdom's Moon Rock
+43|It Popped Out of the Ice|Glowing spot on tall ice near Above the Ice Well|Available after opening the kingdom's Moon Rock
+44|Deep in the Cold, Cold Water|Glowing spot at bottom of pool left of Freezing Sea checkpoint|Available after opening the kingdom's Moon Rock
+45|Water Pooling in the Crevasse|Underwater glowing spot on right side in Hollow Crevasse|Available after opening the kingdom's Moon Rock
+46|Squirming Under Ice|Ground pound Lurker atop Snowy Mountain (Rango area)|Available after opening the kingdom's Moon Rock
+47|Snow Kingdom Timer Challenge 3|Underwater P Switch near Cheep Cheep, beat the timer|Available after opening the kingdom's Moon Rock
+48|Stacked-Up Ice Climb|Ten-Goomba stack in Icicle Cavern, reach "10" button|Available after opening the kingdom's Moon Rock
+49|I Met a Snow Cheep Cheep!|Cheep Cheep delivered to Bonneter biologist near Ice Well|Available after opening the kingdom's Moon Rock
+50|Even More Walking on Ice!|Ice cave near Freezing Sea checkpoint; 90+ Trace-Walking points|After opening Moon Rock and collecting Walking on Ice!
+51|Snow Kingdom Master Cup|Koopa Freerunning race in northwest corner|After opening Moon Rock and collecting the Regular Cup moon
+52|Iceburn Circuit Class A|Hidden doorway behind Freezing Sea checkpoint; win race|Available after opening the kingdom's Moon Rock
+53|Iceburn Circuit Class S|Win first place on Iceburn Circuit Class S track|After opening Moon Rock and collecting the Class A moon
+54|Running the Flower Road|Moon Pipe near Above the Ice Well checkpoint|Available after opening the kingdom's Moon Rock
+55|Looking Back on the Flower Road|Behind first Banzai Bill Cannon in Flower Road area|Available after opening the kingdom's Moon Rock

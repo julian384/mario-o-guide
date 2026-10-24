@@ -1,0 +1,68 @@
+1|The Broodals Are After Some Cookin'|Defeat Spewart a second time|Available from the start
+2|Under the Cheese Rocks|Area with Spinies, Hammer Bros and cheese rocks|After The Broodals Are After Some Cookin'
+3|Big Pot on the Volcano: Dive In!|Meat Plateau checkpoint, then large vegetable pot|After Under the Cheese Rocks|MULTI
+4|Climb Up the Cascading Magma|Volcano Cave, lava hill, unlit torch|After Big Pot on the Volcano: Dive In!
+5|Cookatiel Showdown!|Peak Climb mountain, pot where Cookatiel is fought|After Climb Up the Cascading Magma|MULTI
+6|Piled on the Salt|Salt mound atop a building near the Odyssey|Available from the start
+7|Lurking in the Pillar's Shadow|Alcove off building left of Peronza Plaza checkpoint|Available from the start
+8|Atop the Jutting Crag|Near Salt-Pile Isle checkpoint, lava cannon launch|Intended after Big Pot; skilled jumps work from the start
+9|Is This an Ingredient Too?!|Crate stack behind a building in Peronza Plaza|Intended after the Broodals; skilled jumps work from the start
+10|Atop a Column in a Row|Glowing spot on a Peronza Plaza column|Intended after the Broodals; skilled jumps work from the start
+11|Surrounded by Tall Mountains|Glowing spot on small green mountain near Meat Plateau|After Under the Cheese Rocks
+12|Island of Salt Floating in the Lava|Glowing spot on small island near Salt-Pile Isle|Intended after the Broodals; skilled jumps work from the start
+13|Overlooking a Bunch of Ingredients|Southwest purplish-blue mountain, glowing spot|Intended after the Broodals; skilled jumps work from the start
+14|Light the Lantern on the Small Island|Island on path to Meat Plateau, light lantern|After Under the Cheese Rocks
+15|Golden Turnip Recipe 1|Turnip by Crazy Cap shop, thrown into the stew|Intended after the Broodals; skilled jumps work from the start
+16|Golden Turnip Recipe 2|Golden turnip east of Atop the Jutting Crag|Intended after Big Pot; skilled jumps work from the start
+17|Golden Turnip Recipe 3|Behind green mountain, under cheese rocks, Meat Plateau path|After Under the Cheese Rocks
+18|Luncheon Kingdom Timer Challenge 1|Scarecrow on building near Odyssey|Available from the start
+19|Luncheon Kingdom Timer Challenge 2|Scarecrow behind Peronza Plaza checkpoint|After Big Pot on the Volcano: Dive In!
+20|Luncheon Kingdom Timer Challenge 3|Scarecrow behind Peak Climb start checkpoint|After Cookatiel Showdown!
+21|Beneath the Rolling Vegetables|8-bit pipe at Remote Island in the Lava|After Under the Cheese Rocks
+22|All the Cracks Are Fixed|Six cracks on Remote Island in the Lava|After Under the Cheese Rocks
+23|Taking Notes: Swimming in Magma|Treble clef in lava near Remote Island|After Under the Cheese Rocks
+24|Love Above the Lava|Goombette near Odyssey, reached via floating corn|Available from the start
+25|Shopping in Mount Volbono|Crazy Cap shop for 100 coins|Intended after the Broodals; skilled jumps work from the start
+26|Luncheon Kingdom Slots|Slots building behind vegetables in Peronza Plaza|Intended after the Broodals; skilled jumps work from the start
+27|A Strong Simmer|Bonus area behind Crazy Cap shop|Intended after the Broodals; skilled jumps work from the start
+28|An Extreme Simmer|End of A Strong Simmer bonus area, stew pot|Intended after the Broodals; skilled jumps work from the start
+29|Alcove Behind the Pillars of Magma|Hidden alcove in Climb Up the Cascading Magma area|After Big Pot on the Volcano: Dive In!
+30|Treasure Beneath the Cheese Rocks|Cheese rocks near Odyssey, glowing spot underneath|After Big Pot on the Volcano: Dive In!
+31|Light the Two Flames|Two lanterns near Odyssey, lit with Fire Bro|After Big Pot on the Volcano: Dive In!
+32|Light the Far-Off Lanterns|Two lanterns near Volcano Cave exit|After Climb Up the Cascading Magma
+33|Bon Appétit, Captain Toad!|Captain Toad on small island near Cookatiel mountain|After Climb Up the Cascading Magma
+34|The Treasure Chest in the Veggies|Hidden door behind wall near Meat Plateau path|After Big Pot on the Volcano: Dive In!
+35|Caught Hopping at the Volcano!|Rabbit at Peronza Plaza entrance|After Cookatiel Showdown!
+36|Taking Notes: Big Pot Swim|Treble clef in Cookatiel's big pot|After Cookatiel Showdown!
+37|Magma Swamp: Floating and Sinking|Door by Peronza Plaza checkpoint ledge, moving platforms|Intended after the Broodals; skilled jumps work from the start
+38|Corner of the Magma Swamp|Behind entrance near three sinking platforms|Intended after the Broodals; skilled jumps work from the start
+39|Magma Narrow Path|Bonus area door near Meat Plateau, floating lava|After Under the Cheese Rocks
+40|Crossing to the Magma|Above lava mountain near two Magmatos|After Under the Cheese Rocks
+41|Fork Flickin' to the Summit|Bonus area door near Salt-Pile Isle, Volbonan flicks|Intended after the Broodals; skilled jumps work from the start
+42|Fork Flickin' Detour|Platform on right side of Fork Flickin' area|Intended after the Broodals; skilled jumps work from the start
+43|Excavate 'n' Search the Cheese Rocks|Bonus area behind greenish structure, cheese blocks|After The Broodals Are After Some Cookin'
+44|Climb the Cheese Rocks|Hidden alcove blocked by cheese rocks, Excavate area|After The Broodals Are After Some Cookin'
+45|Spinning Athletics End Goal|Bonus area behind scarecrow door, Remote Island|After Under the Cheese Rocks
+46|Taking Notes: Spinning Athletics|Treble clef on lime green rotating platform|After Under the Cheese Rocks
+47|Secret Path to Mount Volbono!|Top of Floating Sky Island, via painting in another kingdom|After Flower Thieves (Wooded) or from the start (Lake)
+48|A Tourist in the Luncheon Kingdom!|Tourist at Peronza Plaza entrance|After Cookatiel Showdown! and the Cascade tourist moon
+49|Found with Luncheon Kingdom Art|Hint Art on purplish mountain, Meat Plateau path|After Big Pot on the Volcano: Dive In!
+50|The Rooftop Lantern|Lantern on Peronza Plaza building, lit with Fire Bro|Available after defeating Bowser in the Moon Kingdom
+51|Jammin' in the Luncheon Kingdom|Jammin' Toad behind Peronza Plaza checkpoint|Available after defeating Bowser in the Moon Kingdom
+52|Mechanic: Repairs Complete!|Steam Gardener on green staircase, Peronza Plaza|Available after defeating Bowser in the Moon Kingdom
+53|Diving from the Big Pot!|Jump from giant pot into small pot on building|Available after defeating Bowser in the Moon Kingdom
+54|Hat-and-Seek: Among the Food|Volbonan with disguised Bonneter behind Peronza building|Available after defeating Bowser in the Moon Kingdom
+55|Luncheon Kingdom Regular Cup|Koopa Troopa freerunning race outside Volcano Cave|Available after defeating Bowser in the Moon Kingdom
+56|Peach in the Luncheon Kingdom|Peach near stew pot in Peronza Plaza|After defeating Bowser and talking to Toad outside Peach's Castle
+57|From Inside a Bright Stone|Blue rock with glowing spot, left of Peronza checkpoint|Available after opening the kingdom's Moon Rock
+58|Under the Meat Plateau|Hovering above lava behind green wall near Meat Plateau|Available after opening the kingdom's Moon Rock
+59|On Top of a Tall, Tall Roof|Roof of Peak Climb mountain entrance, long jump needed|Available after opening the kingdom's Moon Rock
+60|From a Crack in the Hard Ground|Crack on higher ledge near Meat Plateau path|Available after opening the kingdom's Moon Rock
+61|By the Cannon Pointed at the Big Pot|Glowing spot on rocks by Peak Climb lava cannon|Available after opening the kingdom's Moon Rock
+62|Luncheon Kingdom Master Cup|Koopa Troopa race outside Volcano Cave|After opening Moon Rock and collecting the Regular Cup moon
+63|Stepping Over the Gears|Moon Pipe atop Meat Plateau, gear platforming bonus area|Available after opening the kingdom's Moon Rock
+64|Lanterns on the Gear Steps|Gear bonus area, light all lanterns|Available after opening the kingdom's Moon Rock
+65|Volcano Cave Cruisin'|Moon Pipe at Volcano Cave Entrance, moving platform|Available after opening the kingdom's Moon Rock
+66|Volcano Cave and Mysterious Clouds|Hat clouds at moving platform corner, Cruisin' area|Available after opening the kingdom's Moon Rock
+67|Treasure of the Lava Islands|Moon Pipe on building near Odyssey, lava cannons|Available after opening the kingdom's Moon Rock
+68|Flying Over the Lava Islands|Small floating platform in Lava Islands area|Available after opening the kingdom's Moon Rock

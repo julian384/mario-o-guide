@@ -1,0 +1,31 @@
+1|Frog-Jumping Above the Fog|Frog jump over floating hat-platforms on the south side|Available after powering up the Odyssey in Cascade Kingdom
+2|Frog-Jumping from the Top Deck|Frog high-jump from hat-ship stack in Central Plaza|Available after powering up the Odyssey in Cascade Kingdom
+3|Cap Kingdom Timer Challenge 1|Scarecrow near Top-Hat Tower; timed grab across Sometimes Bridge|Available after powering up the Odyssey in Cascade Kingdom
+4|Good Evening, Captain Toad!|Talk to Captain Toad atop Top-Hat Tower|Available after powering up the Odyssey in Cascade Kingdom
+5|Shopping in Bonneton|Buy from the Crazy Cap Shop for 100 yellow coins|Available after powering up the Odyssey in Cascade Kingdom
+6|Skimming the Poison Tide|Paragoomba flight to Top-Hat Tower's back; secret area with Moon Shards|Available after powering up the Odyssey in Cascade Kingdom
+7|Slipping Through the Poison Tide|Paragoomba under exit door; climb platforms to hidden top|Available after powering up the Odyssey in Cascade Kingdom
+8|Push-Block Peril|Secret door near Top-Hat Tower top; traverse wall blocks|Available after powering up the Odyssey in Cascade Kingdom
+9|Hidden Among the Push-Blocks|Hole in an L-shaped block in Push-Block Peril area|Available after powering up the Odyssey in Cascade Kingdom
+10|Searching the Frog Pond|Secret door on Central Plaza's north side; capture frog for Moon Shards|Available after powering up the Odyssey in Cascade Kingdom
+11|Secrets of the Frog Pond|Frog jump to high back-wall ledge in Frog Pond area|Available after powering up the Odyssey in Cascade Kingdom
+12|The Forgotten Treasure|Bonneter on hilltop top-hat platform in Central Plaza; Cappy-led search|Available after defeating Bowser in Moon Kingdom
+13|Taxi Flying Through Bonneton|Binoculars in northwest Central Plaza; watch flying taxi|Available after defeating Bowser in Moon Kingdom
+14|Bonneter Blockade|Alcove guarded by Bonneter in Central Plaza; scare him with Paragoomba|Available after defeating Bowser in Moon Kingdom
+15|Cap Kingdom Regular Cup|Koopa Freerunning race atop Top-Hat Tower; win to finish|Available after defeating Bowser in Moon Kingdom
+16|Peach in the Cap Kingdom|Princess Peach in Central Plaza; talk to her|After Bowser defeat and talking to Toad outside Peach's Castle
+17|Found with Cap Kingdom Art|Hint Art in northeast Central Plaza points to Moon Kingdom spot|Available after defeating Bowser in Moon Kingdom
+18|Next to Glasses Bridge|Top-hat platform beside Glasses Bridge|Available after opening Cap Kingdom's Moon Rock
+19|Danger Sign|Skull sign over fog near Odyssey; reach by Paragoomba|Available after opening Cap Kingdom's Moon Rock
+20|Under the Big One's Brim|Floating below Top-Hat Tower's top; drop onto it|Available after opening Cap Kingdom's Moon Rock
+21|Fly to the Edge of the Fog|Paragoomba flight to northeast fog behind Top-Hat Tower|Available after opening Cap Kingdom's Moon Rock
+22|Spin the Hat, Get a Prize|Throw Cappy at glowing hat symbol on Central Plaza entrance arch|Available after opening Cap Kingdom's Moon Rock
+23|Hidden in a Sunken Hat|Glowing pole on fog-covered top-hat near Sometimes Bridge; hold Cappy there|Available after opening Cap Kingdom's Moon Rock
+24|Fog-Shrouded Platform|Glowing ground spot near Frog Pond door; ground pound it|Available after opening Cap Kingdom's Moon Rock
+25|Bird Traveling in the Fog|Catch small bird flying over fog using Paragoomba|Available after opening Cap Kingdom's Moon Rock
+26|Caught Hopping Near the Ship!|Rabbit on tall hill near Odyssey; catch it|Available after opening Cap Kingdom's Moon Rock
+27|Taking Notes: In the Fog|Treble clef on top-hat platform west of Central Plaza; collect notes|Available after opening Cap Kingdom's Moon Rock
+28|Cap Kingdom Timer Challenge 2|Scarecrow in southeast Central Plaza; key unlocks timed moon|Available after opening Cap Kingdom's Moon Rock
+29|Cap Kingdom Master Cup|Koopa Freerunning race atop Top-Hat Tower; win to finish|After opening Moon Rock and collecting Regular Cup moon
+30|Roll On and On|Moon Pipe on west Central Plaza; slide past Spinies|Available after opening Cap Kingdom's Moon Rock
+31|Precision Rolling|Small side path near start of Roll On and On area|Available after opening Cap Kingdom's Moon Rock

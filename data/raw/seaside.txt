@@ -1,0 +1,71 @@
+1|The Stone Pillar Seal|Grassy platform mid-area, reached by floating up with Gushen|Available from the start
+2|The Lighthouse Seal|Top of the Lighthouse|Available from the start
+3|The Hot Spring Seal|Underwater in the hot spring on Hot Spring Island|Available from the start
+4|The Seal Above the Canyon|Through Rolling Canyon, past the crate wall|Available from the start
+5|The Glass Is Half Full!|Defeat Mollusque-Lanceur|Available after breaking all four seals|MULTI
+6|On the Cliff Overlooking the Beach|High cliff right of Odyssey near pirate Goombas|Available from the start
+7|Ride the Jetstream|Hidden alcove right of Odyssey near Binoculars|Available from the start
+8|Ocean-Bottom Maze: Treasure|2D area behind 8-bit pipes near Glass Palace checkpoint|Available from the start
+9|Ocean-Bottom Maze: Hidden Room|Bottom-right 8-bit pipe in the Treasure 2D area|Available from the start
+10|Underwater Highway Tunnel|Northwest of Lighthouse checkpoint, behind Brick Blocks|Available from the start
+11|Shh! It's a Shortcut!|Hole left of Ocean Trench East checkpoint|Available from the start
+12|Gap in the Ocean Trench|Right wall near the Sphynx, Ocean Trench East|Available from the start
+13|Slip Through the Nesting Spot|Northeastern hole near Hot Spring Island, past Maw-Rays|Available from the start
+14|Merci, Dorrie!|Underneath the purple Dorrie|Available from the start
+15|Bonjour, Dorrie!|High above the yellow Dorrie|Available after The Glass Is Half Full!
+16|Under a Dangerous Ceiling|Glowing mound among Komboos on ceiling, Ocean Trench East|Available from the start
+17|What the Waves Left Behind|Circular hole on gray rock path near Rolling Canyon checkpoint|Available from the start
+18|The Back Canyon: Excavate!|Glowing spot left of Rolling Canyon checkpoint, on grassy platforms|Available from the start
+19|Bubblaine Northern Reaches|Large middle mound among three mounds, Ocean Trench East|Available from the start
+20|Wriggling on the Sandy Bottom|Bonus area under two Cheep Cheeps near Lighthouse|Available from the start
+21|Glass Palace Treasure Chest|Treasure chest underneath Glass Palace|Available from the start
+22|Treasure Trap Hidden in the Inlet|Four-chest area in underwater hole near Beach House|Available from the start
+23|Sea Gardening: Inlet Seed|Seed in river right of Beach House, planted on roof|Available from the start
+24|Sea Gardening: Canyon Seed|Seed at end of Back Canyon area, planted on Beach House roof|Available from the start
+25|Sea Gardening: Hot-Spring Seed|Seed on rocky platform near Hot Spring Island, planted on Beach House roof|Available from the start
+26|Sea Gardening: Ocean Trench Seed|Underwater seed beside Sphynx, planted on Beach House roof|Available from the start
+27|Seaside Kingdom Timer Challenge 1|Underwater hole with ground-pound switch near Hot Spring Island|Available from the start
+28|Seaside Kingdom Timer Challenge 2|Underwater scarecrow near Glass Palace, throw Cappy|Available after The Glass Is Half Full!
+29|Found on the Beach! Good Dog!|Dog near Odyssey, dig spot by gray rocks|Available after The Glass Is Half Full!
+30|Moon Shards in the Sea|Hidden underwater area behind scarecrow gate near Rolling Canyon|Available from the start
+31|Taking Notes: Ocean Surface Dash|Rocket Flower and treble clef near Beach House|Available from the start
+32|Love by the Seaside|Goombette on platform in Rolling Canyon shell path|Available from the start; requires building a Goomba Tower
+33|Lighthouse Leaper|Bubblainian near Glass Palace, reached by flying Glydon|Available after The Glass Is Half Full!
+34|Good Job, Captain Toad!|Higher platform near The Seal Above the Canyon, via Gushen|Available from the start
+35|Ocean Quiz: Good!|Sphynx southwest of Ocean Trench East checkpoint, answer five questions|Available from the start
+36|Shopping in Bubblaine|Crazy Cap shop, costs 100 gold coins|Available from the start
+37|Beach Volleyball: Champ|Beach Volleyball minigame, 15 consecutive hits|Available after The Glass Is Half Full!
+38|Beach Volleyball: Hero of the Beach!|Beach Volleyball minigame, 100 consecutive hits|Available after The Glass Is Half Full!
+39|Looking Back in the Dark Waterway|Small wall hole in first part of Underwater Tunnel to Lighthouse|Available from the start
+40|The Sphynx's Underwater Vault|Sphynx southwest of Ocean Trench East, answer one question|Available from the start
+41|A Rumble on the Seaside Floor|Room through warp pipe near Odyssey, ground pound floor|Available from the start
+42|A Relaxing Dance|Beach House, dance with two Bubblainians|Available from the start; requires Resort or Sunshine outfit
+43|Wading in the Cloud Sea|Bonus area via Mini Rocket on high cliff near Beach House|Available from the start
+44|Sunken Treasure in the Cloud Sea|Hidden cloud path to treasure chest in Cloud Sea area|Available from the start
+45|Fly Through the Narrow Valley|Hidden alcove right of Beach Volleyball, bonus area via Gushen|Available from the start
+46|Treasure Chest in the Narrow Valley|Treasure chest past the fall point in Narrow Valley|Available from the start
+47|Hurry and Stretch|Underwater alcove near Hot Spring Island, rising lava bonus area|Available from the start
+48|Stretch on the Side Path|Floating above right side of narrow path in Hurry and Stretch|Available from the start
+49|Secret Path to Bubblaine!|Top of Diving Platform, reached via painting in another kingdom|Via Snow Kingdom order, Bowser's Kingdom or Mushroom Kingdom painting
+50|Found with Seaside Kingdom Art|Hint Art on higher platform near gray boulders right of Odyssey|Available from the start
+51|Seaside Kingdom Regular Cup|Koopa Freerunning race on the island above Ocean Trench East|Available after defeating Bowser in the Moon Kingdom
+52|Peach in the Seaside Kingdom|Top of water fountain, reached via geysers|After defeating Bowser and talking to Toad outside Peach's Castle
+53|Above the Parasol: Catch!|Floating above umbrella left of Beach House|Available after opening the kingdom's Moon Rock
+54|What Shines Inside the Glass|Very bottom inside Glass Tower|Available after opening the kingdom's Moon Rock
+55|A Fine Detail on the Glass|On a handle design of Glass Tower|Available after opening the kingdom's Moon Rock
+56|Underwater Highway West: Explore!|West of kingdom near rolling Moonsnakes|Available after opening the kingdom's Moon Rock
+57|Underwater Highway East: Explore!|East of kingdom near Hot Spring Island checkpoint|Available after opening the kingdom's Moon Rock
+58|Rapid Ascent on Hot Spring Island|High above larger pool, reached via Gushen|Available after opening the kingdom's Moon Rock
+59|A Light Next to the Lighthouse|Cappy spin onto top of Lighthouse pole|Available after opening the kingdom's Moon Rock
+60|The Tall Rock Shelf in the Deep Ocean|Glowing rock right of Sphynx, Ocean Trench East deep area|Available after opening the kingdom's Moon Rock
+61|At the Base of the Lighthouse|Glowing spot between two blue rocks underwater near Lighthouse|Available after opening the kingdom's Moon Rock
+62|Bird Traveling Over the Ocean|Catch bird flying around kingdom while capturing Gushen|Available after opening the kingdom's Moon Rock
+63|Caught Hopping at Glass Palace!|Catch rabbit roaming near Glass Tower|Available after opening the kingdom's Moon Rock
+64|Seaside Kingdom Timer Challenge 3|Scarecrow atop Lighthouse, reach distant platform quickly|Available after opening the kingdom's Moon Rock
+65|Taking Notes: Ocean-Bottom Maze|Treble clef in 2D area of Ocean-Bottom Maze: Treasure|Available after opening the kingdom's Moon Rock
+66|Taking Notes in the Sea|Treble clef on underwater column near Glass Palace checkpoint|Available after opening the kingdom's Moon Rock
+67|Seaside Kingdom Master Cup|Koopa Freerunning race on the island above Ocean Trench East|After opening Moon Rock and collecting the Regular Cup moon
+68|Aim! Poke!|Moon Pipe underwater near Rolling Canyon checkpoint, Pokio bonus area|Available after opening the kingdom's Moon Rock
+69|Poke! Roll!|Behind gate at entrance of Aim! Poke! area, single breakable block|Available after opening the kingdom's Moon Rock
+70|The Spinning Maze: Search!|Moon Pipe dropping off Lighthouse side, Moon Shards bonus area|Available after opening the kingdom's Moon Rock
+71|The Spinning Maze: Open!|Hidden room at back of Spinning Maze: Search! area|Available after opening the kingdom's Moon Rock

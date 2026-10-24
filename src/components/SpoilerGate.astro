@@ -1,0 +1,11 @@
+---
+interface Props {
+  count: number;
+}
+const { count } = Astro.props;
+---
+<div class="spoiler-gate" data-spoiler-gate>
+  <strong>{count} post-game moons hidden</strong>
+  <p class="muted">These unlock after you beat Bowser. Show them once you've seen the ending, or if you don't mind spoilers.</p>
+  <button type="button" class="btn primary" data-spoiler-on>I've beaten Bowser, show them</button>
+</div>

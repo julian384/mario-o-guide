@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import MoonRow from '../../components/MoonRow.astro';
+import SpoilerGate from '../../components/SpoilerGate.astro';
+import { WORLDS, PHASES, SPOILER_PHASES } from '../../data/worlds.mjs';
+import { allMoons, moonKey, url } from '../../lib/moons';
+
+export function getStaticPaths() {
+  return PHASES.map((p) => ({ params: { phase: p.id } }));
+}
+
+const { phase } = Astro.params;
+const p = PHASES.find((x) => x.id === phase)!;
+const moons = (await allMoons()).filter((m) => m.data.phase === phase);
+const groups = WORLDS.map((w) => ({ ...w, moons: moons.filter((m) => m.data.world === w.id) })).filter((g) => g.moons.length);
+const gated = SPOILER_PHASES.includes(p.id);
+---
+<Base title={`${p.name} moons`} noindex>
+  <section class={`section ph-${p.id}`}>
+    <span class="eyebrow">{p.short}</span>
+    <h1>{p.name}: {moons.length} moons</h1>
+    <p class="lede">{p.blurb}</p>
+    <div class="chips">
+      {PHASES.map((x) => <a class={`chip ${x.id === p.id ? 'phase' : ''} ph-${x.id}`} href={url(`phases/${x.id}/`)}><span class="dot"></span>{x.name}</a>)}
+    </div>
+    <p class="progress-text" data-progress={moons.map(moonKey).join(',')}></p>
+  </section>
+
+  {gated && <SpoilerGate count={moons.length} />}
+  <div class="stack" data-spoiler={gated ? '' : undefined} hidden={gated}>
+    {groups.map((g) => (
+      <section class={`phase-block ph-${p.id}`}>
+        <div class="phase-head">
+          <h2><a href={url(`worlds/${g.id}/`)} style="color:inherit">{g.name}</a></h2>
+          <span class="muted">{g.moons.length} moons</span>
+        </div>
+        <ul class="moon-list">{g.moons.map((m) => <MoonRow moon={m} />)}</ul>
+      </section>
+    ))}
+  </div>
+</Base>

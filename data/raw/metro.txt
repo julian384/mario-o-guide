@@ -1,0 +1,81 @@
+1|New Donk City's Pest Problem|Reward after beating Mechawiggler at City Hall|Available from the start|MULTI
+2|Drummer on Board!|Right of City Hall entrance, in Hall Plaza|After New Donk City's Pest Problem
+3|Guitarist on Board!|Park area near Main Street Entrance checkpoint|After New Donk City's Pest Problem
+4|Bassist on Board!|Distant eastern rooftop in Pauline Commemorative Park|After New Donk City's Pest Problem
+5|Trumpeter on Board!|Top of triangular building across from City Hall|After New Donk City's Pest Problem
+6|Powering Up the Station|Defeat two Big Poison Piranha Plants at Power Plant|After all four band member moons
+7|A Traditional Festival!|Talk to Pauline at the festival|After Powering Up the Station|MULTI
+8|Inside an Iron Girder|Crate-blocked girder on western side of city|Available from the start
+9|Swaying in the Breeze|Air above a swinging girder near Heliport|Available from the start
+10|Girder Sandwich|Between two girders on eastern side, reached by wall jumping|Available from the start
+11|Glittering Above the Pool|High above a rooftop pool, reached via umbrella bounce|After New Donk City's Pest Problem
+12|Dizzying Heights|Top of New Donk City Hall|After New Donk City's Pest Problem
+13|Secret Girder Tunnel!|Hidden inside an iron girder near the Odyssey|After New Donk City's Pest Problem
+14|Who Piled Garbage on This?|Glowing garbage pile on western rooftop corner|After New Donk City's Pest Problem
+15|Hidden in the Scrap|Broken Mechawiggler piece in Pauline Park|After New Donk City's Pest Problem
+16|Left at the Café?|Bird pile on lower rooftop at Outdoor Café|After New Donk City's Pest Problem
+17|Caught Hopping on a Building!|Rabbit roaming rooftops at Rooftop Garden|After A Traditional Festival!
+18|How Do They Take Out the Trash?|Dumpster on an eastern iron girder|After New Donk City's Pest Problem
+19|Metro Kingdom Timer Challenge 1|Seesaws revealed by scarecrow on western side|After A Traditional Festival!
+20|Metro Kingdom Timer Challenge 2|Keyhole pedestal on checkered path atop City Hall|After A Traditional Festival!
+21|City Gardening: Building Planter|Flower pot atop southwestern building, left of RC course|After New Donk City's Pest Problem
+22|City Gardening: Plaza Planter|Flower pot in northeastern corner of Main Street park|After New Donk City's Pest Problem
+23|City Gardening: Rooftop Planter|Flower pot atop building beside Slots room|After New Donk City's Pest Problem
+24|How You Doin', Captain Toad?|Captain Toad on girder at northern kingdom end|After New Donk City's Pest Problem
+25|Free Parking: Rooftop Hop|Scooter parking space on northeastern building|After New Donk City's Pest Problem
+26|Bench Friends|Lonely New Donker on bench near Crazy Cap Shop|After New Donk City's Pest Problem
+27|Shopping in New Donk City|Crazy Cap Shop for 100 coins|Available from the start
+28|Metro Kingdom Slots|Slots building on the western side|After New Donk City's Pest Problem
+29|Jump-Rope Hero|Jump-Rope game in Main Street park, score 30|After New Donk City's Pest Problem
+30|Jump-Rope Genius|Jump-Rope game in Main Street park, score 100|After New Donk City's Pest Problem
+31|Remotely Captured Car|Capture RC car driver near Main Street checkpoint|After New Donk City's Pest Problem
+32|RC Car Pro!|RC Car race building beside RC car moon, three laps|After Remotely Captured Car
+33|Taking Notes: In the Private Room|Collect rainbow treble clef notes in left-side building|After New Donk City's Pest Problem
+34|City Hall Lost & Found|Treasure chest atop City Hall interior, opened with Cappy|Available from the start
+35|Sewer Treasure|Hidden ledge on northern wall of sewers|After all four band member moons
+36|Celebrating in the Streets!|Secret room via hidden 8-bit pipe during festival|After Powering Up the Station
+37|Pushing Through the Crowd|Lever-activated moon in open western café building|After New Donk City's Pest Problem
+38|High Over the Crowd|Hidden platform above Pushing Through the Crowd area|After New Donk City's Pest Problem
+39|Rewiring the Neighborhood|Five Moon Shards in locked building west of City Hall|After New Donk City's Pest Problem
+40|Off the Beaten Wire|Shiny crate on side building past first spark pylon|After New Donk City's Pest Problem
+41|Moon Shards Under Siege|Five Moon Shards in secret taxi-accessed area|After New Donk City's Pest Problem
+42|Sharpshooting Under Siege|Metal box on iron girder, shot with a Sherm|After New Donk City's Pest Problem
+43|Inside the Rotating Maze|Five Moon Shards under a manhole cover, southwest|After New Donk City's Pest Problem
+44|Outside the Rotating Maze|Hidden platform off the northern end of the maze|After New Donk City's Pest Problem
+45|Hanging from a High-Rise|Cloud area via Warp Pipe and Mini Rocket, swinging bars|After New Donk City's Pest Problem
+46|Vaulting up a High-Rise|High secret platform via moving poles|After New Donk City's Pest Problem
+47|Bullet Billding|Open building at end of an alleyway near Hall Plaza|After New Donk City's Pest Problem
+48|One Man's Trash...|Dumpster on hidden platform, reached by Bullet Bill|After New Donk City's Pest Problem
+49|Motor Scooter: Escape!|Scooter ride through a triangular building's interior|After New Donk City's Pest Problem
+50|Big Jump: Escape!|Hidden moon found by scooting across crates|After New Donk City's Pest Problem
+51|Secret Path to New Donk City!|Isolated southeastern rooftop, reached via Sand Kingdom painting|After Showdown on the Inverted Pyramid (Sand Kingdom)
+52|A Tourist in the Metro Kingdom!|Tostarenan near New Donk City entrance|After The Hole in the Desert and A Traditional Festival!
+53|Found with Metro Kingdom Art|Hint Art shows a Lake Kingdom Water Plaza spot|After New Donk City's Pest Problem
+54|Bird Traveling in the City|Bird carrying the moon over eastern city|Available after defeating Bowser in the Moon Kingdom
+55|Mario Signs His Name|Letters arranged on plinths in northern Squawks Park|Available after defeating Bowser in the Moon Kingdom
+56|Surprise Clown!|New Donker in northwestern New Donk City|Available after defeating Bowser in the Moon Kingdom
+57|A Request from the Mayor|Handbag gift for Pauline, east of City Hall|Available after defeating Bowser in the Moon Kingdom
+58|Jammin' in the Metro Kingdom|Toad in Southern Squawks Park, specific music choice|Available after defeating Bowser in the Moon Kingdom
+59|Sphynx in the City|Binoculars on Cranky Avenue reveal the Sphynx|Available after defeating Bowser in the Moon Kingdom
+60|Free Parking: Leap of Faith|Scooter parking near Koopa racer, eastern buildings|After defeating Bowser and A Traditional Festival!
+61|Metro Kingdom Regular Cup|Koopa Freerunning race win on eastern building|Available after defeating Bowser in the Moon Kingdom
+62|Hat-and-Seek: In the City|Talk to Bonneter at Cranky Avenue intersection|Available after defeating Bowser in the Moon Kingdom
+63|Powering Up the Power Plant|Install large battery in Underground Power Plant generator room|Available after defeating Bowser in the Moon Kingdom
+64|Up on the Big Screen|Five Moon Shards in Super Mario Bros. 1-1 remake|Available after defeating Bowser in the Moon Kingdom
+65|Down Inside the Big Screen|Hidden underground room via fourth pipe in projection screen|Available after defeating Bowser in the Moon Kingdom
+66|Peach in the Metro Kingdom|Peach and Tiara atop western movie theater|After defeating Bowser and talking to Toad outside Peach's Castle
+67|Hanging Between Buildings|Pathway revealed by red button atop triangular building|Available after opening the kingdom's Moon Rock
+68|Crossing Lines|Above coins on wire between theater and Rooftop Garden|Available after opening the kingdom's Moon Rock
+69|Out of a Crate in the City|Crate on northwest apartment, reached from water tank|Available after opening the kingdom's Moon Rock
+70|Bird Traveling in the Park|Bird flying over Pauline Park's eastern benches|Available after opening the kingdom's Moon Rock
+71|Metro Kingdom Timer Challenge 3|Scarecrow on Dixie Street reveals moon on construction platform|Available after opening the kingdom's Moon Rock
+72|Found in the Park! Good Dog!|Dog digs up moon in southeast corner of park|Available after opening the kingdom's Moon Rock
+73|RC Car Champ!|RC Car race building, finish under 26 seconds|After opening Moon Rock and collecting RC Car Pro!
+74|Metro Kingdom Master Cup|Koopa Freerunning race win on eastern building|After opening Moon Rock and collecting the Regular Cup moon
+75|Hat-and-Seek: In the Crowd|Talk to specific Bonneter-wearing New Donker in crowd|Available after opening the kingdom's Moon Rock
+76|Scaling Pitchblack Mountain|Top of blue platform mountain in Moon Pipe bonus area|Available after opening the kingdom's Moon Rock
+77|Reaching Pitchblack Island|Glowing spot on small platform, ground pound to reveal|Available after opening the kingdom's Moon Rock
+78|Swinging Scaffolding: Jump!|Moon Pipe bonus area with swinging scaffolds and Hammer Bros|Available after opening the kingdom's Moon Rock
+79|Swinging Scaffolding: Break!|Hammer Bro hammers breakable blocks on far left|Available after opening the kingdom's Moon Rock
+80|Motor Scooter Daredevil!|Moon Pipe bonus area with scooter, falling blocks, P Switches|Available after opening the kingdom's Moon Rock
+81|Full-Throttle Scooting!|Thin staircase of falling blocks near Daredevil area end|Available after opening the kingdom's Moon Rock

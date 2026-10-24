@@ -1,0 +1,24 @@
+1|Arrival at Rabbit Ridge!|Top of kingdom, after beating four Broodals and RoboBrood|Requires 250 Power Moons to reach|MULTI
+2|Captain Toad on the Dark Side!|Hidden alcove right of the warp pipe to RoboBrood|Requires 250 Power Moons to reach
+3|Breakdown Road: Hurry!|Bonus area behind Odyssey, through scarecrow door|After Arrival at Rabbit Ridge!
+4|Breakdown Road: Final Challenge!|Same bonus area as Breakdown Road: Hurry!|After Arrival at Rabbit Ridge!
+5|Invisible Road: Rush!|Bonus area below Binoculars, through scarecrow door|After Arrival at Rabbit Ridge!
+6|Invisible Road: Secret!|Same area as Invisible Road: Rush!|After Arrival at Rabbit Ridge!
+7|Vanishing Road Rush|Alcove behind vegetables, scarecrow door bonus area|After Arrival at Rabbit Ridge!
+8|Vanishing Road Challenge|Same area as Vanishing Road Rush|After Arrival at Rabbit Ridge!
+9|Yoshi Under Siege|Alcove behind vegetables, Moon Pipe to bonus area|After Arrival at Rabbit Ridge!
+10|Fruit Feast Under Siege|Same area as Yoshi Under Siege|After Yoshi Under Siege
+11|Yoshi on the Sinking Island|Lower left platform, Moon Pipe to bonus area|After Arrival at Rabbit Ridge!
+12|Fruit Feast on the Sinking Island|Same area as Yoshi on the Sinking Island|After Yoshi on the Sinking Island
+13|Yoshi's Magma Swamp|Behind vegetables right of lowest main area, Moon Pipe|After Arrival at Rabbit Ridge!
+14|Fruit Feast in the Magma Swamp!|Same area as Yoshi's Magma Swamp|After Yoshi's Magma Swamp
+15|Found with Dark Side Art 1|Hint Art on bottom vegetables; dig spot in Cascade Kingdom|After Arrival at Rabbit Ridge!
+16|Found with Dark Side Art 2|Hint Art behind vegetables; ground pound Metro Kingdom helipad|After Arrival at Rabbit Ridge!
+17|Found with Dark Side Art 3|Hint Art behind vegetables; garden spot in Mushroom Kingdom|After Arrival at Rabbit Ridge!
+18|Found with Dark Side Art 4|Hint Art on wall near Binoculars; circle in Cloud Kingdom|After Arrival at Rabbit Ridge!
+19|Found with Dark Side Art 5|Hint Art below Binoculars; Snowline Circuit arch, Snow Kingdom|After Arrival at Rabbit Ridge! and opening four Snow Kingdom barriers
+20|Found with Dark Side Art 6|Hint Art on platform wall near Binoculars; Seaside Kingdom columns|After Arrival at Rabbit Ridge!
+21|Found with Dark Side Art 7|Hint Art behind vegetable pile; Lost Kingdom corner near Odyssey|After Arrival at Rabbit Ridge!
+22|Found with Dark Side Art 8|Hint Art left of wall; Luncheon Kingdom Peronza Plaza column|After Arrival at Rabbit Ridge!
+23|Found with Dark Side Art 9|Hint Art right of wall; Lake Kingdom Water Plaza Entrance|After Arrival at Rabbit Ridge!
+24|Found with Dark Side Art 10|Hint Art behind vegetable pile; Ruined Kingdom glowing spot|After Arrival at Rabbit Ridge!

@@ -1,0 +1,56 @@
+---
+import Base from '../layouts/Base.astro';
+import PhaseBar from '../components/PhaseBar.astro';
+import { WORLDS, PHASES } from '../data/worlds.mjs';
+import { allMoons, moonKey, tally, url } from '../lib/moons';
+
+const moons = await allMoons();
+const total = tally(moons);
+const worlds = WORLDS.map((w) => {
+  const list = moons.filter((m) => m.data.world === w.id);
+  return { ...w, list, ...tally(list) };
+});
+const scale = Math.max(...worlds.map((w) => w.locations));
+---
+<Base title="Odyssey Moon Guide">
+  <section class="section">
+    <span class="eyebrow">Super Mario Odyssey</span>
+    <h1>Every Power Moon, world by world</h1>
+    <p class="lede">
+      A guide to all {total.locations} moon locations ({total.value} moons, counting Multi Moons as three), sorted by
+      kingdom and by when you can collect them. Tick moons off as you go; your progress stays in this browser.
+    </p>
+    <p class="progress-text" data-progress={moons.map(moonKey).join(',')}></p>
+  </section>
+
+  <section class="section">
+    <h2>When moons unlock</h2>
+    <div class="grid">
+      {PHASES.map((p) => (
+        <a class={`card ph-${p.id}`} href={url(`phases/${p.id}/`)}>
+          <span class="title"><span class="dot"></span> {p.name}</span>
+          <span class="num" style="font-size:1.5rem">{total.byPhase[p.id]}</span>
+          <span class="muted" style="font-size:.9rem">{p.blurb}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Worlds</h2>
+    <div class="legend">
+      {PHASES.map((p) => <span class={`ph-${p.id}`}><span class="dot"></span>{p.name}</span>)}
+    </div>
+    <div class="grid">
+      {worlds.map((w) => (
+        <a class="card" href={url(`worlds/${w.id}/`)}>
+          <span class="title">{w.name}</span>
+          <span class="meta"><span>{w.area}</span><span class="num">{w.locations}</span></span>
+          <PhaseBar byPhase={w.byPhase} scale={scale} />
+          {w.note && <span class="muted" style="font-size:.85rem">{w.note}</span>}
+          <span class="progress-text" data-progress={w.list.map(moonKey).join(',')}></span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

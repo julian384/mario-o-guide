@@ -1,0 +1,38 @@
+1|Shining Above the Moon|Above third Hidden Block next to the Odyssey crater|Available from the start
+2|Along the Cliff Face|End of 2D area through far-left 8-bit pipe|Available from the start
+3|The Tip of a White Spire|Wedding Hall roof spire; throw and spin Cappy onto glow|Available from the start
+4|Rolling Rock on the Moon|Large crater rock; roll it until it breaks|Available from the start
+5|Caught Hopping on the Moon!|Southeast side; catch the rabbit|Available from the start
+6|Cliffside Treasure Chest|Gap left of Ringing-Bells Plateau checkpoint; chest platform|Available from the start
+7|Moon Kingdom Timer Challenge 1|Far northeast of first area; scarecrow on lower platform|Available from the start
+8|Taking Notes: On the Moon's Surface|Higher platform right of Ringing-Bells; collect notes against timer|Available from the start
+9|Under the Bowser Statue|Underground Moon Caverns start; move right statue to reveal hole|Available from the start
+10|In a Hole in the Magma|Near spark pylon; capture Parabones to get key|Available from the start
+11|Around the Barrier Wall|Banzai Bill area of Underground Moon Caverns; behind second wall|Available from the start
+12|On Top of the Cannon|Banzai Bill area; ground pound second Banzai Bill Cannon|Available from the start
+13|Fly to the Treasure Chest and Back|Banzai Bill area; fly with captured Bill to high chest|Available from the start
+14|Up in the Rafters|Top of Wedding Hall; jump through hole under bell|Available from the start
+15|Sneaking Around in the Crater|Near Odyssey crater; ground pound moving glowing bump|Available after defeating Bowser in the Moon Kingdom
+16|Found on the Moon, Good Dog!|Near Crazy Cap shop; lead the dog to glowing spot, ground pound|Available after defeating Bowser in the Moon Kingdom
+17|Moon Shards on the Moon|Wedding Hall building; collect five Moon Shards|Available after defeating Bowser in the Moon Kingdom
+18|Moon Quiz: Amazing!|Right side of Quiet Wall; answer five Sphynx questions correctly|Available after defeating Bowser in the Moon Kingdom
+19|Thanks, Captain Toad!|Behind the Odyssey among other kingdoms' residents; talk to him|Available after defeating Bowser in the Moon Kingdom
+20|Shopping in Honeylune Ridge|Crazy Cap shop for 100 gold coins|Available after defeating Bowser in the Moon Kingdom
+21|Walking on the Moon!|Near large crater; Koopa Trace-Walking minigame, score 80 plus|Available after defeating Bowser in the Moon Kingdom
+22|Moon Kingdom Regular Cup|Wedding Hall; Koopa Freerunning race, finish first|Available after defeating Bowser in the Moon Kingdom
+23|Doctor in the House|Buy Doctor outfit from Crazy Cap; talk to Shiverian in Wedding Hall|Available after defeating Bowser in the Moon Kingdom
+24|Sphynx's Hidden Vault|Right side of Quiet Wall; correct Sphynx answer opens vault|Available after defeating Bowser in the Moon Kingdom
+25|A Tourist in the Moon Kingdom!|Tostarenan tourist behind Odyssey|After defeating Bowser and the Luncheon tourist moon
+26|Peach in the Moon Kingdom|Wedding Hall roof by bell; speak with Peach and Tiara|After defeating Bowser and talking to Peach in 13 kingdoms
+27|Found with Moon Kingdom Art|Right wall inside Wedding Hall; Hint Art points to Wooded Kingdom|Available after defeating Bowser in the Moon Kingdom
+28|Mysterious Flying Object|Right side of Wedding Hall near ledge; throw Cappy at UFO|Available after opening the kingdom's Moon Rock
+29|Hidden on the Side of the Cliff|High above Sphynx; wall jump or fall near Ever-After Hill|Available after opening the kingdom's Moon Rock
+30|Jumping High as a Frog|Eastern-most platform; capture frog and jump high|Available after opening the kingdom's Moon Rock
+31|Moon Kingdom Timer Challenge 2|Behind Ringing-Bells Plateau checkpoint; scarecrow with Cappy throw|Available after opening the kingdom's Moon Rock
+32|Walking on the Moon: Again!|Near large crater; Koopa Trace-Walking minigame, score 90 plus|After opening Moon Rock and collecting Walking on the Moon!
+33|Moon Kingdom Master Cup|Wedding Hall; Koopa Freerunning race, finish first|After opening Moon Rock and collecting the Regular Cup moon
+34|Taking Notes: In Low Gravity|2D area of Along the Cliff Face; collect notes before timer|Available after opening the kingdom's Moon Rock
+35|Center of the Galaxy|Tall cliff near Odyssey; Moon Pipe to bonus planet area|Available after opening the kingdom's Moon Rock
+36|Edge of the Galaxy|Center of the Galaxy area; jump from third moving planet|Available after opening the kingdom's Moon Rock
+37|Navigating Giant Swings|Tall cliff left of Odyssey near rabbit; Moon Pipe bonus area|Available after opening the kingdom's Moon Rock
+38|A Swing on Top of a Swing|Navigating Giant Swings area; jump on swing after second Astro-Lanceur|Available after opening the kingdom's Moon Rock

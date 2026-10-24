@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import { PHASES } from '../data/worlds.mjs';
+---
+<Base title="About" noindex>
+  <section class="prose">
+    <span class="eyebrow">About</span>
+    <h1>How this guide is organized</h1>
+    <p>
+      Every moon has its own page, filed under its kingdom and its in-game number, so the lists match the pause-menu moon
+      list. Each moon also belongs to one of four phases, based on the earliest point you can collect it.
+    </p>
+    <ul>
+      {PHASES.map((p) => <li><b>{p.name}.</b> {p.blurb}</li>)}
+    </ul>
+
+    <h2>Edge cases</h2>
+    <ul>
+      <li><b>Peach moons</b> count as post-game. They need a Toad outside Peach's Castle, which you can only reach after the credits.</li>
+      <li><b>Secret Path moons</b> count as return trip. You reach them through a painting in another kingdom, usually one later in the story. The Bowser's Kingdom one only opens after the credits, so it counts as post-game.</li>
+      <li><b>Master Cups and repeat challenges</b> need both the Moon Rock and an earlier post-game moon, so they count as Moon Rock.</li>
+      <li><b>Moons marked "intended" after a story step</b> but reachable earlier with skilled jumps count as first visit.</li>
+    </ul>
+
+    <h2>Counts</h2>
+    <p>
+      There are 836 moon locations. 22 of them are Multi Moons worth three each, which gives the game's 880 total.
+      Crazy Cap shops sell extra moons after the credits; those only add to your overall count and aren't listed here.
+    </p>
+
+    <h2>Sources</h2>
+    <p>
+      Moon names, numbers and unlock conditions are based on <a href="https://www.mariowiki.com/Lists_of_Power_Moons">MarioWiki's
+      Power Moon lists</a>. Guide text on this site is written separately.
+    </p>
+  </section>
+</Base>

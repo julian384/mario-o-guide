@@ -1,0 +1,9 @@
+1|Picture Match: Basically a Goomba|Center-arena warp pipe to Picture Match room|Available after repairing the Odyssey in the Lost Kingdom
+2|Peach in the Cloud Kingdom|East side of the arena|After defeating Bowser and talking to the Toad outside Peach's Castle
+3|Digging in the...Cloud?|Ground-pound elevated cloud patch, southeast arena corner|Available after opening the kingdom's Moon Rock
+4|High, High Above the Clouds|Western Hip Drop Move Lift, then across hat clouds|Available after opening the kingdom's Moon Rock
+5|Crossing the Cloud Sea|Fetch key from northern turret using hat clouds|Available after opening the kingdom's Moon Rock
+6|Taking Notes: Up and Down|Eastern lift to rainbow treble clef; collect notes with Cappy|Available after opening the kingdom's Moon Rock
+7|Picture Match: A Stellar Goomba!|Same Picture Match room; draw using only the outline|After opening the Moon Rock and collecting Basically a Goomba
+8|King of the Cube!|Southwest Moon Pipe; collect five Moon Shards inside cube|Available after opening the kingdom's Moon Rock
+9|The Sixth Face|Cube's bottom-face pipe, avoid circling Fuzzies|Available after opening the kingdom's Moon Rock

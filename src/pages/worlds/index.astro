@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import PhaseBar from '../../components/PhaseBar.astro';
+import { WORLDS, PHASES } from '../../data/worlds.mjs';
+import { allMoons, tally, url } from '../../lib/moons';
+
+const moons = await allMoons();
+const rows = WORLDS.map((w) => ({ ...w, ...tally(moons.filter((m) => m.data.world === w.id)) }));
+const total = tally(moons);
+const scale = Math.max(...rows.map((r) => r.locations));
+---
+<Base title="Worlds" noindex>
+  <section class="section">
+    <span class="eyebrow">All 17 areas</span>
+    <h1>Worlds in story order</h1>
+    <p class="lede">Moon counts per kingdom, split by when each moon becomes available.</p>
+  </section>
+  <div class="tablebox">
+    <table>
+      <thead>
+        <tr>
+          <th>World</th>
+          {PHASES.map((p) => <th class="r" title={p.name}>{p.name}</th>)}
+          <th class="r">Total</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <td><a href={url(`worlds/${r.id}/`)}>{r.name}</a></td>
+            {PHASES.map((p) => <td class="r">{r.byPhase[p.id] || '–'}</td>)}
+            <td class="r"><b>{r.locations}</b></td>
+            <td style="width:160px"><PhaseBar byPhase={r.byPhase} scale={scale} /></td>
+          </tr>
+        ))}
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>All worlds</td>
+          {PHASES.map((p) => <td class="r">{total.byPhase[p.id]}</td>)}
+          <td class="r">{total.locations}</td>
+          <td></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+  <p class="muted">Counts are moon locations. The 22 Multi Moons are worth three each, which brings the total to {total.value}.</p>
+</Base>
