@@ -7,9 +7,10 @@ multi: false
 location: "Dash up steep hill past Warp Pipe near previous moon"
 unlock: "Available after The Bound Bowl Grand Prix"
 tags: []
-captures: []
+captures: ["Rocket Flower"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Dashing Over Cold Water!" area, dash past the moon and the Warp Pipe.
+2. Keep going up the steep hill. The moon and a Shiverian are at the top.

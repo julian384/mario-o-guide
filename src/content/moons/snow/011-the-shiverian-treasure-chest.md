@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go past the "Shining in the Snow in Town" moon to a hole in the snow.
+2. Drop in and follow the path to the treasure chest.

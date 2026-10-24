@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Moon Shards in the Cold Room" area, find the hidden blocks above the platform near the entrance pipe.
+2. Jump up on them and go into the alcove at the far left.

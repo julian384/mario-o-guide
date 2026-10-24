@@ -7,9 +7,10 @@ multi: true
 location: "Win first place in Snowline Circuit Class A"
 unlock: "After collecting all four barrier Power Moons"
 tags: []
-captures: []
+captures: ["Shiverian Racer"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. With all four barrier moons, enter the Bound Bowl in Shiveria Town.
+2. Capture the Shiverian Racer and win the Snowline Circuit Class A race.

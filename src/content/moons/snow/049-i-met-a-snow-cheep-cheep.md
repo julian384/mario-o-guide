@@ -7,9 +7,10 @@ multi: false
 location: "Cheep Cheep delivered to Bonneter biologist near Ice Well"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Cheep Cheep"]
+checkpoint: "Above the Ice Well"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. West of Above the Ice Well, find the Bonneter biologist by a small pool.
+2. Capture a Cheep Cheep and bring it to the biologist.

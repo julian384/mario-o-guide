@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. After dropping into Shiveria Town, walk left to the Hint Art.
+2. It shows Poochy on a glowing spot in the Lost Kingdom.
+3. Go to that spot in the Lost Kingdom and ground pound it.

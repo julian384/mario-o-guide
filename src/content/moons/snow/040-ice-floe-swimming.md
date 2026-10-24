@@ -7,9 +7,10 @@ multi: false
 location: "Underwater hole near Fishing Pond; Cheep Cheep helps"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Cheep Cheep"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near "Above the Freezing Fishing Pond", find the long underwater hole.
+2. Capture a Cheep Cheep nearby so the cold water doesn't hurt you, and swim in for the moon.

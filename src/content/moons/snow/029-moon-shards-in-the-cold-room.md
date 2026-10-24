@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Buy the Snow Hood and Snow Suit from the Crazy Cap shop and put them on.
+2. Climb the pole on the right near the Bound Bowl entrance and talk to the Shiverian at the top.
+3. In the 8-bit area behind the door, collect the Moon Shards while avoiding the Spinies.

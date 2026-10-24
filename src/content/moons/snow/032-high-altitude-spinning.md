@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Spinning Above the Clouds" area, ride the extra-tall gust.
+2. Float over to the lone Hat Trampoline on the left. The moon is above it.

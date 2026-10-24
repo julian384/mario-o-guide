@@ -7,9 +7,10 @@ multi: false
 location: "Win first place in Snowline Circuit Class S race"
 unlock: "Available after The Bound Bowl Grand Prix"
 tags: []
-captures: []
+captures: ["Shiverian Racer"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. After winning the Bound Bowl Grand Prix, go back to the Bound Bowl.
+2. Win the Snowline Circuit Class S race.

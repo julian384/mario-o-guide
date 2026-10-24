@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Wind-Chill Cavern, find the wooden arch that holds a moving block.
+2. Get on top of it and ground pound the X-shaped dent.

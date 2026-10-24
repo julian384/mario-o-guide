@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the middle of the southeast outdoor area, throw Cappy onto the scarecrow.
+2. Climb the two tall poles fast and grab the moon at the top.

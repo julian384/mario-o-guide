@@ -10,6 +10,7 @@ tags: [captain-toad]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the far north of the outdoor area.
+2. Find the snowy hole Captain Toad is hiding in and talk to him.

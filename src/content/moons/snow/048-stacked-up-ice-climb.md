@@ -7,9 +7,11 @@ multi: false
 location: "Ten-Goomba stack in Icicle Cavern, reach \"10\" button"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Icicle Cavern, build a stack of at least ten Goombas.
+2. Take it to the button marked "10" at the top.
+3. Stay in control of the stack and jump to grab the moon high in the air.

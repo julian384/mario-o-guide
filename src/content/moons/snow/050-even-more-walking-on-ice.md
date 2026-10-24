@@ -8,8 +8,9 @@ location: "Ice cave near Freezing Sea checkpoint; 90+ Trace-Walking points"
 unlock: "After opening Moon Rock and collecting Walking on Ice!"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Corner of the Freezing Sea"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Walking on Ice!" first.
+2. Play Koopa Trace-Walking again and score 90 points or more.

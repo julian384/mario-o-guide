@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Hollow Crevasse, climb to the top where the last Bitefrost is.
+2. Use the small dent in the wall to climb higher.
+3. Go all the way right to the treasure chest.

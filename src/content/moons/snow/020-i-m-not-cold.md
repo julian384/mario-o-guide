@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Put on the Boxer Shorts.
+2. In Shiveria Town, talk to the Shiverian across from the Crazy Cap shop.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Wind-Chill Cavern, watch the block the Ty-foos blow around. The moon floats above its path.
+2. Jump onto the moving block and quickly jump up to the moon.

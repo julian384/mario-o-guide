@@ -7,9 +7,11 @@ multi: false
 location: "Build four-Goomba stack in Icicle Cavern, hit \"4\" button"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Icicle Cavern, capture a Goomba and jump onto others to build a stack of at least four.
+2. Take the stack to the Goomba button marked "4" on the higher platform to the right.
+3. A hole opens in the wall with the moon inside.

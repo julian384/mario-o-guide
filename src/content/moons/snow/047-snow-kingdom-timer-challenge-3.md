@@ -8,8 +8,9 @@ location: "Underwater P Switch near Cheep Cheep, beat the timer"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Corner of the Freezing Sea"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Corner of the Freezing Sea checkpoint, find the P Switch under the water near a Cheep Cheep.
+2. Press it and reach the moon before it wears off.

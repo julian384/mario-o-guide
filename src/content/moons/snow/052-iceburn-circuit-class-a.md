@@ -7,9 +7,10 @@ multi: false
 location: "Hidden doorway behind Freezing Sea checkpoint; win race"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Shiverian Racer"]
+checkpoint: "Corner of the Freezing Sea"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Corner of the Freezing Sea checkpoint, go through the doorway where the Moon Rock was.
+2. Win the Iceburn Circuit Class A race.

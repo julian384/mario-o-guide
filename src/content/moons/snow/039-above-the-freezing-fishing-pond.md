@@ -8,8 +8,9 @@ location: "Floating south of Corner of the Freezing Sea checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Corner of the Freezing Sea"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. South of the Corner of the Freezing Sea checkpoint, find the pool on a thin part of the hill.
+2. Jump to the moon floating above it.

@@ -8,8 +8,9 @@ location: "Glowing spot on tall ice near Above the Ice Well"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Above the Ice Well"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near Above the Ice Well, climb the tall ice block with a glowing spot on top.
+2. Ground pound the glowing spot.

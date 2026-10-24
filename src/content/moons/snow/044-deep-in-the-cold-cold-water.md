@@ -8,8 +8,11 @@ location: "Glowing spot at bottom of pool left of Freezing Sea checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Corner of the Freezing Sea"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Dive into the deep pool left of the Corner of the Freezing Sea checkpoint.
+2. Ground pound the glowing spot on the bottom.
+
+**Tip:** The water hurts you over time, so ground pound to sink fast.

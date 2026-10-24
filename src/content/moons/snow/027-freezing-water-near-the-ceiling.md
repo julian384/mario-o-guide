@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the "Jump 'n' Swim" area, jump onto the last freezing-water block.
+2. Climb the bars to the left.
+3. Reach the floating water block that holds the moon.

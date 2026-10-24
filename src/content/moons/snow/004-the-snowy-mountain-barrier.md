@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of Snowy Mountain.
+2. Defeat Rango. Knock his hat off with Cappy, then jump on him.

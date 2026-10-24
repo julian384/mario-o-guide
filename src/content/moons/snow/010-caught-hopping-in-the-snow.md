@@ -10,6 +10,7 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Southeast of the Odyssey, find the rabbit.
+2. Chase it down and catch it.

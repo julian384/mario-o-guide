@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Just north of the Odyssey, throw Cappy onto the scarecrow to open the blue door.
+2. Cross the moving blocks of freezing water, avoiding the Goombas. You can't use Cappy here.
+3. Reach the end for the moon.
