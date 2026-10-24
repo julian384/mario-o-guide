@@ -8,8 +8,9 @@ location: "Shiny crate beside Bill Blaster, Ruins 8-bit section"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Sand Pillar"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Sand Pillar checkpoint, climb to the top of the 8-bit section.
+2. Find the shiny crate next to the Bill Blaster and break it.

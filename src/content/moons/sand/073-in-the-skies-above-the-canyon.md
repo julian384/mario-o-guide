@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Round Tower, step onto the moving platform that goes to the Moe-Eye Habitat.
+2. Before the first platform starts to sink, jump off to the north to grab the floating moon.

@@ -7,9 +7,10 @@ multi: false
 location: "Top of second pillar, Moe-Eye Habitat"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Moe-Eye"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Moe-Eye Habitat, capture a Moe-Eye and look at the second pillar to see a gleam on top.
+2. Climb onto that pillar and ground pound the middle.

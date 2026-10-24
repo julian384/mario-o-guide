@@ -8,8 +8,10 @@ location: "Small quicksand alcove near Sand Pillar checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Sand Pillar"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Sand Pillar checkpoint, walk into the flowing quicksand.
+2. Look for a tiny alcove in the wall of the quicksand pit.
+3. Let yourself sink into it to slip inside and grab the moon.

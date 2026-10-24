@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the 8-bit section on the outside of the Inverted Pyramid.
+2. Follow it around the exterior to find a hidden alcove with the moon.
+
+**Tip:** This is only reachable while the pyramid is on the ground, not while it's floating.

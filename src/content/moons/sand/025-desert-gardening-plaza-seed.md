@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In Tostarena Town, pick up the seed next to the three flower pots.
+2. Plant it in one of the pots.
+3. Come back after about 30 minutes to collect the moon from the grown flower.

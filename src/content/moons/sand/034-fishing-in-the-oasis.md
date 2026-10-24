@@ -7,9 +7,13 @@ multi: false
 location: "Fishing Lakitu, Desert Oasis"
 unlock: "Available after \"The Hole in the Desert\""
 tags: []
-captures: []
+captures: ["Lakitu"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Desert Oasis, capture the fishing Lakitu.
+2. Lower the line in front of the big Cheep Cheep and wait for it to bite.
+3. Pull up when it takes the bait.
+
+**Tip:** Watch for the fish shadow to tug the line before pulling. Pulling too early scares it off.

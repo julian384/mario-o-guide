@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Inside the Inverted Pyramid, go near the end where stone pillars ride along a conveyor belt.
+2. Follow the pillars into the wall to find a hidden room.
+3. Open the treasure chest there.

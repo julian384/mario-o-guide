@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the southwest corner of Tostarena Town, look for a Tostarenan wearing a sombrero that looks a bit off.
+2. Talk to the hat. It's a Bonneter in disguise.

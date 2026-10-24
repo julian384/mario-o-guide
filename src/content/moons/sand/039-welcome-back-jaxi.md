@@ -7,9 +7,10 @@ multi: false
 location: "Empty pedestal, south end of Inverted Pyramid"
 unlock: "Available after \"The Hole in the Desert\""
 tags: []
-captures: []
+captures: ["Jaxi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the top of the Inverted Pyramid, call a Jaxi from the stand.
+2. Ride it onto the empty pedestal at the south end.

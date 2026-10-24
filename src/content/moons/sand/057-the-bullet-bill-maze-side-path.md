@@ -7,9 +7,10 @@ multi: false
 location: "Spiral side path halfway through maze"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Bullet Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. About halfway through the Bullet Bill Maze, watch for a side path that spirals off the main route.
+2. Steer a Bullet Bill down it to reach the hidden moon.

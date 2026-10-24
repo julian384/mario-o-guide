@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the Round Tower's 8-bit mural, go to the second level on the north-facing side.
+2. Grab the rainbow treble clef and collect every note inside the mural before they fade.

@@ -7,9 +7,10 @@ multi: false
 location: "High floating moon, Underground Temple"
 unlock: "Available after \"Showdown on the Inverted Pyramid\""
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Underground Temple, capture a Goomba.
+2. Stack enough Goombas to reach the moon floating high above.

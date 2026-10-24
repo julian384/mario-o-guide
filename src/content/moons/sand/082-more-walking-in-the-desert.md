@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect "Walking the Desert!" first.
+2. Talk to the same Koopa Troopa for a second round of Trace-Walking.
+3. Score at least 90.

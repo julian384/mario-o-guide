@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb the northernmost palm tree in the Desert Oasis.
+2. From the top, do a backflip, side somersault or ground pound jump to reach the moon above.

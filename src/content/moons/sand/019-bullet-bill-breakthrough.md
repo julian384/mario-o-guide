@@ -7,9 +7,10 @@ multi: false
 location: "Caged moon near Sand Pillar checkpoint"
 unlock: "Available after \"Showdown on the Inverted Pyramid\""
 tags: []
-captures: []
-checkpoint: null
+captures: ["Bullet Bill"]
+checkpoint: "Sand Pillar"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Sand Pillar checkpoint, find the moon locked in a cage.
+2. Capture a Bullet Bill and fly it into the cage to break it.

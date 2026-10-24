@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In "The Invisible Maze", find the sign with a skull on it.
+2. Throw Cappy at it and hold the button until the moon appears.

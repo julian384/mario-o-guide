@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Between the Tostarena Ruins and the Desert Oasis, talk to the Koopa Troopa to play Koopa Trace-Walking.
+2. Walk the outline of the picture as closely as you can and score at least 80.
+
+**Tip:** Walk slowly and stay right on the outline. Speed doesn't count, accuracy does.

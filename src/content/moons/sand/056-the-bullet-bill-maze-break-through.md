@@ -7,9 +7,11 @@ multi: false
 location: "Large building, Tostarena Northwest Reaches"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Bullet Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Tostarena Northwest Reaches, enter the large building.
+2. Capture Bullet Bills and fly them through the maze, grabbing a new one each time yours runs out.
+3. Reach the end for the moon.

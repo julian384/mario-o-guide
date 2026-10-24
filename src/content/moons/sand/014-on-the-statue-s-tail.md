@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the top of the Inverted Pyramid, go to the Jaxi statue in the northwest corner.
+2. Throw Cappy at the statue's tail and hold the button so he keeps spinning there.

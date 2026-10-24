@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the roof of the southeast building in Tostarena Town.
+2. Talk to the Toad listening to music and pick any boss battle theme.

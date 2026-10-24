@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the floating Inverted Pyramid.
+2. Defeat Hariet by jumping on her head when she's within reach, while dodging her spiked bombs.

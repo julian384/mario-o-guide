@@ -8,8 +8,10 @@ location: "Seed in alcove near Sand Pillar checkpoint"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Sand Pillar"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Sand Pillar checkpoint, find the seed in a hidden alcove on the east wall.
+2. Carry it to the flower pots in Tostarena Town and plant it.
+3. Come back after about 30 minutes.

@@ -7,9 +7,11 @@ multi: false
 location: "Tunnel in poisonous water below Jaxi Ruins checkpoint"
 unlock: "Available from the start"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Jaxi"]
+checkpoint: "Jaxi Ruins"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Jaxi Ruins checkpoint, call a Jaxi.
+2. Ride it into the tunnel in the poison water below the checkpoint.
+3. Drive through the tunnel to the end.

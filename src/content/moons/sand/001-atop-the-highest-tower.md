@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Head through the Tostarena Ruins toward the Round Tower.
+2. Climb the tower, including the 8-bit mural section on its side.
+3. Grab the moon at the very top.

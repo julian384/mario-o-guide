@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Tostarena Ruins, talk to the Sphynx.
+2. Answer its question correctly to open the vault.

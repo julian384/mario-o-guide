@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the entrance of the Inverted Pyramid.
+2. Find the pile of boxes and tires and look for a glowing spot in the sand beside it.
+3. Ground pound the spot.

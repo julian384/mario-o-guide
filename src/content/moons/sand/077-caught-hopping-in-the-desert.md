@@ -10,6 +10,8 @@ tags: [rabbit]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go west of Tostarena Town, near where the Moon Rock was.
+2. Three rabbits are here. The one with the moon runs off to the northwest.
+3. Chase that one down and grab it.

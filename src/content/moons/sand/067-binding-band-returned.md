@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go back down to the Deepest Underground.
+2. Climb onto the Binding Band and ground pound the glowing spot on top.

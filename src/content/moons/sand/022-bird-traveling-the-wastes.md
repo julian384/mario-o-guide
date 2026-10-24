@@ -7,9 +7,10 @@ multi: false
 location: "Large bird circling Jaxi Ruins"
 unlock: "Available after \"The Hole in the Desert\""
 tags: []
-captures: []
+captures: ["Jaxi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the Jaxi Ruins and look for the big bird circling there.
+2. Hit it with Cappy, or ride a Jaxi into it.

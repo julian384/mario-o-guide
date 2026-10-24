@@ -7,9 +7,11 @@ multi: false
 location: "Ruins archway entrance, reached by Bullet Bill"
 unlock: "Available from the start; also via Spark pylon after Showdown"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Bullet Bill"]
+checkpoint: "Sand Pillar"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Sand Pillar checkpoint, climb through the ruins to the top of the 8-bit section.
+2. Capture a Bullet Bill there.
+3. Fly to the top of the stone archway at the ruins entrance and land by the moon.

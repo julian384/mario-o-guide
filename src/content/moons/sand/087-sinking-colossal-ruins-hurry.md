@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Colossal Ruins area, stay on the lower path of the curved wall.
+2. Hop the gaps to grab the key near the bottom.
+3. It unlocks a moon next to the starting point. Ride the platform back to get it.

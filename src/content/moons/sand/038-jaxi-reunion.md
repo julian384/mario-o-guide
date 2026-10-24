@@ -7,9 +7,10 @@ multi: false
 location: "Empty pedestal east of Desert Oasis"
 unlock: "Available after \"The Hole in the Desert\""
 tags: []
-captures: []
+captures: ["Jaxi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. East of the Desert Oasis, find a Jaxi statue facing an empty pedestal.
+2. Ride a Jaxi onto the empty pedestal.

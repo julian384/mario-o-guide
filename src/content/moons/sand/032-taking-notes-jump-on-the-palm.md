@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Desert Oasis, climb the palm tree with the rainbow treble clef and grab it.
+2. Six notes appear on the palm trees. Jump from tree to tree to collect them all before they vanish.

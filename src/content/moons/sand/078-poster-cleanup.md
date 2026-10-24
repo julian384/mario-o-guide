@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Tostarena Northwest Reaches, find all 17 Bowser posters on the building walls.
+2. Hit each one with Cappy to tear it down. For the high ones, jump from a sand mound or cactus.
+3. Talk to the Tostarenan nearby once they're all gone.

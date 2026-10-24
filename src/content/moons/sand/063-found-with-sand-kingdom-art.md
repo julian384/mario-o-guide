@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the Hint Art on a building on the east side of Tostarena Town.
+2. It shows the area outside the Crazy Cap shop in Bowser's Kingdom.
+3. Go there and ground pound the floor tile three tiles from the checkpoint and six from the shop entrance.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Strange Neighborhood area, find a row of three blocks.
+2. Jump above them to hit a hidden block.
+3. Climb onto it and grab the moon.

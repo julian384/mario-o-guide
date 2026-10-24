@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. After beating Knucklotec, find the smaller hole in the desert and drop in.
+2. You land in Knucklotec's old arena, where Chinchos appear.
+3. Defeat the glowing Chincho to get the moon.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the base of the Inverted Pyramid, talk to the Tostarenan who lost his sheep.
+2. Find all three sheep in the area.
+3. Push each sheep back to him by walking into it.

@@ -10,6 +10,9 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the top of the Round Tower, ride the moving platforms to the Moe-Eye Habitat.
+2. Collect the five Moon Shards scattered around the habitat.
+
+**Tip:** Capture a Moe-Eye if you can't see a path. Its sunglasses reveal hidden platforms.

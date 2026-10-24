@@ -10,6 +10,8 @@ tags: [tourist]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Talk to the Tostarenan traveler in Tostarena Town to start his trip.
+2. Find him and talk to him in the Metro, Cascade, Luncheon, Moon and Mushroom Kingdoms in that order.
+3. Return to Tostarena Town and talk to him once more.

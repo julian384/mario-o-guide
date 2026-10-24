@@ -7,9 +7,10 @@ multi: false
 location: "Southernmost islet, poison swamp near Jaxi Ruins"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Jaxi"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Ride a Jaxi into the poison swamp around the Jaxi Ruins.
+2. Head for the southernmost little island and grab the moon.

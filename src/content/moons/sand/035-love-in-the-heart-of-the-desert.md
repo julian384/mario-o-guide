@@ -7,9 +7,11 @@ multi: false
 location: "Goombette near Tostarena Ruins Entrance"
 unlock: "Available after \"The Hole in the Desert\""
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Tostarena Ruins Entrance, capture one of the four Goombas.
+2. Jump onto the others to build a tower of four.
+3. Take the tower to Goombette, who is near the hat trampoline.

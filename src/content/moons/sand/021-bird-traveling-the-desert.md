@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Watch for the big bird flying circles over the Sand Kingdom.
+2. Wait for it to pass low over the Desert Oasis and throw Cappy at it.

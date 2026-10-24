@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Enter the 8-bit mural on the Round Tower.
+2. At the last moving platform, go left instead of continuing on.
+3. Drop into the hidden alcove there.

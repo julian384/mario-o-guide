@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the dog in front of the Crazy Cap shop.
+2. Follow it across the desert to the side of a dune, where it digs up a glowing spot.
+3. Ground pound the spot.

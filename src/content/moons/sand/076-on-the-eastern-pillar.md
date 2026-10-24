@@ -7,9 +7,13 @@ multi: false
 location: "Easternmost pillar, sealed in stone block"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Bullet Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. The moon is sealed in a stone block on the easternmost pillar.
+2. Lure a Bullet Bill toward the pillars between the Tostarena Ruins and the Jaxi Ruins, then capture it.
+3. Fly it into the block before it explodes.
+
+**Tip:** Shaking the controller while flying extends the Bullet Bill's range. Letting it fly most of the way before capturing it also helps.

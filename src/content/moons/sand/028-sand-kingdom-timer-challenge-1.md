@@ -10,6 +10,8 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Tostarena Northwest Reaches, get onto the roof of the big building. Climb through it or ride the spark pylons.
+2. Throw Cappy onto the scarecrow on the roof.
+3. Climb the blocks that appear and grab the moon before it vanishes.

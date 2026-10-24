@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the western Tostarena Ruins, find the moon sitting in the downhill sand flow.
+2. You slide back down if you walk up the flow. Instead, ride the moving lifts above it.
+3. Drop off the lift straight onto the moon.

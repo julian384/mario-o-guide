@@ -7,9 +7,11 @@ multi: false
 location: "Secret area north of Moe-Eye Habitat"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Moe-Eye"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. North of the Moe-Eye Habitat, go through the door to a secret area.
+2. Capture a Moe-Eye to see the invisible platforms.
+3. Cross all three rooms to reach the moon.

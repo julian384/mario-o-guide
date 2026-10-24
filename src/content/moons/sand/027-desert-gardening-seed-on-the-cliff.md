@@ -10,6 +10,10 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. South of the Moe-Eye Habitat, find the seed on a low cliff ledge.
+2. Carry it to the flower pots in Tostarena Town and plant it.
+3. Come back after about 30 minutes.
+
+**Tip:** Plant all three seeds at once so you only wait once.

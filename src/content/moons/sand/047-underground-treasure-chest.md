@@ -7,9 +7,11 @@ multi: false
 location: "Hidden chest behind wall, Underground Temple"
 unlock: "Available after \"Showdown on the Inverted Pyramid\""
 tags: []
-captures: []
+captures: ["Bullet Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Underground Temple below the pyramid, capture a Bullet Bill from the first Bill Blaster.
+2. Fly over to the far side of the wall on the right.
+3. Walk along the top of that wall to a hidden treasure chest.

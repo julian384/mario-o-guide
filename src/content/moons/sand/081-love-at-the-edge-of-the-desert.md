@@ -7,9 +7,11 @@ multi: false
 location: "Goombette, northwest of Tostarena Ruins"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture a Goomba at the Tostarena Ruins Entrance.
+2. Walk it around the ruins to the northwest edge of the desert, near the Northwest Reaches.
+3. Walk up to Goombette as the Goomba.

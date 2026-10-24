@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the "Overlooking the Desert Town" moon, take the Warp Pipe into a secret room.
+2. Walk around and feel for where the controller rumbles most.
+3. Ground pound that spot.

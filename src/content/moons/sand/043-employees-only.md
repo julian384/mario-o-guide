@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the left side of Tostarena Town, find a small gap in the wall.
+2. Crouch and crawl in to reach the back room of the Crazy Cap shop.

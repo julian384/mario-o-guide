@@ -7,9 +7,11 @@ multi: false
 location: "Poison tunnel end, Freezing Waterway side-scroller"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Gushen"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Freezing Waterway, capture a Gushen.
+2. Use the first moving platform to fly higher, then head left into a long poison tunnel.
+3. Jet through to the end for the moon. Another Gushen there takes you back.
