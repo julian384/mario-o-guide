@@ -10,6 +10,7 @@ tags: [timer-challenge]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Forest Charging Station, throw Cappy onto the scarecrow on the left-hand charging station.
+2. Jump up the platforms that appear and grab the moon before it vanishes.

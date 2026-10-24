@@ -7,9 +7,11 @@ multi: false
 location: "Sherm on lower cliff; destroy dirt rock near Odyssey"
 unlock: "Available after Defend the Secret Flower Field!"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Sherm"]
+checkpoint: "Summit Path"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Summit Path checkpoint, capture the Sherm on the lower cliff platform.
+2. Drive it back toward the Odyssey and find the dirt rock.
+3. Shoot the rock to break it.

@@ -7,9 +7,10 @@ multi: false
 location: "Bring captured Uproot to Bonneter biologist on northern tower"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture an Uproot.
+2. Carry it to the Bonneter biologist on the northernmost tower.

@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the sheep area, find a Warp Pipe in a hidden alcove near the pen.
+2. Hit the P Switch in the room it leads to.
+3. Push the second sheep back to the same pen before the switch runs out.

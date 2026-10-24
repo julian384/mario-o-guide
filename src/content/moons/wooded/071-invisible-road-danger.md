@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe to the left of the Secret Flower Field entrance.
+2. Cross the invisible path, avoiding the Poison Piranha Plants.
+3. Defeat the three Big Poison Piranha Plants at the end.

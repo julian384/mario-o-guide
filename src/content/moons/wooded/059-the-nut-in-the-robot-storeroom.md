@@ -7,9 +7,10 @@ multi: false
 location: "Nut above storeroom entrance and two Volbonan tourists"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go into the storeroom where the Steam Gardeners rest.
+2. As an Uproot, stretch up to the nut above the entrance and break it.

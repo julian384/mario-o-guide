@@ -7,9 +7,11 @@ multi: false
 location: "Goomba Tower reaches Goombette near charging station"
 unlock: "Available after Flower Thieves of Sky Garden"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Forest Charging Station, capture a Goomba in the field.
+2. Stack the other Goombas into a tower.
+3. Walk the tower up to Goombette on her high platform.

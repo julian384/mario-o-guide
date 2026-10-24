@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to where you got "Road to Sky Garden".
+2. Look below it for a hidden iron path and follow it to the dead end.
+3. Break the nut there.

@@ -8,8 +8,9 @@ location: "Hidden door top-right of sloped ramp at Summit Path"
 unlock: "Available after Flower Thieves of Sky Garden"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Summit Path"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Summit Path checkpoint, find the hidden door at the top right of the large sloped ramp.
+2. Ride the elevators to the end of the area.

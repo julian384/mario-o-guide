@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the south end of the Deep Woods, take the Warp Pipe coming out of a big tree.
+2. Open the three chests in this order: middle, left, right.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the foggy Mini Rocket area, go to the north side.
+2. Break the nut hidden behind an iron platform.

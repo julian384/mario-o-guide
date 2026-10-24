@@ -8,8 +8,10 @@ location: "Defeat Fire Bro in cave behind scarecrow door"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Iron Road: Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Iron Road Entrance checkpoint, slip through the gap in the iron bars on the left.
+2. Throw Cappy at the scarecrow to open the cave door.
+3. Defeat the Fire Bro inside.

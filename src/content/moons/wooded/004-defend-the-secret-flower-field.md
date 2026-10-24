@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Enter the Secret Flower Field.
+2. Defeat Torkdrift, the robot guarding the field.

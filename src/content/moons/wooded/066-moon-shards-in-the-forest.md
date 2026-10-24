@@ -8,8 +8,9 @@ location: "Collect five Moon Shards in Iron Road maze"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Iron Road: Halfway Point"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect the five Moon Shards hidden around the red iron maze on the Iron Road.
+2. The moon appears next to the Halfway Point checkpoint flag.

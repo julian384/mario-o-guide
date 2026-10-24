@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Invisible Road area, go to the invisible spinning platform.
+2. Find a hidden platform off to the side with a small alcove.
+3. Open the treasure chest inside.

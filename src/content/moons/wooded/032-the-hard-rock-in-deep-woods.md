@@ -7,9 +7,11 @@ multi: false
 location: "Lure T-Rex, capture it, break southeastern rock"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["T-Rex"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Knock out the T-Rex against a wall and capture it.
+2. Walk it to the southeast corner, right of where the river ends, and smash the big rock.
+3. Ground pound the glowing spot underneath.

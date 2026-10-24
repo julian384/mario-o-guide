@@ -7,9 +7,11 @@ multi: false
 location: "Uproot breaks Rock Blocks near Station 8, 2D area"
 unlock: "Intended after Flower Thieves; skilled jumps work earlier"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Uproot"]
+checkpoint: "Iron Mountain Path: Station 8"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Station 8 checkpoint on the Iron Mountain Path, drop to a low platform with an Uproot and some Rock Blocks.
+2. As the Uproot, smash the Rock Blocks in the corner to uncover an 8-bit pipe.
+3. Go through the 2D section to the end.

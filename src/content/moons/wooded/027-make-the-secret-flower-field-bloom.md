@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Secret Flower Field, find the three groups of closed flowers.
+2. Throw Cappy at each group in quick succession so all three are blooming at once.

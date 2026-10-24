@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the Secret Flower Field gate on the west side and grab the golden pole.
+2. Drop to the crumbling walkway, long jump to the red pole and swing from pole to pole.
+3. Land on the brick blocks. Take the key, or hit the P Switch for a flower road, to reach the moon on the east side of the gate.

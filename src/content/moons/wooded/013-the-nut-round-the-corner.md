@@ -8,8 +8,9 @@ location: "Hidden iron path near Talkatoo; destroy nut"
 unlock: "Available from the start"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Iron Road: Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Before reaching the Iron Road Entrance checkpoint, look near Talkatoo for a hidden iron path.
+2. Follow it around the corner to the nut and break it.

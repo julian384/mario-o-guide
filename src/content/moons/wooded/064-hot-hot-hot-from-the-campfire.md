@@ -7,9 +7,10 @@ multi: false
 location: "Capture Fire Bro to light Volbonan campfire near Talkatoo"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Fire Bro"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the lake where Talkatoo is, find the Volbonan tourist with an unlit pile of firewood.
+2. Capture a Fire Bro and throw a fireball at the wood.

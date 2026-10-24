@@ -8,8 +8,9 @@ location: "Hidden path behind cliff wall near Summit Path"
 unlock: "Intended after Flower Thieves; skilled jumps work earlier"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Summit Path"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Summit Path checkpoint, look around the back of the cliff wall for a hidden path.
+2. Follow it to the nut and break it.

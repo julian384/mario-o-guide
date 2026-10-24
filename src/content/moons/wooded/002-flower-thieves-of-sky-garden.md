@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb the Sky Garden Tower to the top.
+2. Defeat Spewart. Clear the poison he spits with Cappy, then knock his hat off and jump on him.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Follow the Iron Road up through the red iron maze toward the Sky Garden.
+2. At the end, defeat the Big Poison Piranha Plant guarding the moon.

@@ -7,9 +7,10 @@ multi: false
 location: "Uproot stretches to nut above brick blocks on Iron Road"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the Iron Road near the red maze, find three gray brick blocks with a nut high above them.
+2. As an Uproot, stretch up onto the blocks, then stretch again to the nut.

@@ -7,9 +7,11 @@ multi: false
 location: "Destroy entrance cannon using nearby Sherms"
 unlock: "Available after Flower Thieves of Sky Garden"
 tags: []
-captures: []
+captures: ["Sherm"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the Secret Flower Field entrance, which is blocked by a cannon.
+2. Capture one of the Sherms nearby.
+3. Shoot the cannon until it breaks.

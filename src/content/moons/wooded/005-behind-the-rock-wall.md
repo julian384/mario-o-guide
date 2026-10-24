@@ -7,9 +7,10 @@ multi: false
 location: "Sherm breaks rock wall near Summit Path checkpoint"
 unlock: "Available after Flower Thieves of Sky Garden"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Sherm"]
+checkpoint: "Summit Path"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Summit Path checkpoint, find the Sherm next to a rock wall.
+2. Capture it and shoot the top-left corner of the wall.

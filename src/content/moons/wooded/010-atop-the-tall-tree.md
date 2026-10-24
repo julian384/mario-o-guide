@@ -7,9 +7,10 @@ multi: false
 location: "Uproot climbs southeastern tall tree; destroy nut"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the southeast corner of the kingdom, capture the Uproot by the tall tree.
+2. Stretch up the tree and smash the nut at the top.

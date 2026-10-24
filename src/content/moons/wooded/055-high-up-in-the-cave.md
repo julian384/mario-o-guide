@@ -7,9 +7,10 @@ multi: false
 location: "Cave linking woods to Steam Gardens; high ledge"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go into the small cave that links the woods to Steam Gardens.
+2. The moon is high up. Stretch to it as an Uproot, or reach it with a ground pound jump or dive jump.

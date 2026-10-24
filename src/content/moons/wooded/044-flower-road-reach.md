@@ -7,9 +7,10 @@ multi: false
 location: "Goomba Tower reaches high iron platform moon"
 unlock: "Intended after Flower Thieves; skilled jumps work earlier"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Flower Road Run area, capture a Goomba and build a Goomba Tower.
+2. Use the tower to reach the moon on a high iron platform.

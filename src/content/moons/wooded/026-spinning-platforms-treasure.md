@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Secret Flower Field, look off the eastern cliff edge to spot hidden iron platforms below.
+2. Drop down and cross the spinning platforms to a Warp Pipe.
+3. Take the pipe to a secret room with the moon.

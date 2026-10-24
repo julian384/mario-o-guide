@@ -7,9 +7,11 @@ multi: false
 location: "Uproot climbs Hidden Blocks to high nut under deck"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go under the northeast corner of the Observation Deck as an Uproot.
+2. Find the row of four hidden blocks against the wall and stand on them.
+3. Stretch up from there to the nut.

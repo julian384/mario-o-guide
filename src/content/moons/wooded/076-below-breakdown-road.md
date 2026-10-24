@@ -7,9 +7,11 @@ multi: false
 location: "Capture Banzai Bill below; fly into breakable wall"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Banzai Bill"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the end of Breakdown Road, drop to the lower level.
+2. Capture the Banzai Bill.
+3. Fly back toward the start and crash into the wall of breakable blocks hiding the moon.

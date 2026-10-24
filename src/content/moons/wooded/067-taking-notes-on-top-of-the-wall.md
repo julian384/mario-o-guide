@@ -10,6 +10,8 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the southeast part of the stone wall around the southern forest.
+2. Grab the rainbow treble clef. The notes run along the wall back to where the Odyssey landed.
+3. Roll along the trail to collect them in time, careful where it narrows near the end.

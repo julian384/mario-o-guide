@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Flooding Pipeway, watch for an opening in the ceiling.
+2. Jump up into it to find a small alcove with the moon.

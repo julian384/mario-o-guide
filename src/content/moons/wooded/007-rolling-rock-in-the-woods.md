@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Odyssey, find the rock sitting between four bushes.
+2. Throw Cappy at it to roll it until it breaks.

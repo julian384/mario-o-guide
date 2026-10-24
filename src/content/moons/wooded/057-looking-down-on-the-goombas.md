@@ -7,9 +7,10 @@ multi: false
 location: "Glydon flies to nut on iron wall near Goombette"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Glydon"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the Glydon and glide west to the top of the tall iron wall near Goombette.
+2. Break the nut on top of the wall.

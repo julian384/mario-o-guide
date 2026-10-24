@@ -7,9 +7,11 @@ multi: false
 location: "Capture pine tree on eastern wall; ground pound glow"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Tree"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Along the east wall of the Deep Woods, find the small pine tree you can capture.
+2. Capture it and walk it aside.
+3. Release it and ground pound the glowing spot it was standing on.

@@ -7,9 +7,11 @@ multi: false
 location: "Treble clef below Iron Cage; stretch as Uproot"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: [music-notes]
-captures: []
+captures: ["Uproot"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Along the north wall below the Iron Cage, find the rainbow treble clef.
+2. Capture an Uproot before you grab it.
+3. Stretch up to collect the V-shaped trail of notes, then stretch to the moon.

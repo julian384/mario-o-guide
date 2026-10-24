@@ -7,9 +7,10 @@ multi: false
 location: "Sherm shoots hidden rock on back wall"
 unlock: "Available after Flower Thieves of Sky Garden"
 tags: []
-captures: []
+captures: ["Sherm"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the start of the Elevator Escalation area, capture the Sherm.
+2. Shoot the hidden rock on the back wall.

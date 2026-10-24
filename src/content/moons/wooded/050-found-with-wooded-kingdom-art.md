@@ -10,6 +10,8 @@ tags: [hint-art]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Odyssey, look at the Hint Art of the Trace-Walking Koopa from the Sand Kingdom, with two bushes north of where you stand.
+2. In the Sand Kingdom, find those two bushes near the Trace-Walking Koopa.
+3. Ground pound beside them.

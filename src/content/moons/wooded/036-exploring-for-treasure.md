@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Wear the Explorer Hat and Explorer Outfit.
+2. At the north end of the Deep Woods, where the river starts, the Steam Gardener lets you through the locked door.
+3. Open the treasure chest in the middle of the room.

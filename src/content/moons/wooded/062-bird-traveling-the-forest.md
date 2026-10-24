@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Watch for the bluebird circling the Iron Road, Sky Garden Tower and Forest Charging Station.
+2. Wait where it flies lowest and throw Cappy at it.

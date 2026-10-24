@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the Secret Flower Field entrance, wake the Steam Gardener to get a seed.
+2. Carry the seed to the big pot on the Observation Deck. A beanstalk grows into the clouds.
+3. Reach the end of the cloud area.
