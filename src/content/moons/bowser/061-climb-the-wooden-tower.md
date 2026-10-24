@@ -7,9 +7,11 @@ multi: false
 location: "Moon Pipe on distant right building, Pokio up tower"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Use a Hat Catapult to reach the far building on the right side of the Main Courtyard.
+2. Take the Moon Pipe and capture a Pokio.
+3. Poke your way up the tower walls, including the rotating ones, to the moon.

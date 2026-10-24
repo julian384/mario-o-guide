@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the folding screen area, find the rainbow treble clef on the third screen.
+2. Collect all the notes before they disappear.

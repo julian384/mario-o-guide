@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Look for the small glowing bird on a building near the start of the kingdom.
+2. Hit it with Cappy before it flies off.

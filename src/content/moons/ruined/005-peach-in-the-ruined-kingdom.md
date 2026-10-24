@@ -10,6 +10,7 @@ tags: [peach]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make sure you have talked to the Toad outside Peach's Castle in the Mushroom Kingdom.
+2. On the battlefield, talk to Peach to the right of the dragon.

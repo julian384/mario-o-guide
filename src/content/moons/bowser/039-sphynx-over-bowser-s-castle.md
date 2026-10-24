@@ -7,9 +7,10 @@ multi: false
 location: "Binoculars at Main Courtyard, zoom on flying Sphynx"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: []
-captures: []
+captures: ["Binoculars"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Capture the binoculars in the Main Courtyard.
+2. Zoom in on the Sphynx flying over the kingdom.

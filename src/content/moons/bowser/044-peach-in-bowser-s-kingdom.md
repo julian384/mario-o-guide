@@ -8,8 +8,9 @@ location: "Speak to Peach and Tiara at Souvenir Shop"
 unlock: "After defeating Bowser and talking to Toad outside Peach's Castle"
 tags: [peach]
 captures: []
-checkpoint: null
+checkpoint: "Souvenir Shop"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Make sure you have talked to the Toad outside Peach's Castle in the Mushroom Kingdom.
+2. Talk to Peach at the Souvenir Shop.

@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Climb to the top of the keep, where Bowser takes Peach again.
+2. Defeat the RoboBrood for a Multi Moon.

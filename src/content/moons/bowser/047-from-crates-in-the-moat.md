@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Main Courtyard, dive into the pool on the right.
+2. Break the pile of crates under the water. One holds the moon.

@@ -7,9 +7,10 @@ multi: false
 location: "Defeat three Stairface Ogres on distant island via spark pylon"
 unlock: "After Smart Bombing"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Spark pylon"]
+checkpoint: "Main Courtyard Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Main Courtyard Entrance checkpoint, ride the spark pylon on the roof of the right-hand building to a far island.
+2. Defeat all three Stairface Ogres there.

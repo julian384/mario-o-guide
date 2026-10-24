@@ -8,8 +8,9 @@ location: "Defeat Yoofoe in Topper's arena at Main Courtyard Entrance"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Courtyard Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the arena at the Main Courtyard Entrance where you fought Topper.
+2. Defeat the Yoofoe there.

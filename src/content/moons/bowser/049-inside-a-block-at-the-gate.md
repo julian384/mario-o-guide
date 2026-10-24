@@ -7,9 +7,10 @@ multi: false
 location: "Firework bomb into metal box beside Main Courtyard checkpoint"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Pokio"]
+checkpoint: "Main Courtyard"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Main Courtyard, capture a Pokio.
+2. Poke a firework bomb into the metal box next to the checkpoint.

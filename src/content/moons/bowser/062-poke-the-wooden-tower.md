@@ -7,9 +7,10 @@ multi: false
 location: "Crates behind first wall in Wooden Tower area"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the wooden tower area, go behind the first wall.
+2. Poke open the hidden crates. One has the moon.

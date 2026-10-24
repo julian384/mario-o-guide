@@ -7,9 +7,10 @@ multi: false
 location: "Build 10-Goomba stack, press numbered Goomba button by building"
 unlock: "Available from the start"
 tags: []
-captures: []
+captures: ["Goomba"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Near the start of the kingdom, capture a Goomba and build a stack of 10.
+2. Take it to the side of the building and press the Goomba button marked "10".

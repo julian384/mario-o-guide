@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the end of the Third Courtyard (Rear), jump onto the roof and go to the far right.
+2. On a lower platform, grab the rainbow treble clef and collect every note in time.

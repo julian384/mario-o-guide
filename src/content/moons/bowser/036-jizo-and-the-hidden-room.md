@@ -7,9 +7,10 @@ multi: false
 location: "Jizos on P Switches, find alcove near exit wall"
 unlock: "After Showdown at Bowser's Castle"
 tags: []
-captures: []
+captures: ["Jizo"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Jizo puzzle area, leave Jizos sitting on the two P Switches near the high platform and the one behind the entrance pipe.
+2. Check the hidden alcove in the wall near the exit.

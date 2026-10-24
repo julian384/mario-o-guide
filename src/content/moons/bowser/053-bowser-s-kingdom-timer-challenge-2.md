@@ -8,8 +8,9 @@ location: "Cappy onto scarecrow on right building, grab key in time"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: [timer-challenge]
 captures: []
-checkpoint: null
+checkpoint: "Beneath the Keep"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On the right-hand building near the Beneath the Keep checkpoint, throw Cappy onto the scarecrow.
+2. Grab the key and get it to the moon before time runs out.

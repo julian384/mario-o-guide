@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the iron fence behind the Odyssey.
+2. Throw Cappy onto one of the small Bowser heads on the fence and let him spin.

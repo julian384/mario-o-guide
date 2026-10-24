@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Moon Pipe area, wait until the Chinchos start appearing.
+2. Go back to the start of the area, where a sparkling Chincho shows up.
+3. Defeat it for the moon.

@@ -10,6 +10,7 @@ tags: [music-notes]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Third Courtyard (Rear), grab the rainbow treble clef.
+2. Collect every note before they disappear, watching out for the Spinies.

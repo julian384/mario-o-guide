@@ -7,9 +7,10 @@ multi: false
 location: "Hidden spark pylon right of Second Courtyard leads to key"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Spark pylon"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Second Courtyard, find the hidden spark pylon on the right.
+2. Ride it to a key and bring the key back to the moon.

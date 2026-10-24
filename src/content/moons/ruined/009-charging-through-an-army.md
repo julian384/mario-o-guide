@@ -7,9 +7,10 @@ multi: false
 location: "Moon Pipe by Odyssey; capture Chargin' Chuck to free cage"
 unlock: "After opening the kingdom's Moon Rock"
 tags: []
-captures: []
+captures: ["Chargin' Chuck"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Take the Moon Pipe next to the Odyssey.
+2. Capture a Chargin' Chuck and charge through the cage to reach the moon.

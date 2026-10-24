@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Find the loose rock on the battlefield.
+2. Throw it 50 times, or knock it into the other rock near the Ruined Dragon.

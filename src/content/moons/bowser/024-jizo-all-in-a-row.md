@@ -7,9 +7,10 @@ multi: false
 location: "Place Jizo among five stationary Jizos at Souvenir Shop"
 unlock: "After Smart Bombing"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Jizo"]
+checkpoint: "Souvenir Shop"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Souvenir Shop checkpoint, capture a Jizo.
+2. Hop it into the gap in the row of five Jizos on the right.

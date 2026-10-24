@@ -7,9 +7,11 @@ multi: false
 location: "Cracked floor at Souvenir Shop leads to room; place Jizo"
 unlock: "After Smart Bombing"
 tags: []
-captures: []
-checkpoint: null
+captures: ["Jizo"]
+checkpoint: "Souvenir Shop"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the Souvenir Shop checkpoint, capture a Jizo and go right to a cracked floor.
+2. Ground pound through it into a hidden room.
+3. Place the Jizo between the two Jizos on the right.

@@ -8,8 +8,9 @@ location: "Throw Cappy behind framed sign on rooftop near Beneath the Keep"
 unlock: "After Big Broodal Battle"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Beneath the Keep"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. On a rooftop near the Beneath the Keep checkpoint, find the frame with Japanese writing.
+2. Throw Cappy at the back of it to knock it down.

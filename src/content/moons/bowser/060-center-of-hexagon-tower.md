@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the hexagon tower area, find the key in an alcove at the bottom of the tower.
+2. Grab it, then climb to the top where the moon appears.

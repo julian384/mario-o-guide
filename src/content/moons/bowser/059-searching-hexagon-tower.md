@@ -10,6 +10,8 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Use a Hat Catapult to reach the far building on the left side of the Main Courtyard.
+2. Take the Moon Pipe.
+3. Collect the five Moon Shards in the hexagon tower, avoiding the Parabones.

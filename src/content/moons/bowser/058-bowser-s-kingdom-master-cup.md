@@ -8,8 +8,10 @@ location: "Win Koopa Freerunning race beneath the Keep"
 unlock: "After opening Moon Rock and collecting the Regular Cup moon"
 tags: [koopa-race]
 captures: []
-checkpoint: null
+checkpoint: "Beneath the Keep"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Collect the Regular Cup moon first.
+2. Talk to the Koopa Troopa at Beneath the Keep again and enter the Master Cup.
+3. Beat the faster racers to the finish.

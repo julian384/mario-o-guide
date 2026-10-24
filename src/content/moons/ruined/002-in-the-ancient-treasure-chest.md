@@ -10,6 +10,7 @@ tags: []
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Left of the stairs up to the spark pylon, find a ledge you can hang from.
+2. Shimmy along it to the treasure chest at the end.

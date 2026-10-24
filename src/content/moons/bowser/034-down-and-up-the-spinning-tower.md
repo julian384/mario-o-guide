@@ -7,9 +7,10 @@ multi: false
 location: "Get key from bottom alcove of spinning tower, return to top"
 unlock: "After Showdown at Bowser's Castle"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the spinning tower area, drop to a hidden alcove at the bottom and grab the key.
+2. Climb all the way back up to the moon.

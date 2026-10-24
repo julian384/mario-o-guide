@@ -8,8 +8,9 @@ location: "Defeat Hariet and Topper at Main Courtyard Entrance"
 unlock: "After Smart Bombing"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Courtyard Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to the Main Courtyard Entrance.
+2. Defeat both Hariet and Topper.

@@ -8,8 +8,9 @@ location: "Talk to Captain Toad on far right roof at Outer Wall"
 unlock: "After Big Broodal Battle"
 tags: [captain-toad]
 captures: []
-checkpoint: null
+checkpoint: "Outer Wall"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. From the Outer Wall checkpoint, go to the roof on the far right.
+2. Talk to Captain Toad.

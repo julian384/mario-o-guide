@@ -7,9 +7,10 @@ multi: false
 location: "Narrow path left side of Dashing Above the Clouds area"
 unlock: "After Big Broodal Battle"
 tags: []
-captures: []
+captures: ["Rocket Flower"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the cloud area at the top of the beanstalk, look for a narrow path on the left.
+2. Follow it to the moon.

@@ -8,8 +8,9 @@ location: "Win Koopa Freerunning race beneath the Keep"
 unlock: "Available after defeating Bowser in the Moon Kingdom"
 tags: [koopa-race]
 captures: []
-checkpoint: null
+checkpoint: "Beneath the Keep"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Go to Beneath the Keep.
+2. Talk to the Koopa Troopa to enter Koopa Freerunning and finish first.

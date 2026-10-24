@@ -7,9 +7,11 @@ multi: false
 location: "Pokio poke hole in wall at end of Third Courtyard (Rear)"
 unlock: "After Infiltrate Bowser's Castle!"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the end of the Third Courtyard (Rear), go along the roof on the left to the far right.
+2. Capture the Pokio on the lower level.
+3. Poke the small hole in the middle of the wall.

@@ -7,9 +7,11 @@ multi: false
 location: "Firework bomb into metal boxes, poke hole at Second Courtyard end"
 unlock: "After Infiltrate Bowser's Castle!"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. At the end of the Second Courtyard, capture a Pokio.
+2. Poke a firework bomb into the two metal boxes on the left to break them.
+3. Poke the small hole hidden behind them.

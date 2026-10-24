@@ -10,6 +10,7 @@ tags: [secret-path]
 captures: []
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Cascade Kingdom, find the painting in an alcove beneath the big waterfall.
+2. Jump in to land on top of the Island in the Sky, next to the moon.

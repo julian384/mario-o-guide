@@ -8,8 +8,9 @@ location: "Cross flags left of Main Courtyard Entrance for key"
 unlock: "Available after opening the kingdom's Moon Rock"
 tags: []
 captures: []
-checkpoint: null
+checkpoint: "Main Courtyard Entrance"
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. Behind the Main Courtyard Entrance checkpoint, climb and jump along the line of flags to the left.
+2. Grab the key at the end and bring it back to the moon.

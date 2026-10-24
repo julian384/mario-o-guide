@@ -7,9 +7,11 @@ multi: false
 location: "Poke hidden walls left of Second Courtyard using Pokio"
 unlock: "After Infiltrate Bowser's Castle!"
 tags: []
-captures: []
+captures: ["Pokio"]
 checkpoint: null
 difficulty: null
-written: false
+written: true
 ---
-This guide hasn't been written yet. The location note above should get you close.
+1. In the Second Courtyard, capture a Pokio and go a short way left.
+2. Drop off the side to a hidden wall.
+3. Keep poking your way left until you reach a hidden area with the moon.
